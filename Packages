@@ -12,3 +12,16 @@ SHA1sum: bd54d3a47d955c5af47aa290c5a651db3e85e08b
 SHA256sum: 1cbd18cd0c4f551a845d36ad56de50216d0ee5758848a2c845bb6597425e9d18
 Filename: debs//com.iamgasgass.iamosxs_9.7x4.1c0_iphoneos-arm.deb
 
+Package: com.iamgasgass.njsdesign
+Name: NJ.'sdesign
+Version: 0.3.1x
+Size: 6932136
+Architecture: iphoneos-arm
+Description: A fantastic theme colorized and adapted for iOSxx.x ENJOY
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Themes
+MD5sum: b3d819325c31c6b286dba8121f5c243d
+SHA1sum: d9eade6307be4e7497bd23b25b24ac3226d42d34
+SHA256sum: 911da3643ebf38a722134d740fcbfe5155226607ea9f30aa7e9620a1f09c564a
+Filename: debs//NJ's.deb
