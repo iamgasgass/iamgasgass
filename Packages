@@ -7,9 +7,9 @@ Description: A fantastic theme based on macOS X up and adapted for iOSxx.x ENJOY
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Themes
-MD5sum: b36a615e40e011b5599e090efe56cc88
-SHA1sum: bd54d3a47d955c5af47aa290c5a651db3e85e08b
-SHA256sum: 1cbd18cd0c4f551a845d36ad56de50216d0ee5758848a2c845bb6597425e9d18
+MD5sum: f3f238fc1fbf067f97411893c214f05d
+SHA1sum: 8c4bed24e70ad75fd6f55860978df6ffe3eae3ce
+SHA256sum: 1b1620ad480e26d5354d248e92ce8927156babc4a8d042977e8f27426c9279f8
 Filename: debs//com.iamgasgass.iamosxs_9.7x4.1c0_iphoneos-arm.deb
 
 Package: com.iamgasgass.njsdesign
