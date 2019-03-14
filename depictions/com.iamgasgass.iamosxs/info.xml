@@ -1,0 +1,46 @@
+<package>
+	<id>com.iamgasgass.iamosxs</id>
+	<name>iamOSXS</name>
+	<version>0.0.9.7x4</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.spark.snowboard</package>
+		<package>com.anemonetheming.anemone</package>
+	</dependencies>
+	<shortDescription>This is a themes for iOS based on macOSX. Firmware should be greater than 8.0</shortDescription>
+	<descriptionlist>
+		<description>This is an package for iOS8 up 12</description>
+		<description>It's compatible with SnowBoard and Anemone!</description>
+		<description><![CDATA[
+		ENJOY<br/> 
+		Donate me. <url>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=nick1710%40live.it&lc=it_IT&item_name=Private%20source</url>
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>It's iamOSXS running on arabic iPhoneX!</description>
+			<image>yourepo1.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>It's iamOSXS running on arabic iPhoneX!</description>
+			<image>yourepo2.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Second release</change>
+		<change>Add more icons.</change>
+		<change>Add more ALT icons.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Donate!</name>
+			<url>https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=nick1710%40live.it&lc=it_IT&item_name=Private%20source</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
