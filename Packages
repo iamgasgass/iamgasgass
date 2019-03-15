@@ -48,7 +48,7 @@ Architecture: iphoneos-arm
 Description: JellyFishAlt is a similar widget to JellyFish but this one is compatible with XwnHTML.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
-Section: Widgets
+Section: Widget
 MD5sum: 497b418764469be6bfb1df29c257c002
 SHA1sum: e0b25befa30f6eee7e646dc854955cee9b419f2d
 SHA256sum: fc9467507c44fbcc258849671ca1241ef9969538e59a15ade7320b3d8a38c98f
