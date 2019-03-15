@@ -25,3 +25,17 @@ MD5sum: b3d819325c31c6b286dba8121f5c243d
 SHA1sum: d9eade6307be4e7497bd23b25b24ac3226d42d34
 SHA256sum: 911da3643ebf38a722134d740fcbfe5155226607ea9f30aa7e9620a1f09c564a
 Filename: debs//com.iamgasgass.njsdesign.deb
+
+Package: com.iamgasgass.spotyhack
+Name: SpotyHack.
+Version: 0.1pwn
+Size: 59408
+Architecture: iphoneos-arm
+Description: A tweak to crack account of Spotify! ENJOY
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: bb6f1ceef461addb7c3a503b656380f7
+SHA1sum: 7542e05f372e13854c586fcd8b8780b7a0ba4a87
+SHA256sum: adc6b868ab8bcd6e0c984b706813c5140f812504c811631b4cbaee5b235fe35d
+Filename: debs//com.iamgasgass.spotyhack.deb
