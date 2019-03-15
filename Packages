@@ -12,6 +12,20 @@ SHA1sum: 8c4bed24e70ad75fd6f55860978df6ffe3eae3ce
 SHA256sum: 1b1620ad480e26d5354d248e92ce8927156babc4a8d042977e8f27426c9279f8
 Filename: debs//com.iamgasgass.iamosxs_9.7x4.1c0_iphoneos-arm.deb
 
+Package: com.iamgasgass.tupacrespring
+Name: TupacRespring
+Version: 0.0.9
+Size: 38688
+Architecture: iphoneos-arm
+Description: Theme your iDevice with an awesome 2Pac logo adapted for iOSxx.x. Compatible with anemone ENJOY
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Themes
+MD5sum: 79a994a5d5439d2f19000d2531ad5922
+SHA1sum: 1c65aa092f802aad8911ed2ec4f2eaea86b87753
+SHA256sum: 06f55b8fa31ea116b057605531a31da5990919990f8c9bd5d6b543f5c54630b5
+Filename: debs//com.iamgasgass.tupacrespring.deb
+
 Package: com.iamgasgass.njsdesign
 Name: NJ.'sdesign
 Version: 0.3.1x
