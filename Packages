@@ -143,7 +143,7 @@ Filename: debs//com.iamgasgass.classicfolders2_2x.k_iphoneos-arm.deb
 
 Package: com.iamgasgass.darkdunes
 Name: DarkDune's
-Version: 0.1.5.4a
+Version: 1.5.4a
 Size: 38116
 Architecture: iphoneos-arm
 Description: A free, open-source iOS DarkMode implement for notifications and widgets(3DTouch) 
