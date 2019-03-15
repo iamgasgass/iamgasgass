@@ -77,6 +77,7 @@ Description: Widget terminal using macOS X up style, use dynamic data!:)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Widget
+Depends: com.iamgasgass.resourcewidgetv3x
 MD5sum: e5b4d7c13901cb3ec1a2e69d8f46de9c
 SHA1sum: c9f380bd98ccb0b640e780fc3bf30bef73d95c4b
 SHA256sum: 2c23e3c54999d35bbe9077408bb2677efd3563ea3b3e30f00bfbeb2633da1df7
@@ -91,6 +92,7 @@ Description: New feature, increase performance and more!:)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Widget
+Depends: com.iamgasgass.weatheraccess
 MD5sum: 996a0fb6e110996606ba97899fed9e69
 SHA1sum: 6453ef02d3dbe9721e90ab1a53a2d73c86b0413b
 SHA256sum: 9c0c6c4b71a04f39e83dcc0347abae8a7070bd006030ba8847c0eb56591debbb
@@ -105,6 +107,7 @@ Description: Weather Access (forResourceWidgetv3)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Widget
+Depends: com.iamgasgass.resourcewidgetv3x
 MD5sum: 37141ef8f5d30ec8790111034d42ccb8
 SHA1sum: b275d2fb8a2b279be3046c73299ffd16e5987b46
 SHA256sum: 470588b9fcef4cb33e472cc0add538c0c60cb55fb3cd5a8d03d290e57570b5fd
