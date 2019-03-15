@@ -82,20 +82,6 @@ SHA1sum: c9f380bd98ccb0b640e780fc3bf30bef73d95c4b
 SHA256sum: 2c23e3c54999d35bbe9077408bb2677efd3563ea3b3e30f00bfbeb2633da1df7
 Filename: debs//com.iamgasgass.termiusxs_1.1.2_iphoneos-arm.deb
 
-Package: com.iamgasgass.termiusxs
-Name: TermiusXS
-Version: 1.1.2
-Size: 51614
-Architecture: iphoneos-arm
-Description: Widget terminal using macOS X up style, use dynamic data!:)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Widget
-MD5sum: e5b4d7c13901cb3ec1a2e69d8f46de9c
-SHA1sum: c9f380bd98ccb0b640e780fc3bf30bef73d95c4b
-SHA256sum: 2c23e3c54999d35bbe9077408bb2677efd3563ea3b3e30f00bfbeb2633da1df7
-Filename: debs//com.iamgasgass.termiusxs_1.1.2_iphoneos-arm.deb
-
 Package: com.iamgasgass.resourcewidgetv3x
 Name: ResourceWidgetV3.x
 Version: 3.x
