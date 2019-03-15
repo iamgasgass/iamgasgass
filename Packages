@@ -82,6 +82,34 @@ SHA1sum: 4860e9636d80aa64ebeeb70d062286f8dea57da4
 SHA256sum: fe589131f264909598273314c652bd6a144f479b5949abd7d8ac3b781d649e2b
 Filename: debs//com.iamgasgass.reportsig.deb
 
+Package: com.iamgasgass.classicswitcher3
+Name: ClassicSwitcher3
+Version: 0.3.5k
+Size: 2833386
+Architecture: iphoneos-arm
+Description: Bring back the classic app switcher(iOS6) with a modern twist. Thanks to JulioVerne for Hack. ENJOY
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 372869bdda98817d92dce74c7f87976c
+SHA1sum: 1cf999df89e181c0e354ffcd6fae9db4edfce229
+SHA256sum: 770425dcb528893c851c876003324cefd27062612ff62bbea370350e270063be
+Filename: debs//com.iamgasgass.classicswitcher3_3.5k_iphoneos-arm.deb
+
+Package: com.iamgasgass.classicfolders2
+Name: ClassicFolders2
+Version: 0.2x.k
+Size: 3121888
+Architecture: iphoneos-arm
+Description: Bring back the iOS6 folders view to iOS8-10! Thanks JulioVerne for Hack. ENJOY
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 3592e30353706e1adac40af2be3b6de2
+SHA1sum: f19948798765a18c9367244d53d98b25836b55c7
+SHA256sum: 18b871f9c7d7b72e1c5c4f6efc6db57358ca95191b63a7b11f40fd746817d025
+Filename: debs//com.iamgasgass.classicfolders2_2x.k_iphoneos-arm.deb
+
 Package: com.iamgasgass.spotihack
 Name: SpotiHack.
 Version: 0.0.pwn1
