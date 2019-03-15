@@ -40,6 +40,20 @@ SHA1sum: f78c718e00670ff5e87f2f8957dd588b8e1efedd
 SHA256sum: 6679d646cbadacf50e05b3fd6dddf15d5307344d6fbc3a927b2e9a6e2933abee
 Filename: debs//com.iamgasgass.njsdesign.deb
 
+Package: com.iamgasgass.jellyfishalt
+Name: JellyFishAlt
+Version: 1x
+Size: 98316
+Architecture: iphoneos-arm
+Description: JellyFishAlt is a similar widget to JellyFish but this one is compatible with XwnHTML.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Widgets
+MD5sum: 497b418764469be6bfb1df29c257c002
+SHA1sum: e0b25befa30f6eee7e646dc854955cee9b419f2d
+SHA256sum: fc9467507c44fbcc258849671ca1241ef9969538e59a15ade7320b3d8a38c98f
+Filename: debs//com.iamgasgass.jellyfishalt.deb
+
 Package: com.iamgasgass.spotihack
 Name: SpotiHack.
 Version: 0.0.pwn1
