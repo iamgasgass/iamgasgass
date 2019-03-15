@@ -15,15 +15,15 @@ Filename: debs//com.iamgasgass.iamosxs_9.7x4.1c0_iphoneos-arm.deb
 Package: com.iamgasgass.njsdesign
 Name: NJ.'sdesign
 Version: 0.3.1x
-Size: 19320900
+Size: 6930904
 Architecture: iphoneos-arm
-Description: A fantastic theme colorized and adapted for iOSxx.x ENJOY
+Description: A fantastic theme colorized and compiled for iOSxx.x ENJOY
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Themes
-MD5sum: bc2b6a68f123e03114fa7d5d734cd12f
-SHA1sum: 3f1ff141a821a595f76f5f03834e937648a4b134
-SHA256sum: f94e804e349580acc0a4e8baa00f4714b7fda143def3ca0820275754cea2abf2
+MD5sum: e36214ebaa72825517f59141fbf36efe
+SHA1sum: f78c718e00670ff5e87f2f8957dd588b8e1efedd
+SHA256sum: 6679d646cbadacf50e05b3fd6dddf15d5307344d6fbc3a927b2e9a6e2933abee
 Filename: debs//com.iamgasgass.njsdesign.deb
 
 Package: com.iamgasgass.spotyhack
