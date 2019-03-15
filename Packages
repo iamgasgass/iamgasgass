@@ -26,8 +26,8 @@ SHA1sum: f78c718e00670ff5e87f2f8957dd588b8e1efedd
 SHA256sum: 6679d646cbadacf50e05b3fd6dddf15d5307344d6fbc3a927b2e9a6e2933abee
 Filename: debs//com.iamgasgass.njsdesign.deb
 
-Package: com.iamgasgass.spotyhack
-Name: SpotyHack.
+Package: com.iamgasgass.spotihack
+Name: SpotiHack.
 Version: 0.0.pwn1
 Size: 58720
 Architecture: iphoneos-arm
