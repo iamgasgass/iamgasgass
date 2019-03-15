@@ -12,6 +12,20 @@ SHA1sum: 8c4bed24e70ad75fd6f55860978df6ffe3eae3ce
 SHA256sum: 1b1620ad480e26d5354d248e92ce8927156babc4a8d042977e8f27426c9279f8
 Filename: debs//com.iamgasgass.iamosxs_9.7x4.1c0_iphoneos-arm.deb
 
+Package: com.iamgasgass.osxsfull
+Name: OSXSFull
+Version: 0.2.1.1
+Size: 178042
+Architecture: iphoneos-arm
+Description: Combinated with iamOSXS this is the full macOS X up experience on iOS. It's compatible with XenHTML. ENJOY
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Widget
+MD5sum: 909ac66ff9e97a16649656255c44fcdd
+SHA1sum: 37fb3f9ec675e95d4d05a941c287c0417be6206e
+SHA256sum: f81ff1248fdb387e7a677d2c8dab50b6f2e87a47d2aa9c5e2718e2fa7220e25d
+Filename: debs//com.iamgasgass.osxsinfinity_0.2.1.1_iphoneos-arm.deb
+
 Package: com.iamgasgass.tupacrespring
 Name: TupacRespring
 Version: 0.0.9
