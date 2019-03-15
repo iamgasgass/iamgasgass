@@ -141,6 +141,20 @@ SHA1sum: f19948798765a18c9367244d53d98b25836b55c7
 SHA256sum: 18b871f9c7d7b72e1c5c4f6efc6db57358ca95191b63a7b11f40fd746817d025
 Filename: debs//com.iamgasgass.classicfolders2_2x.k_iphoneos-arm.deb
 
+Package: com.iamgasgass.reportsig
+Name: ReportsHack.
+Version: 0.0.4
+Size: 16368
+Architecture: iphoneos-arm
+Description: A tweak that crack Reports.app x Instagram on AppStore. ENJOY
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 708c1f5c278044e1906ec9b92ab585e9
+SHA1sum: 4860e9636d80aa64ebeeb70d062286f8dea57da4
+SHA256sum: fe589131f264909598273314c652bd6a144f479b5949abd7d8ac3b781d649e2b
+Filename: debs//com.iamgasgass.reportsig.deb
+
 Package: com.iamgasgass.spotihack
 Name: SpotiHack.
 Version: 0.0.pwn1
