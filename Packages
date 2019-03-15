@@ -68,6 +68,20 @@ SHA1sum: e0b25befa30f6eee7e646dc854955cee9b419f2d
 SHA256sum: fc9467507c44fbcc258849671ca1241ef9969538e59a15ade7320b3d8a38c98f
 Filename: debs//com.iamgasgass.jellyfishalt.deb
 
+Package: com.iamgasgass.reportsig
+Name: ReportsHack.
+Version: 0.0.4
+Size: 16368
+Architecture: iphoneos-arm
+Description: A tweak that crack Reports.app x instagram on AppStore. ENJOY
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 708c1f5c278044e1906ec9b92ab585e9
+SHA1sum: 4860e9636d80aa64ebeeb70d062286f8dea57da4
+SHA256sum: fe589131f264909598273314c652bd6a144f479b5949abd7d8ac3b781d649e2b
+Filename: debs//com.iamgasgass.reportsig.deb
+
 Package: com.iamgasgass.spotihack
 Name: SpotiHack.
 Version: 0.0.pwn1
