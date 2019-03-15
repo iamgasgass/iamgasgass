@@ -28,7 +28,7 @@ Filename: debs//com.iamgasgass.njsdesign.deb
 
 Package: com.iamgasgass.spotyhack
 Name: SpotyHack.
-Version: 0.1pwn
+Version: 0.0.1pwn
 Size: 58720
 Architecture: iphoneos-arm
 Description: A tweak that crack Spotify.app on AppStore. ENJOY
