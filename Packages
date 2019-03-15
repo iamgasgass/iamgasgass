@@ -141,6 +141,20 @@ SHA1sum: f19948798765a18c9367244d53d98b25836b55c7
 SHA256sum: 18b871f9c7d7b72e1c5c4f6efc6db57358ca95191b63a7b11f40fd746817d025
 Filename: debs//com.iamgasgass.classicfolders2_2x.k_iphoneos-arm.deb
 
+Package: com.iamgasgass.darkdunes
+Name: DarkDune's
+Version: 0.1.5.4a
+Size: 38116
+Architecture: iphoneos-arm
+Description: A free, open-source iOS DarkMode implement for notifications and widgets(3DTouch) 
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 277b9971043aaa3979030b3d60b9f4cf
+SHA1sum: 329810eb0337aa54bc9d6068d3f3263d3daa626f
+SHA256sum: ebef8dcfb3a977307a77e632aca55eed2fda6fa7e58e064db8380440c318e926
+Filename: debs//com.iamgasgass.darkdunes_1.5.4a_iphoneos-arm.deb 
+
 Package: com.iamgasgass.reportsig
 Name: ReportsHack.
 Version: 0.0.4
