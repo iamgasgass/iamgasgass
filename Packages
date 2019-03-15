@@ -59,7 +59,7 @@ Name: JellyFishAlt
 Version: 1x
 Size: 98316
 Architecture: iphoneos-arm
-Description: JellyFishAlt is a similar widget to JellyFish but this one is compatible with XwnHTML.
+Description: JellyFishAlt is a similar widget to JellyFish but this one is compatible with XenHTML.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Widget
