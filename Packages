@@ -26,6 +26,20 @@ SHA1sum: efdacabd16fbb9169ad0c43ecdf5e4a13dadce89
 SHA256sum: 7d47df48bad7dd9d950618b226191c228900ce4df46a4b7daa5710ae78ad5e72
 Filename: debs//com.iamgasgass.osxsfull_0.2.1.1_iphoneos-arm.deb
 
+Package: com.iamgasgass.settingscollapse
+Name: SettingsCollapse
+Version: 0.1.1
+Size: 62284
+Architecture: iphoneos-arm
+Description: Expand or hide individual sections in the Settings.app
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 386d6caaae55a832044e6636797c9691
+SHA1sum: 44d80f91ad9f7f2cd175cae0ad6ed4eeeba32908
+SHA256sum: de60cf47fa6bae1d0c479e40a310f622a2e4ecdafa7e399869e747992ac80445
+Filename: debs//com.iamgasgass.settingscollapse_0.1.1_iphoneos-arm.deb
+
 Package: com.iamgasgass.njscontrol
 Name: NJ.'sControl
 Version: 0.1.1
