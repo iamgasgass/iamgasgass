@@ -26,6 +26,20 @@ SHA1sum: efdacabd16fbb9169ad0c43ecdf5e4a13dadce89
 SHA256sum: 7d47df48bad7dd9d950618b226191c228900ce4df46a4b7daa5710ae78ad5e72
 Filename: debs//com.iamgasgass.osxsfull_0.2.1.1_iphoneos-arm.deb
 
+Package: com.iamgasgass.njscontrol
+Name: NJ.'sControl
+Version: 0.1.1
+Size: 445372
+Architecture: iphoneos-arm
+Description: This is nControl alternative(repackagefromme)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 1dca160bc72296e8b705a47ae9f8ba3e
+SHA1sum: 2160a3c1e3cb17268d602d153e552a4a4fa76925
+SHA256sum: 1a47d9dbfb0aa044eb23627725e9745eeb011f111019c22abb630da9fa12f367
+Filename: debs//com.iamgasgass.njscontrol_1.deb
+
 Package: com.iamgasgass.tupacrespring
 Name: TupacRespring
 Version: 0.0.9
