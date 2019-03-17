@@ -210,3 +210,31 @@ MD5sum: c4de2bf0960fa354719ff394ad65e2ff
 SHA1sum: 62101e82472776af70a26d17928436741b65d75c
 SHA256sum: a24fdeb525217bb08c18934951c8b6b8228e6d0044b9f3b95ae6458280116eac
 Filename: debs//com.iamgasgass.spotyhack.deb
+
+Package: com.iamgasgass.ibox3
+Name: iBox3
+Version: 3.4.1.1
+Size: 2803358
+Architecture: iphoneos-arm
+Description: Boxy3 ALT!:)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 976055a9da3d0efe95d791a7614b13f4
+SHA1sum: 4dd0a18f1fc9b61984552c72b353defa765b6588
+SHA256sum: 3c238409cf075ef9668b8d65f36aaa829aefa9ca404f60f8889e9e037a1aaf82
+Filename: debs//com.iamgasgass.ibox3_3.4.1.1_iphoneos-arm.deb
+
+Package: com.iamgasgass.harbor2
+Name: Harbor2
+Version: 0.1.1.83
+Size: 40008
+Architecture: iphoneos-arm
+Description: The ultimate tweak for the dock like macOS X. Combinated with iamOSXS and OSXSFull is the full macOS experience on iOS!:)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 363d5333e7f12fd4b504c67225cdc8dc
+SHA1sum: 3dc33e2b02fd15fab2dc590e5597b6615cf8eb41
+SHA256sum: 999aeb0c2447634da2bfb446c92665ca8b0e0be9ac7ce627a47d9d7b73538066
+Filename: debs//com.iamgasgass.harbor2_0.1.1.83_iphoneos-arm.deb
