@@ -304,14 +304,29 @@ Version: 0.1.2
 Size: 12972
 Architecture: iphoneos-arm
 Description: This tweak show a notification banner when now playing media changes. A fun animation with pencilchargingindicator!:)
-Depends: mobilesubstrate, net.libbulletin (>=0.1-146-trevor), firmware (>=11.0)
+Depends: mobilesubstrate, net.limneos.libbulletin (>=0.1-146-trevor), firmware (>=11.0)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
-Section: Systems
+Section: Tweaks
 MD5sum: 9afcf196dd5fde238cbda9b50c979538
 SHA1sum: ffc400a0078f738bdfdd2f9d1c532c0e3080c78f
 SHA256sum: a089ab9c26fbfbc0cf9c50e039e01c36ca75315f89e00fa7992595786535b2bf
 Filename: debs//com.iamgasgass.notyplayxs_0.1.2_iphoneos-arm.deb
+
+Package: net.limneos.libbulletin
+Name: libbulletin
+Version: 0.1-146-trevor
+Size: 19742
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Modified version of lib bulletin that fixes a nasty crash on iOS12
+Section: Tweaks
+Author: iamgasgass
+Maintainer: iamgasgass
+MD5sum: 2d3c3261e9817901c09bae85f8d3a879
+SHA1sum: 314cecec4dd4f456d5eb4776eb021e06e27ac69b
+SHA256sum: 56fdbb5ac3a5410b4bf155481c8854d9d66a5f29096d14077f23c4230d1b4d24
+Filename: debs//net.limneos.libbulletin_0.1-146-trevor_iphoneos-arm.deb
 
 Package: com.iamgasgass.pencilchargingindicator
 Name: PencilChargingIndicator
