@@ -32,7 +32,7 @@ Version: 0.6.9.7
 Size: 1546702
 Architecture: iphoneos-arm
 Description: Cydia downloader manager & extra features!
-Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | Idid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (>=6.0) | Idid (>=1.2.1), mobilesubstrate, preferenceloader
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
