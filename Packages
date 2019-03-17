@@ -26,6 +26,21 @@ SHA1sum: efdacabd16fbb9169ad0c43ecdf5e4a13dadce89
 SHA256sum: 7d47df48bad7dd9d950618b226191c228900ce4df46a4b7daa5710ae78ad5e72
 Filename: debs//com.iamgasgass.osxsfull_0.2.1.1_iphoneos-arm.deb
 
+Package: com.iamgasgass.cydown
+Name: CyDown
+Version: 0.6.9.7
+Size: 1546702
+Architecture: iphoneos-arm
+Description: Cydia downloader manager & extra features!
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | Idid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 12ffeff18d20d60949c68daa2e79ddd3
+SHA1sum: 9483fb57a951b92e3c2ee924c2907682a301453a
+SHA256sum: bb012e5d47b447e5dfb22c5a1a0bfa5c94423cec658124a7d0f5dd74e2d11d2f
+Filename: debs//com.iamgasgass.cydown_0.6.9.7_iphoneos-arm.deb
+
 Package: com.iamgasgass.settingscollapse
 Name: SettingsCollapse
 Version: 0.1.1
