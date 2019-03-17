@@ -238,3 +238,31 @@ MD5sum: 363d5333e7f12fd4b504c67225cdc8dc
 SHA1sum: 3dc33e2b02fd15fab2dc590e5597b6615cf8eb41
 SHA256sum: 999aeb0c2447634da2bfb446c92665ca8b0e0be9ac7ce627a47d9d7b73538066
 Filename: debs//com.iamgasgass.harbor2_0.1.1.83_iphoneos-arm.deb
+
+Package: com.iamgasgass.tvAlert
+Name: tvAlert
+Version: 0.1.1
+Size: 134456
+Architecture: iphoneos-arm
+Description: tvOS style alerts, Palert alternative, ISTALL 0vigilate on iOS11-12! Compatible firmwares:8-12 w 0vigilate!:)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 861404c0a9dfdb767cbc4b1609a3292c
+SHA1sum: 9bef9d89dcd2b778c45d5aca73b1132d43f17f2d
+SHA256sum: 4e9b5844a8e7fddd9d042926fec52a281050423e8442955e1ea280be10233576
+Filename: debs//com.iamgasgass.tvAlert_0.1.1_iphoneos-arm.deb
+
+Package: com.iamgasgass.0vigilate
+Name: 0vigilate
+Version: 0.0.1
+Size: 134456
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: c856c1e7d5ee0d89e06551f65ac93efb
+SHA1sum: 9f2152146b5001d427da88d1acf3878fe3b5df32
+SHA256sum: 227b98ad6abdfc5e229a3cadb7d365d7600a78b1212365fba68983e17829c16b
+Filename: debs//com.iamgasgass.0vigilate_0.0.1_iphoneos-arm.deb
