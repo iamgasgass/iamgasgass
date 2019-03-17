@@ -20,7 +20,7 @@ Architecture: iphoneos-arm
 Description: Combinated with iamOSXS this is the full macOS X up experience on iOS. It's compatible with XenHTML. ENJOY
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
-Section: Widget
+Section: Widgets
 MD5sum: 2bf4c541b346ad7452e44e2ab77c5778
 SHA1sum: efdacabd16fbb9169ad0c43ecdf5e4a13dadce89
 SHA256sum: 7d47df48bad7dd9d950618b226191c228900ce4df46a4b7daa5710ae78ad5e72
