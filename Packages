@@ -289,7 +289,7 @@ Version: 2.0.7
 Size: 185628
 Architecture: iphoneos-arm
 Description: Music, Weather and battery info for XenHTML
-Depends: mobile substrate, firmware (>=9.0)
+Depends: mobilesubstrate, firmware (>=9.0)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Addons
