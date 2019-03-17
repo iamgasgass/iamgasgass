@@ -267,3 +267,33 @@ MD5sum: c856c1e7d5ee0d89e06551f65ac93efb
 SHA1sum: 9f2152146b5001d427da88d1acf3878fe3b5df32
 SHA256sum: 227b98ad6abdfc5e229a3cadb7d365d7600a78b1212365fba68983e17829c16b
 Filename: debs//com.iamgasgass.0vigilate_0.0.1_iphoneos-arm.deb
+
+Package: com.iamgasgass.win10x8664
+Name: Win10x86_64
+Version: 0.4
+Size: 1161738
+Architecture: iphoneos-arm
+Description: Windows 10 like lock screen for XenHTML
+Depends: firmware (>=10.0), com.matchstic.xenhtml, com.iamgasgass.xeninfo (>=2.0)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Widget
+MD5sum: acc8a89adcb7ac1215599affece3594a
+SHA1sum: 89a4626d5eec9211f624365e807175a317c02d55
+SHA256sum: 102ccff3737b2ba3eb56a7c0e2b8631df0bb79f542430990deba4c2c4b5158a0
+Filename: debs//com.iamgasgass.win10x8664_0.4_iphoneos-arm.deb
+
+Package: com.iamgasgass.xeninfo
+Name: XenInfo
+Version: 2.0.7
+Size: 185628
+Architecture: iphoneos-arm
+Description: Music, Weather and battery info for XenHTML
+Depends: mobile substrate, firmware (>=9.0)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Addons
+MD5sum: 568ca670f221921a3f16a315d102f387
+SHA1sum: 8f3c0644058afc5814e366eccc2115f7c5e8b7df
+SHA256sum: 9d18194d2a0c858b5acd810678c81e6fcaa6d5af76abf238d66da7e3d28ec6c0
+Filename: debs//com.iamgasgass.xeninfo_2.0.7_iphoneos-arm.deb
