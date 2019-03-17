@@ -297,3 +297,51 @@ MD5sum: 568ca670f221921a3f16a315d102f387
 SHA1sum: 8f3c0644058afc5814e366eccc2115f7c5e8b7df
 SHA256sum: 9d18194d2a0c858b5acd810678c81e6fcaa6d5af76abf238d66da7e3d28ec6c0
 Filename: debs//com.iamgasgass.xeninfo_2.0.7_iphoneos-arm.deb
+
+Package: com.iamgasgass.notyplayxs
+Name: NotyPlayXS
+Version: 0.1.2
+Size: 12972
+Architecture: iphoneos-arm
+Description: This tweak show a notification banner when now playing media changes. A fun animation with pencilchargingindicator!:)
+Depends: mobilesubstrate, net.libbulletin (>=0.1-146-trevor), firmware (>=11.0)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Systems
+MD5sum: 9afcf196dd5fde238cbda9b50c979538
+SHA1sum: ffc400a0078f738bdfdd2f9d1c532c0e3080c78f
+SHA256sum: a089ab9c26fbfbc0cf9c50e039e01c36ca75315f89e00fa7992595786535b2bf
+Filename: debs//com.iamgasgass.notyplayxs_0.1.2_iphoneos-arm.deb
+
+Package: com.iamgasgass.pencilchargingindicator
+Name: PencilChargingIndicator
+Version: 0.1.2.5
+Size: 506416
+Architecture: iphoneos-arm
+Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.!:)
+Depends: mobilesubstrate
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: c945d4b6c5010803be90120a758f95cc
+SHA1sum: c0a674c686ac59f869c56fb0c8925e0453a3f65d
+SHA256sum: c0807af39ccab3571832430dcff880f503983ebd71b1fe0764ab99104c909e57
+Filename: debs//com.iamgasgass.pencilchargingindicator_0.1.2.5_iphoneos-arm.deb
+
+Package: com.iamgasgass.xeon
+Name: Xeon
+Version: 0.1
+Size: 574816
+Architecture: iphoneos-arm
+Description: Customize the iDevice with a pic on statusbar.
+Depends: mobilesubstrate, ws.hbang.common (>=1.11), firmware (>=11.0), cy+cpu.arm64
+Conflicts: com.alexzielenski.zeppelin, zeppelin
+Provides: com.alexzielenski.zeppelin, zeppelin
+Replaces: com.alexzielenski.zeppelin, zeppelin
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: a9cd16fad2d2d86c22cb4e498a330fe9
+SHA1sum: 7b67ae2792191b79b980b4cba4c7f0c5a4892d9b
+SHA256sum: 4c07a730301da768c10970b57fee4f9de0807ca4c0a52670971743d01d799d7b
+Filename: debs//com.iamgasgass.xeon_1.deb
