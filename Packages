@@ -301,32 +301,32 @@ Filename: debs//com.iamgasgass.xeninfo_2.0.7_iphoneos-arm.deb
 Package: com.iamgasgass.notyplayxs
 Name: NotyPlayXS
 Version: 0.1.2
-Size: 12972
+Size: 12964
 Architecture: iphoneos-arm
 Description: This tweak show a notification banner when now playing media changes. A fun animation with pencilchargingindicator!:)
-Depends: mobilesubstrate, net.limneos.libbulletin (>=0.1-146-trevor), firmware (>=11.0)
+Depends: mobilesubstrate, com.iamgasgass.libbulletin (>=0.1-146-iamgasgass), firmware (>=11.0)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: 9afcf196dd5fde238cbda9b50c979538
-SHA1sum: ffc400a0078f738bdfdd2f9d1c532c0e3080c78f
-SHA256sum: a089ab9c26fbfbc0cf9c50e039e01c36ca75315f89e00fa7992595786535b2bf
+MD5sum: 53d3b4bad2611daf13508e0951cd0b72
+SHA1sum: 76dfcf81811d32a2aa62c6a3b168c0d7212e0e71
+SHA256sum: eba06c31667ba3c89b154dc4655e6afff8feee19ef287f988424887cc4f95e33
 Filename: debs//com.iamgasgass.notyplayxs_0.1.2_iphoneos-arm.deb
 
-Package: net.limneos.libbulletin
+Package: com.iamgasgass.libbulletin
 Name: libbulletin
-Version: 0.1-146-trevor
-Size: 19742
+Version: 0.1-146-iamgasgass
+Size: 27158
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Modified version of lib bulletin that fixes a nasty crash on iOS12
 Section: Tweaks
 Author: iamgasgass
 Maintainer: iamgasgass
-MD5sum: 2d3c3261e9817901c09bae85f8d3a879
-SHA1sum: 314cecec4dd4f456d5eb4776eb021e06e27ac69b
-SHA256sum: 56fdbb5ac3a5410b4bf155481c8854d9d66a5f29096d14077f23c4230d1b4d24
-Filename: debs//net.limneos.libbulletin_0.1-146-trevor_iphoneos-arm.deb
+MD5sum: 323ace8928569c7aa4995429aae9c671
+SHA1sum: fe61acafcc326a2424c1a7a0b4fa7d87654f8d27
+SHA256sum: 58e770495f2b8cbb3be397611307834ad14defdb468e66635d207df186a58e45
+Filename: debs//com.iamgasgass.libbulletin_0.1-146-iamgasgass_iphoneos-arm.deb
 
 Package: com.iamgasgass.pencilchargingindicator
 Name: PencilChargingIndicator
