@@ -55,6 +55,20 @@ SHA1sum: 44d80f91ad9f7f2cd175cae0ad6ed4eeeba32908
 SHA256sum: de60cf47fa6bae1d0c479e40a310f622a2e4ecdafa7e399869e747992ac80445
 Filename: debs//com.iamgasgass.settingscollapse_0.1.1_iphoneos-arm.deb
 
+Package: com.iamgasgass.njsdesignx
+Name: NJ.'sdesignX
+Version: 0.10.88
+Size: 31477924
+Architecture: iphoneos-arm
+Description: Colourful explosions. Now with extra colour.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Themes
+MD5sum: ae82283d025ab71476ecf94e0407c266
+SHA1sum: 81039f67611058fa3c7bfe7dcd87c0eadd24682d
+SHA256sum: a4927ce8d82b0ff383e1462728bf7cdf7b853aca2166b5c572818f351f22e673
+Filename: debs//com.iamgasgass.njsdesignx_iphoneos-arm.deb
+
 Package: com.iamgasgass.njscontrol
 Name: NJ.'sControl
 Version: 0.1.1
