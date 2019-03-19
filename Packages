@@ -58,16 +58,16 @@ Filename: debs//com.iamgasgass.settingscollapse_0.1.1_iphoneos-arm.deb
 Package: com.iamgasgass.njsdesignx
 Name: NJ.'sdesignX
 Version: 0.10.88
-Size: 31477924
+Size: 38406860
 Architecture: iphoneos-arm
 Description: Colourful explosions. Now with extra colour.
 Depends: com.spark.snowboard, com.anemonetheming.anemone
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Themes
-MD5sum: ae82283d025ab71476ecf94e0407c266
-SHA1sum: 81039f67611058fa3c7bfe7dcd87c0eadd24682d
-SHA256sum: a4927ce8d82b0ff383e1462728bf7cdf7b853aca2166b5c572818f351f22e673
+MD5sum: 5f6ca195b5c39aa588475e4220872f01
+SHA1sum: c3eca29d6f6153a1e5b98848e0d4c68760651f60
+SHA256sum: 6ffe55c0ac9a1c227d9046846d06364d57ec03d7a63b7d04a7949d3fdc6701a0
 Filename: debs//com.iamgasgass.njsdesignx_iphoneos-arm.deb
 
 Package: com.iamgasgass.njscontrol
@@ -97,20 +97,6 @@ MD5sum: 79a994a5d5439d2f19000d2531ad5922
 SHA1sum: 1c65aa092f802aad8911ed2ec4f2eaea86b87753
 SHA256sum: 06f55b8fa31ea116b057605531a31da5990919990f8c9bd5d6b543f5c54630b5
 Filename: debs//com.iamgasgass.tupacrespring.deb
-
-Package: com.iamgasgass.njsdesign
-Name: NJ.'sdesign
-Version: 0.3.1x
-Size: 6930904
-Architecture: iphoneos-arm
-Description: A fantastic theme colorized and compiled for iOSxx.x ENJOY
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Themes
-MD5sum: e36214ebaa72825517f59141fbf36efe
-SHA1sum: f78c718e00670ff5e87f2f8957dd588b8e1efedd
-SHA256sum: 6679d646cbadacf50e05b3fd6dddf15d5307344d6fbc3a927b2e9a6e2933abee
-Filename: debs//com.iamgasgass.njsdesign.deb
 
 Package: com.iamgasgass.jellyfishalt
 Name: JellyFishAlt
