@@ -61,6 +61,7 @@ Version: 0.10.88
 Size: 31477924
 Architecture: iphoneos-arm
 Description: Colourful explosions. Now with extra colour.
+Depends: com.spark.snowboard, com.anemonetheming.anemone
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Themes
