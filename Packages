@@ -218,7 +218,7 @@ Name: TSS Saver
 Version: 0.1.2
 Size: 177712
 Architecture: iphoneos-arm
-Depends: com.modmyi.libswift (>=4.0.3), firmware (>=8.0)
+Depends: com.modmyi.libswift (>= 4.0.3), firmware (>= 8.0)
 Description: A one-click tool save blobs using TSSsaver.1conan.com
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
