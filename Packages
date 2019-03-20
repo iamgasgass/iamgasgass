@@ -289,7 +289,6 @@ Version: 0.1.1
 Size: 134456
 Architecture: iphoneos-arm
 Description: tvOS style alerts, Palert alternative, INSTALL 0vigilate on iOS11-12! Compatible firmwares:8-12 w 0vigilate!:)
-Depends: com.iamgasgass.0vigilate
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
