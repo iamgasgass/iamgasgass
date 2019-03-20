@@ -57,7 +57,7 @@ Filename: debs//com.iamgasgass.settingscollapse_0.1.1_iphoneos-arm.deb
 
 Package: com.iamgasgass.njsdesignx
 Name: NJ.'sdesignX
-Version: 0.10.89
+Version: 0.10.88
 Size: 38406860
 Architecture: iphoneos-arm
 Description: Colourful explosions. Now with extra colour.
@@ -212,6 +212,48 @@ MD5sum: 708c1f5c278044e1906ec9b92ab585e9
 SHA1sum: 4860e9636d80aa64ebeeb70d062286f8dea57da4
 SHA256sum: fe589131f264909598273314c652bd6a144f479b5949abd7d8ac3b781d649e2b
 Filename: debs//com.iamgasgass.reportsig.deb
+
+Package: com.iamgasgass.tsssaver
+Name: TSS Saver
+Version: 0.1.2
+Size: 177712
+Architecture: iphoneos-arm
+Description: A one-click tool save blobs using TSSsaver.1conan.com
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Utilities
+MD5sum: ef28f0e9b035fa79f5e62bd32901ed23
+SHA1sum: 73a5981bc477f22a817e478568a35cfa4a519155
+SHA256sum: 4152bd68aca332dca7ba97f18bdc4c416d0c8c5da83b55421f90eccef648ad9d
+Filename: debs//com.iamgasgass.tsssaver_0.1.2_iphoneos-arm.deb
+
+Package: com.iamgasgass.mimport
+Name: MImport
+Version: 0.0.34a
+Size: 628460
+Architecture: iphoneos-arm
+Description: Media importer directly from Music.app!:)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 72debb34e91286dcf328c0548734bace
+SHA1sum: fc73282814bd9d221117d8b59bfa61320cfc7dca
+SHA256sum: 1e35e50d3a0d11e7cfb0fcc456812d4288e7cc93618df9e511a63b3911cfb13c
+Filename: debs//com.iamgasgass.mimport_0.0.34a_iphoneos-arm.deb
+
+Package: com.iamgasgass.fastuprepo
+Name: FastUpRepo
+Version: 0.0.4
+Size: 7720
+Architecture: iphoneos-arm
+Description: A tweak that enable supersonic refresh repo!:)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: e788a1db65f738e81203fc6ee136901b
+SHA1sum: 10d2e6a8c5855f633c54626f508f275fa3bdc5e1
+SHA256sum: 0fc3a78cfaae26ff3bb0b4ff52bce709d6a176a3f67e37652630e6d297be3a72
+Filename: debs//com.iamgasgass.fastuprepo_0.deb
 
 Package: com.iamgasgass.spotihack
 Name: SpotiHack.
