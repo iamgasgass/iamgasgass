@@ -344,7 +344,7 @@ Filename: debs//com.iamgasgass.xeninfo_2.0.7_iphoneos-arm.deb
 
 Package: com.iamgasgass.notyplayxs
 Name: NotyPlayXS
-Version: 0.1.2
+Version: 0.1.3
 Size: 12964
 Architecture: iphoneos-arm
 Description: This tweak show a notification banner when now playing media changes. A fun animation with pencilchargingindicator!:)
@@ -352,10 +352,10 @@ Depends: mobilesubstrate, com.iamgasgass.libbulletin (>=0.1-146-iamgasgass), fir
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: 53d3b4bad2611daf13508e0951cd0b72
-SHA1sum: 76dfcf81811d32a2aa62c6a3b168c0d7212e0e71
-SHA256sum: eba06c31667ba3c89b154dc4655e6afff8feee19ef287f988424887cc4f95e33
-Filename: debs//com.iamgasgass.notyplayxs_0.1.2_iphoneos-arm.deb
+MD5sum: 4a389b0f4e4fc2b421bae1518b0bad13
+SHA1sum: 2c082234c5c4a68f3ad2f3bb5bd404ef44668967
+SHA256sum: 39b477b44ace56603457f456576344928d242405191cd3c652bedb2ddd960613
+Filename: debs//com.iamgasgass.notyplayxs_0.1.3_iphoneos-arm.deb
 
 Package: com.iamgasgass.libbulletin
 Name: libbulletin
