@@ -300,7 +300,7 @@ Filename: debs//com.iamgasgass.tvAlert_0.1.1_iphoneos-arm.deb
 Package: com.iamgasgass.0vigilate
 Name: 0vigilate
 Version: 0.0.1
-Size: 134456
+Size: 2442
 Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak!
 Maintainer: iamgasgass <nick1710@live.it>
