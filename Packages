@@ -495,3 +495,18 @@ MD5sum: e4786ee2994bec1a667ed5caa9aaa919
 SHA1sum: b255cbac7831b67508ef70f6af55ed56f3f0a85d
 SHA256sum: 107ce14a3cf30314f1130066a06b3127a15dec7f49166756ffd614a5836ccffe
 Filename: debs//com.iamgasgass.animoji122_0.1.30_iphoneos-arm.deb
+
+Package: com.iamgasgass.colorflow4
+Name: ColorFlow4
+Version: 1.2.1h4ck
+Size: 795670
+Architecture: iphoneos-arm
+Description: A new UI for the music time, colorize like you want.!:)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 694cacc5aacb5c3b266ae5e2b9959935
+SHA1sum: 80af629fef6ace817422059fa90e9c11db9704a9
+SHA256sum: c56f0ba0b4976ea813254c394cdd7228abeb2b324b0236b6ae2cc024f94a5432
+Filename: debs//com.iamgasgass.colorflow4_1.2.1h4ck_iphoneos-arm.deb
