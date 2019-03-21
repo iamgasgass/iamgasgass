@@ -419,3 +419,79 @@ MD5sum: a9cd16fad2d2d86c22cb4e498a330fe9
 SHA1sum: 7b67ae2792191b79b980b4cba4c7f0c5a4892d9b
 SHA256sum: 4c07a730301da768c10970b57fee4f9de0807ca4c0a52670971743d01d799d7b
 Filename: debs//com.iamgasgass.xeon_1.deb
+
+Package: com.iamgasgass.fdark
+Name: FbDarkMode
+Version: 2.1.13
+Size: 579534
+Architecture: iphoneos-arm
+Description: Dark mode for Facebook.app
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: bb4e5af08fa66e69109f6149ceef9797
+SHA1sum: 1a47559432501107f120eeebf03e555e464be678
+SHA256sum: d9642febccaf6075274a4b6980a31b5c49c343a641ddbe40888cf2ba8b68a236
+Filename: debs//com.iamgasgass.fdark_2.1.13_iphoneos-arm.deb
+
+Package: com.iamgasgass.musicdark
+Name: Darkmusic
+Version: 0.1.2
+Size: 175442
+Architecture: iphoneos-arm
+Description: Dark mode for Music.app
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 24707e64de7f5e6140075ea67c4284c8
+SHA1sum: 91932f3b139293baab4788ac13f2dee5e6ef7638
+SHA256sum: 94c57376118a2859c55ae309b8918aff78c784ee7f6f9719b554d5c246837cbf
+Filename: debs//com.iamgasgass.musicdark_0.1.2_iphoneos-arm.deb
+
+Package: com.iamgasgass.jellyfish
+Name: JellyFish
+Version: 1.1.1h4ck
+Size: 126750
+Architecture: iphoneos-arm
+Description: Modern lock screen for iOS 11 and above!:)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Conflicts: applebetas.ios.tweak.time11, com.junesiphone.lockpluspro
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 236a19ffa3e3ffd1f374c0f44477a365
+SHA1sum: 74d303a6a63e2a65e83e7d12e3ddb80c041f278a
+SHA256sum: be24c0335501592111869529b1eea3cd8a6229b1a8950e8e4627c9f25785cf6c
+Filename: debs//com.iamgasgass.jellyfish_1.1.1h4ck_iphoneos-arm.deb
+
+Package: com.iamgasgass.myriad
+Name: Myriad
+Version: 0.2.1.5h4ck
+Size: 1368106
+Architecture: iphoneos-arm
+Description: Split your screen like iPad on iOS devices!:)
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.3), com.spark.libsparkapplist, preferenceloader, jp.ashikase.techsupport
+Conflicts: com.spark.splitview
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 1c2d16e5289ff8c5a872a620525c9bb6
+SHA1sum: 321a9979dce7b390841c3049c5d2487c0408c36c
+SHA256sum: ab199c9399c63c458de8d738c7f153324294c0e0c0831a6ed29f388a10be302b
+Filename: debs//com.iamgasgass.myriad_0.2.1.5h4ck_iphoneos-arm.deb
+
+Package: com.iamgasgass.animoji122
+Name: Animoji12.2
+Version: 0.1.30
+Size: 3076370
+Architecture: iphoneos-arm
+Description: Put iOS 12.2 Animoji's on 12.0_12.1.2
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Addons
+MD5sum: e4786ee2994bec1a667ed5caa9aaa919
+SHA1sum: b255cbac7831b67508ef70f6af55ed56f3f0a85d
+SHA256sum: 107ce14a3cf30314f1130066a06b3127a15dec7f49166756ffd614a5836ccffe
+Filename: debs//com.iamgasgass.animoji122_0.1.30_iphoneos-arm.deb
