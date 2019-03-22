@@ -3,6 +3,7 @@ Name: iamOSXS
 Version: 0.0.9.7x5
 Size: 12751688
 Architecture: iphoneos-arm
+Depends: com.spark.snowboard, com.anemonetheming.anemone
 Description: A fantastic theme based on macOS X up and adapted for iOSxx.x ENJOY.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
