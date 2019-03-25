@@ -42,11 +42,42 @@ SHA1sum: 38779b361423d8bf041d15f21ad2d4a8b2f07f86
 SHA256sum: d7dbc4652ab70f30618de002553983c10ffb3d8e39a6a5e4d5785024e985fd15
 Filename: debs//com.iamgasgass.cydown_0.6.9.7_iphoneos-arm.deb
 
+Package: com.iamgasgass.reprovision
+Name: ReProvision
+Version: 0.4.2
+Size: 10555786
+Architecture: iphoneos-arm
+Description: Re-sign applications on your iDevice.!:)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Depends: firmware (>= 9.0)
+Section: System
+MD5sum: 08a8ab347e334517f2187d79a3b02103
+SHA1sum: 6b601173b25a14bdd6bbb0d0cc94991b0e946ec4
+SHA256sum: 3170c9523cbcdae3957976d1a13eec5c5eceda4108be48299377de42d5085e3d
+Filename: debs//com.iamgasgass.reprovision_0.4.2_iphoneos-arm.deb
+
+Package: com.iamgasgass.hack10xto841
+Name: Hack iOS10.x to 8.4.1
+Version: 0.1h4ck
+Size: 1040
+Architecture: iphoneos-arm
+Description: This hack support 32Bit devices:iPhone 5, iPad 2,3,4, mini 1, iPod touch 5G. NOT iPhone 5C.!!!
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Depends: firmware (>= 10.0)
+Section: System
+MD5sum: 44530ac2f2676deb46f6c7617ec546a2
+SHA1sum: 7aa40af5a4ee384bbe5ef92d44b77dd09731999a
+SHA256sum: ffeaea18da7120e0c440b71fba556935a66dd584c77a2dc688c4f2bf6041b75c
+Filename: debs//com.iamgasgass.hack10xto841_0.1h4ck_iphoneos-arm.deb
+
 Package: com.iamgasgass.floatingdock
 Name: FloatingDock
 Version: 0.1.5.1
 Size: 44996
 Architecture: iphoneos-arm
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Description: Enable native iPad dock on all iDevices!:)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
@@ -341,6 +372,21 @@ SHA1sum: 9f2152146b5001d427da88d1acf3878fe3b5df32
 SHA256sum: 227b98ad6abdfc5e229a3cadb7d365d7600a78b1212365fba68983e17829c16b
 Filename: debs//com.iamgasgass.0vigilate_0.0.1_iphoneos-arm.deb
 
+Package: com.iamgasgass.betterccxi
+Name: BetterCCXI
+Version: 0.1.4.8
+Size: 61488
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Description: Enhance your control center on iOS 11 & 12!:)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: f97e367d8fb5c98ded933008bb3e78d4
+SHA1sum: 3530181126e7f51b7d2241c72754a3bc1b05949b
+SHA256sum: 429ca83d49e419f88fac734c06adf0a03d339637a050697adcf740bd1ec04cea
+Filename: debs//com.iamgasgass.betterccxi_0.1.4.8_iphoneos-arm.deb
+
 Package: com.iamgasgass.win10x8664
 Name: Win10x86_64
 Version: 0.4
@@ -481,8 +527,8 @@ Filename: debs//com.iamgasgass.musicdark_0.1.2_iphoneos-arm.deb
 
 Package: com.iamgasgass.jellyfish
 Name: JellyFish
-Version: 1.1.1h4ck
-Size: 126750
+Version: 1.1.2h4ck
+Size: 126630
 Architecture: iphoneos-arm
 Description: Modern lock screen for iOS 11 and above!:)
 Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
@@ -490,10 +536,10 @@ Conflicts: applebetas.ios.tweak.time11, com.junesiphone.lockpluspro
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: 236a19ffa3e3ffd1f374c0f44477a365
-SHA1sum: 74d303a6a63e2a65e83e7d12e3ddb80c041f278a
-SHA256sum: be24c0335501592111869529b1eea3cd8a6229b1a8950e8e4627c9f25785cf6c
-Filename: debs//com.iamgasgass.jellyfish_1.1.1h4ck_iphoneos-arm.deb
+MD5sum: 37784bac8c8e258011156730151c8c3d
+SHA1sum: 4051e1a326e47ba2ba06bd5438d06068770eb046
+SHA256sum: bace556a83445762caec801b2f7e9de51a2e430b392fd003d642c9a39146f370
+Filename: debs//com.iamgasgass.jellyfish_1.1.2.deb
 
 Package: com.iamgasgass.myriad
 Name: Myriad
