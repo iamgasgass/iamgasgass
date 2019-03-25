@@ -1,17 +1,17 @@
 Package: com.iamgasgass.iamosxs
 Name: iamOSXS
-Version: 0.0.9.7x5
-Size: 12751688
+Version: 0.1.10x
+Size: 12763896
 Architecture: iphoneos-arm
 Depends: com.spark.snowboard, com.anemonetheming.anemone
 Description: A fantastic theme based on macOS X up and adapted for iOSxx.x ENJOY.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Themes
-MD5sum: 5cf5e7a809c3dbf0dccc1a4138f16cb3
-SHA1sum: a6ed3d836c044f4845b2a33c5f5775b5771d2b1e
-SHA256sum: 236e5fd4026db9e1cca0c87383a3d56996df5cdeb44e1d24879682c741f7d348
-Filename: debs//com.iamgasgass.iamosxs_0.0.9.7x5_iphoneos-arm.deb
+MD5sum: cf70448661b96466080676ca6ca1e769
+SHA1sum: b04cc4c3407adc69c11b58dd79d127fe37d7716a
+SHA256sum: 3a318ecc8a89eddf828c3fbd15b0891252dc9e8ee84b154a19eb8e40d47cec07
+Filename: debs//com.iamgasgass.iamosxs_0.1.10x_iphoneos-arm.deb
 
 Package: com.iamgasgass.osxsfull
 Name: OSXSFull
