@@ -42,6 +42,34 @@ SHA1sum: 38779b361423d8bf041d15f21ad2d4a8b2f07f86
 SHA256sum: d7dbc4652ab70f30618de002553983c10ffb3d8e39a6a5e4d5785024e985fd15
 Filename: debs//com.iamgasgass.cydown_0.6.9.7_iphoneos-arm.deb
 
+Package: com.iamgasgass.floatingdock
+Name: FloatingDock
+Version: 0.1.5.1
+Size: 44996
+Architecture: iphoneos-arm
+Description: Enable native iPad dock on all iDevices!:)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 0386ef5198fc829fcd57293a6c759b57
+SHA1sum: 10aa0159567c060b8b907c109e133aacc9426249
+SHA256sum: 73b3dab4e6a52af473d99843118edc0d08974b4f5aa50ceeba1b5d28d9351a7b
+Filename: debs//com.iamgasgass.floatingdock_0.1.5.1_iphoneos-arm.deb
+
+Package: com.iamgasgass.BundleIDXS
+Name: BundleIDXS
+Version: 0.1.1.2
+Size: 106660
+Architecture: iphoneos-arm
+Description: This app allows you to see and copy with simply tap the Bundle ID's od the applications installed on your device.!:)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 5befa2818b05832fd7a682b9d09a20b6
+SHA1sum: 3be5c65b74e3c77174c17c8f01d3258ee2b5a956
+SHA256sum: 1509f15b386326a1f077780cec5a21b149338946b9b8332fb53ffbb37b6eca0d
+Filename: debs//com.iamgasgass.bundleidxs_0.1.1.2_iphoneos-arm.deb
+
 Package: com.iamgasgass.settingscollapse
 Name: SettingsCollapse
 Version: 0.1.1
