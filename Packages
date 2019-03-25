@@ -172,6 +172,35 @@ SHA1sum: e0b25befa30f6eee7e646dc854955cee9b419f2d
 SHA256sum: fc9467507c44fbcc258849671ca1241ef9969538e59a15ade7320b3d8a38c98f
 Filename: debs//com.iamgasgass.jellyfishalt.deb
 
+Package: com.iamgasgass.wallpapermatrix
+Name: Wallpaper Matrix
+Version: 0.1
+Size: 1624
+Architecture: iphoneos-arm
+Description: Give the iDevices a fresh hack look with wallpaper matrix for XEN HTML
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Widgets
+MD5sum: 1df99db9850bea299473e65534aae1e3
+SHA1sum: 3b3692790061481e2ba36ae8d45d1980dffe984e
+SHA256sum: 59067539da5bbbeaaab5492b885d27e883f4f06b15271e0c400c764e402cf41e
+Filename: debs//com.iamgasgass.wallpapermatrix_0.1_iphoneos-arm.deb
+
+Package: com.iamgasgass.watchdogsxs
+Name: WatchDogs XS
+Version: 0.1.1
+Size: 69202
+Architecture: iphoneos-arm
+Depends: com.iamgasgass.resourcewidgetv3x
+Description: WatchDogs XS for XEN HTML
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Widgets
+MD5sum: 4512e07d7be9dddc611a612102513373
+SHA1sum: 4b47292ba4effafccf95f7c83d074a752d009488
+SHA256sum: 3852c56c0eecd84f49df111f9b8b89c5ba745c287bda80e0db09599f5d071273
+Filename: debs//com.iamgasgass.watchdogsxs_0.1.1_iphoneos-arm (1).deb
+
 Package: com.iamgasgass.termiusxs
 Name: TermiusXS
 Version: 1.1.2
@@ -389,33 +418,33 @@ Filename: debs//com.iamgasgass.betterccxi_0.1.4.8_iphoneos-arm.deb
 
 Package: com.iamgasgass.win10x8664
 Name: Win10x86_64
-Version: 0.4
-Size: 1161738
+Version: 0.1.2
+Size: 937996
 Architecture: iphoneos-arm
 Description: Windows 10 like lock screen for XenHTML
 Depends: firmware (>=10.0), com.matchstic.xenhtml, com.iamgasgass.xeninfo (>=2.0)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Widgets
-MD5sum: acc8a89adcb7ac1215599affece3594a
-SHA1sum: 89a4626d5eec9211f624365e807175a317c02d55
-SHA256sum: 102ccff3737b2ba3eb56a7c0e2b8631df0bb79f542430990deba4c2c4b5158a0
-Filename: debs//com.iamgasgass.win10x8664_0.4_iphoneos-arm.deb
+MD5sum: fcb81822a57df7635680672ae17a3a88
+SHA1sum: 2158c34ab812bb800e4385c2a1f09c1f495302cb
+SHA256sum: 2a5bd7ef78fe307f440e21a2296e3137dc162bcce0180009d8d6b544f8a72c8a
+Filename: debs//com.iamgasgass.win10_1.2_iphoneos-arm.deb
 
 Package: com.iamgasgass.xeninfo
 Name: XenInfo
-Version: 2.0.7
-Size: 185628
+Version: 2.2
+Size: 207322
 Architecture: iphoneos-arm
 Description: Music, Weather and battery info for XenHTML
 Depends: mobilesubstrate, firmware (>=9.0)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Addons
-MD5sum: 568ca670f221921a3f16a315d102f387
-SHA1sum: 8f3c0644058afc5814e366eccc2115f7c5e8b7df
-SHA256sum: 9d18194d2a0c858b5acd810678c81e6fcaa6d5af76abf238d66da7e3d28ec6c0
-Filename: debs//com.iamgasgass.xeninfo_2.0.7_iphoneos-arm.deb
+MD5sum: f745c6a088e6c822df9f97ffd61f6045
+SHA1sum: 87ce2605fb95f07f42e20a552bbc53ad62e6800b
+SHA256sum: 004e0a9716684496e1a35eeea8480104ee01fd3a19f75f2cbed19130c5e6015a
+Filename: debs//com.iamgasgass.xeninfo_2.2_iphoneos-arm.deb
 
 Package: com.iamgasgass.notyplayxs
 Name: NotyPlayXS
@@ -528,7 +557,7 @@ Filename: debs//com.iamgasgass.musicdark_0.1.2_iphoneos-arm.deb
 Package: com.iamgasgass.jellyfish
 Name: JellyFish
 Version: 1.1.2h4ck
-Size: 126630
+Size: 100960
 Architecture: iphoneos-arm
 Description: Modern lock screen for iOS 11 and above!:)
 Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
@@ -536,9 +565,9 @@ Conflicts: applebetas.ios.tweak.time11, com.junesiphone.lockpluspro
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: 37784bac8c8e258011156730151c8c3d
-SHA1sum: 4051e1a326e47ba2ba06bd5438d06068770eb046
-SHA256sum: bace556a83445762caec801b2f7e9de51a2e430b392fd003d642c9a39146f370
+MD5sum: aba1c884572d0e736bafcf84977892a2
+SHA1sum: a71500203241108448ae5e5b394cbc8eb60a75af
+SHA256sum: e7d36914c81a8bab624bae8d93eb32aebdd1159b5a4144a690a3013495af90a6
 Filename: debs//com.iamgasgass.jellyfish_1.1.2.deb
 
 Package: com.iamgasgass.myriad
