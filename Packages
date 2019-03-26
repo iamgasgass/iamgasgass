@@ -57,6 +57,22 @@ SHA1sum: 6b601173b25a14bdd6bbb0d0cc94991b0e946ec4
 SHA256sum: 3170c9523cbcdae3957976d1a13eec5c5eceda4108be48299377de42d5085e3d
 Filename: debs//com.iamgasgass.reprovision_0.4.2_iphoneos-arm.deb
 
+Package: com.iamgasgass.coolbooter
+Name: CoolBooter
+Version: 0.1.5
+Size: 28631426
+Architecture: iphoneos-arm
+Depends: xpwn, zip, unzip, Idid, diskdev-cmds, firmware (>= 7.0)
+Description: Re-sign applications on your iDevice.!:)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Depends: firmware (>= 9.0)
+Section: System
+MD5sum: 76aa20d1960ba3d8d1fe6c413e06d8b3
+SHA1sum: e77a5ca71f07444468bba4f2d6f4c6ef83ccdba6
+SHA256sum: 620fb4394ea58470edd6e54194ff34eac91dc7654215de03c8e6d4d18279a1f9
+Filename: debs//com.iamgasgass.coolbooter_0.1.5_iphoneos-arm.deb
+
 Package: com.iamgasgass.hack10xto841
 Name: Hack iOS10.x to 8.4.1
 Version: 0.1h4ck
