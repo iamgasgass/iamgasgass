@@ -72,6 +72,21 @@ SHA1sum: 7aa40af5a4ee384bbe5ef92d44b77dd09731999a
 SHA256sum: ffeaea18da7120e0c440b71fba556935a66dd584c77a2dc688c4f2bf6041b75c
 Filename: debs//com.iamgasgass.hack10xto841_0.1h4ck_iphoneos-arm.deb
 
+Package: com.iamgasgass.amon-rhaxs
+Name: Amon-RhaXS
+Version: 0.3.4
+Size: 48406800
+Architecture: iphoneos-arm
+Depends: com.spark.snowboard, com.anemonetheming.anemone
+Description: A new day, a new theme, a new experience with Amon-RhaXS theme!:)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Themes
+MD5sum: 4b1893e53cd4a10503c4cef6219cb33b
+SHA1sum: fec931e7f38a9dc08ea7d271392efd774d58ca9b
+SHA256sum: d796d44ce03403125caed9e0add595cd8e3d41ef765c3d63ebdec24290743bec
+Filename: debs//com.iamgasgass.amon-rhaxs_0.3.4_iphoneos-arm.deb
+
 Package: com.iamgasgass.floatingdock
 Name: FloatingDock
 Version: 0.1.5.1
