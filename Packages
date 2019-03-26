@@ -102,6 +102,36 @@ SHA1sum: 10aa0159567c060b8b907c109e133aacc9426249
 SHA256sum: 73b3dab4e6a52af473d99843118edc0d08974b4f5aa50ceeba1b5d28d9351a7b
 Filename: debs//com.iamgasgass.floatingdock_0.1.5.1_iphoneos-arm.deb
 
+Package: com.iamgasgass.melior
+Name: Melior
+Version: 0.1.8.1
+Size: 181150
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader
+Description: Custom volume HUD.!:)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: af8f139efaf40231aeb8148a6d674dcc
+SHA1sum: 3d14e4b78a8239a21e9453f6ae73639d55a09bbc
+SHA256sum: 3fe3b1956260a8621602a48c827e621f49ac1fd661e7539a85bd17253f69e978
+Filename: debs//com.iamgasgass.melior_0.1.8.1_iphoneos-arm.deb
+
+Package: com.iamgasgass.whatabouthis
+Name: WhatAboutThis
+Version: 0.1.1
+Size: 10618
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (<= 12.1.4)
+Description: Brings iOS 12.2 style About page in the Settings.app to older versions.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: ff336f5a881065f2a35b9645522b60fb
+SHA1sum: 8667f150871bca924574772b76b6f228b01d684c
+SHA256sum: 4ba9c40623a58cbdf606fe50714f248a4669fa11d01a21011b7c27ba333392bf
+Filename: debs//com.iamgasgass.whatabouthis_0.1.1_iphoneos-arm.deb
+
 Package: com.iamgasgass.BundleIDXS
 Name: BundleIDXS
 Version: 0.1.1.2
