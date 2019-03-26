@@ -130,6 +130,82 @@ SHA1sum: 44d80f91ad9f7f2cd175cae0ad6ed4eeeba32908
 SHA256sum: de60cf47fa6bae1d0c479e40a310f622a2e4ecdafa7e399869e747992ac80445
 Filename: debs//com.iamgasgass.settingscollapse_0.1.1_iphoneos-arm.deb
 
+Package: com.iamgasgass.slyd
+Name: Slyd
+Version: 0.1.1
+Size: 18630
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
+Description: Slide to unlock for iOS 11 and 12.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: e902efe5ca29bc85ac0c63789fffb416
+SHA1sum: e8cef9733a6b94c1523847867251a8a2bb9bec77
+SHA256sum: 7a02e2ee207654e194630da6b27ffe98c19452e45fec969777aa80844e2a1fe3
+Filename: debs//com.iamgasgass.slyd_0.1.1_iphoneos-arm.deb
+
+Package: com.iamgasgass.selector
+Name: Selector
+Version: 0.1.1
+Size: 28910
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Description: Select text to search or translate.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 6f584fb4dfc8a3044bb742f23cc0621e
+SHA1sum: 52b4e4c868030082163a756e9d20e6cbfaca3e47
+SHA256sum: b7a441f60af70921e83c9319612f3e8dfa2db317eb3de10ce4ed846f416de976
+Filename: debs//com.iamgasgass.selector_0.1.1_iphoneos-arm.deb
+
+Package: com.iamgasgass.chargeanimations
+Name: ChargeAnimations
+Version: 0.1.2.2
+Size: 5842054
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 5.0), org.thebigboss.libcolorpicker, com.rpetrich.rocketbootstrap
+Description: Animation when you plug your charger!:)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 5d672910419c4f0be636e27d69f5f4cc
+SHA1sum: cc25a870dc479fb8974101fd8415d029d54cfdca
+SHA256sum: fea59a400678fceca8727f72e8357339ccf4136342c6344cafbc27e5c4527aa9
+Filename: debs//com.iamgasgass.chargeanimations_0.1.2.2_iphoneos-arm.deb
+
+Package: com.iamgasgass.twitterdarkmode
+Name: TwitterDarkMode
+Version: 0.1.2.1
+Size: 111208
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, org.bigboss.libcolorpicker
+Conflicts: com.quackdev.twitterdarkmode, com.tapsharp.twitterdarkmode, com.halston696.twitteruicustomizer, com.repo.xarold.com.twitterdarkmode
+Description: TwitterDarkMode.!:)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 566541a27bb5172de6b0fc64d0452f40
+SHA1sum: da58cfd10be2bdf85727993a08696242010cf51a
+SHA256sum: 583563288cd9b058fa7aa4be8ff36ef7866d51506d903cc8d6bf489ac30f8d8d
+Filename: debs//com.iamgasgass.twitterdarkmode_0.1.2.1_iphoneos-arm.deb
+
+Package: com.iamgasgass.smallsiri
+Name: SmallSiri
+Version: 0.1.2.1
+Size: 173384
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Make Siri smaller and unobtrusive!
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 2d4e906c34abb018caa789c0828c4ea7
+SHA1sum: 67abc93732fa8c40738f27c7b38a9ecd22a5fdc4
+SHA256sum: aecbe993fef1bebc58dae692d64b787b97a3c3fffc55e85a3cc6f571731f2ca8
+Filename: debs//com.iamgasgass.smallsiri_0.1.2.1_iphoneos-arm.deb
+
 Package: com.iamgasgass.njsdesignx
 Name: NJ.'sdesignX
 Version: 0.10.88
