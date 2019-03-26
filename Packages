@@ -95,7 +95,7 @@ Architecture: iphoneos-arm
 Description: This app allows you to see and copy with simply tap the Bundle ID's od the applications installed on your device.!:)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
+Section: Utilities
 MD5sum: 5befa2818b05832fd7a682b9d09a20b6
 SHA1sum: 3be5c65b74e3c77174c17c8f01d3258ee2b5a956
 SHA256sum: 1509f15b386326a1f077780cec5a21b149338946b9b8332fb53ffbb37b6eca0d
