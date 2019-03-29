@@ -225,7 +225,7 @@ Name: TwitterDarkMode
 Version: 0.1.2.1
 Size: 111208
 Architecture: iphoneos-arm
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, org.bigboss.libcolorpicker
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker
 Conflicts: com.quackdev.twitterdarkmode, com.tapsharp.twitterdarkmode, com.halston696.twitteruicustomizer, com.repo.xarold.com.twitterdarkmode
 Description: TwitterDarkMode.!:)
 Maintainer: iamgasgass <nick1710@live.it>
