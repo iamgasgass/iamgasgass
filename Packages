@@ -87,8 +87,8 @@ SHA1sum: 7aa40af5a4ee384bbe5ef92d44b77dd09731999a
 SHA256sum: ffeaea18da7120e0c440b71fba556935a66dd584c77a2dc688c4f2bf6041b75c
 Filename: debs//com.iamgasgass.hack10xto841_0.1h4ck_iphoneos-arm.deb
 
-Package: com.iamgasgass.iamosxs
-Name: iamOSXS
+Package: com.iamgasgass.amon-rhaxs
+Name: Amon-RhaXS
 Version: 0.3.4
 Size: 48406800
 Architecture: iphoneos-arm
