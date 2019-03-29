@@ -222,18 +222,18 @@ Filename: debs//com.iamgasgass.selector_0.1.1_iphoneos-arm.deb
 
 Package: com.iamgasgass.chargeanimations
 Name: ChargeAnimations
-Version: 0.1.2.2
-Size: 5842054
+Version: 0.2
+Size: 10292720
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 5.0), org.thebigboss.libcolorpicker, com.rpetrich.rocketbootstrap
 Description: Animation when you plug your charger!:)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: 5d672910419c4f0be636e27d69f5f4cc
-SHA1sum: cc25a870dc479fb8974101fd8415d029d54cfdca
-SHA256sum: fea59a400678fceca8727f72e8357339ccf4136342c6344cafbc27e5c4527aa9
-Filename: debs//com.iamgasgass.chargeanimations_0.1.2.2_iphoneos-arm.deb
+MD5sum: 2e1c92eb6603b4e40f74eeeab3053231
+SHA1sum: 4f9e28cf84c94562b125ecd2b132d199829454c8
+SHA256sum: ea3a750daab64a542a326bf4ae49210d95e251a2c59cbd6a234bcec8c67533b7
+Filename: debs//com.iamgasgass.chargeanimations_0.2_iphoneos-arm.deb
 
 Package: com.iamgasgass.twitterdarkmode
 Name: TwitterDarkMode
