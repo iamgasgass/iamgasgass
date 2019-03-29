@@ -677,20 +677,6 @@ SHA1sum: 1405815f1cf75dae0742e87aaede17c5ffee5ff4
 SHA256sum: 8344ccd8fa77d4f5cd0c0e295ef8df7ee836ce0209f744a40b128a4e86655548
 Filename: debs//com.iamgasgass.bazzi_0.2.4_iphoneos-arm.deb
 
-Package: com.iamgasgass.talion
-Name: Talion
-Version: 0.1.3
-Size: 111826
-Architecture: iphoneos-arm
-Description: Widgets for your lockscreen!:)
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: ecab499a9adfd72423f772863c1cb4ba
-SHA1sum: bcaaef0b0e9102c904ec0d9cbf523c52b2c31159
-SHA256sum: ab19c79b3f5fdef5db964d611eb119e2f4a7caea973875d299782ff49f4f59dc
-Filename: debs//com.iamgasgass.talion_0.1.3_iphoneos-arm.deb
 
 Package: com.iamgasgass.tacitus
 Name: Tacitus
