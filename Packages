@@ -847,3 +847,17 @@ MD5sum: 954adf6afaefbeec2130b76d7d8950f0
 SHA1sum: 2da6c8c4938d4a99f75a604d07079a8e7955c47b
 SHA256sum: c0f6aba41265143784e4a7627a591b9461712bbb15a295f9520f7ee12283a8da
 Filename: debs//ga.jakeashacks.substitutedummy_1.0_iphoneos-arm.deb
+
+Package: com.iamgasgass.osirisxs
+Name: osirisXS
+Version: 0.1.3
+Size: 27733376
+Architecture: iphoneos-arm
+Description: Osiris and watercolor themes!:) ENJOY.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Themes
+MD5sum: b9925a55322740feb12cc0e61cd45e0e
+SHA1sum: f21a65a14ebda9e848e138da1f205ecf2e9f2911
+SHA256sum: cae705f40ec7784d9fe1044bcb112c6157574a79cc95d89cc16009074b12374e
+Filename: debs//com.iamgasgass.osirisxs_1.0.deb
