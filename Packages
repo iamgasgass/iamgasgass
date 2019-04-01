@@ -824,7 +824,7 @@ Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
 Description: Anemone 3.0 for unc0ver! Thanks @Jakeashacks
 Depends: pincrush, mobilesubstrate
 Pre-Depends: curl, ga.jakeashacks.substitutedummy, jailbreak-resources (>= 0.7), ldid
-Maintainer: Jake James <jakeashacks@gmail.com>
+Maintainer: iamgasgass
 Author: Jake James <jakeashacks@gmail.com>
 Section: Tweaks
 MD5sum: a363b71248385091769f83d658f0be3e
@@ -840,7 +840,7 @@ Architecture: iphoneos-arm
 Provides: org.coolstar.tweakinject, com.ex.libsubstitute
 Replaces: org.coolstar.tweakinject, com.ex.libsubstitute
 Description: Add Substrate support to Substitute tweaks! Thanks @Jakeashacks
-Maintainer: Jake James <jakeashacks@gmail.com>
+Maintainer: iamgasgass
 Author: Jake James <jakeashacks@gmail.com>
 Section: Tweaks
 MD5sum: 954adf6afaefbeec2130b76d7d8950f0
