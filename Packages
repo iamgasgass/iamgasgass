@@ -3,7 +3,6 @@ Name: iamOSXS
 Version: 0.1.10x
 Size: 12761752
 Architecture: iphoneos-arm
-Depends: com.spark.snowboard, com.anemonetheming.anemone
 Description: A fantastic theme based on macOS X up and adapted for iOSxx.x ENJOY.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
@@ -62,7 +61,7 @@ Name: CoolBooter
 Version: 0.1.5
 Size: 28631426
 Architecture: iphoneos-arm
-Depends: xpwn, zip, unzip, Idid, diskdev-cmds, firmware (>= 7.0)
+Depends: xpwn, zip, unzip, ldid, diskdev-cmds, firmware (>= 7.0)
 Description: CoolBooter is a new way to downgrade and dual boot for jailbroken iOS 32Bit.!:)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
@@ -813,3 +812,38 @@ MD5sum: 694cacc5aacb5c3b266ae5e2b9959935
 SHA1sum: 80af629fef6ace817422059fa90e9c11db9704a9
 SHA256sum: c56f0ba0b4976ea813254c394cdd7228abeb2b324b0236b6ae2cc024f94a5432
 Filename: debs//com.iamgasgass.colorflow4_1.2.1h4ck_iphoneos-arm.deb
+
+Package: ga.jakeashacks.anemoneinstaller
+Name: Anemone3.0unc0ver
+Version: 1.0.1
+Size: 17830
+Architecture: iphoneos-arm
+Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Description: Anemone 3.0 for unc0ver! Thanks @Jakeashacks
+Depends: pincrush, mobilesubstrate
+Pre-Depends: curl, ga.jakeashacks.substitutedummy, jailbreak-resources (>= 0.7), ldid
+Maintainer: Jake James <jakeashacks@gmail.com>
+Author: Jake James <jakeashacks@gmail.com>
+Section: Tweaks
+MD5sum: a363b71248385091769f83d658f0be3e
+SHA1sum: 287c0c84a5fbb7c99388218366218f08267f06c6
+SHA256sum: d9712551724f15a6a36717cd09f2ae06d4763555cabdb0c3c88c542dd4aa2619
+Filename: debs//ga.jakeashacks.anemoneinstaller_1.0.1_iphoneos-arm.deb
+
+Package: ga.jakeashacks.substitutedummy
+Name: SubstituteDummy Unc0ver
+Version: 1.0
+Size: 6294
+Architecture: iphoneos-arm
+Provides: org.coolstar.tweakinject, com.ex.libsubstitute
+Replaces: org.coolstar.tweakinject, com.ex.libsubstitute
+Description: Add Substrate support to Substitute tweaks! Thanks @Jakeashacks
+Maintainer: Jake James <jakeashacks@gmail.com>
+Author: Jake James <jakeashacks@gmail.com>
+Section: Tweaks
+MD5sum: 954adf6afaefbeec2130b76d7d8950f0
+SHA1sum: 2da6c8c4938d4a99f75a604d07079a8e7955c47b
+SHA256sum: c0f6aba41265143784e4a7627a591b9461712bbb15a295f9520f7ee12283a8da
+Filename: debs//ga.jakeashacks.substitutedummy_1.0_iphoneos-arm.deb
