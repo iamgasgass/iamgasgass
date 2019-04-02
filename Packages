@@ -31,7 +31,7 @@ Name: CyDown
 Version: 0.6.9.7
 Size: 1546698
 Architecture: iphoneos-arm
-Description: Cydia downloader manager & extra features!
+Description: Cydia downloader manager & extra features! iOS 8 and up.
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (>=8.3) | Idid (>=1.2.1), mobilesubstrate, preferenceloader
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
@@ -46,7 +46,7 @@ Name: ReProvision
 Version: 0.4.2
 Size: 10555786
 Architecture: iphoneos-arm
-Description: Re-sign applications on your iDevice.!:)
+Description: Re-sign applications on your iDevice.!:) iOS 9 and up.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Depends: firmware (>= 9.0)
@@ -62,7 +62,7 @@ Version: 0.1.5
 Size: 28631426
 Architecture: iphoneos-arm
 Depends: xpwn, zip, unzip, ldid, diskdev-cmds, firmware (>= 7.0)
-Description: CoolBooter is a new way to downgrade and dual boot for jailbroken iOS 32Bit.!:)
+Description: CoolBooter is a new way to downgrade and dual boot for jailbroken iOS 32Bit.!:) iOS 7 up 10.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: System
@@ -91,7 +91,7 @@ Name: AutoWall
 Version: 0.1f
 Size: 53444
 Architecture: iphoneos-arm
-Description: Change the wallpaper dynamics setting the time, like macOS Mojave!:)
+Description: Change the wallpaper dynamics setting the time, like macOS Mojave!:) iOS 11 and up.
 Depends: mobilesubstrate, preferenceloader
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
@@ -106,7 +106,7 @@ Name: ModernDepictions
 Version: 0.1.35
 Size: 3979756
 Architecture: iphoneos-arm
-Description: Sileo depictions for Cydia.app on iOS 8-12!:)
+Description: Sileo depictions for Cydia.app on iOS 8 and up!:)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
@@ -136,7 +136,7 @@ Version: 1.8
 Size: 36371570
 Architecture: iphoneos-arm
 Depends: com.spark.snowboard, com.anemonetheming.anemone
-Description: Bring your iOS experience to new life with Anubys! It also contains iOS6 theme for the dead book's!:)
+Description: Bring your iOS experience to new life with Anubys! It also contains iOS6 theme for the book of the dead's!:)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Themes
@@ -151,7 +151,7 @@ Version: 0.1.5.1
 Size: 44996
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Description: Enable native iPad dock on all iDevices!:)
+Description: Enable native iPad dock on all iDevices!:) iOS 11 and up.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
@@ -166,7 +166,7 @@ Version: 0.1.8.1
 Size: 181150
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader
-Description: Custom volume HUD.!:)
+Description: Custom volume HUD.!:) iOS 10 and up.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
