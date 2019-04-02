@@ -981,3 +981,17 @@ MD5sum: 22bc6f704f555e946116869d475b8078
 SHA1sum: 8b39453cb8346c23c9845c519010b7fb4f6c1e93
 SHA256sum: 239f8842ff8c24f44eaecacc7c5d00800545c8af325182012416eda45771a6dc
 Filename: debs//me.nepeta.libmitsuha_0.1.4_iphoneos-arm.deb
+
+Package: com.iamgasgass.iphonexslivewallpaper12
+Name: iPhoneXS LiveWallpaper
+Version: 1.0
+Size: 18434736
+Architecture: iphoneos-arm
+Description: Wallpaper of my iPhoneXS.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass
+Section: Wallpaper
+MD5sum: 40e825be29256e5e7febac19a282644e
+SHA1sum: e2854f0b4c7dbc8aea66c00089919101d2787707
+SHA256sum: 0003e2a4a80973a2dd3ab31565b728fab9adeeb61e5e4e5b4b071181b79c68e6
+Filename: debs//com.iamgasgass.iphonexslivewallpaper12_1.0_iphoneos-arm.deb
