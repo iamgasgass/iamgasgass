@@ -106,8 +106,7 @@ Name: ModernDepictions
 Version: 0.1.35
 Size: 3979756
 Architecture: iphoneos-arm
-Description: Change the wallpaper dynamics setting the time, like macOS Mojave!:)
-Depends: mobilesubstrate, preferenceloader
+Description: Sileo depictions for Cydia.app on iOS 8-12!:)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
