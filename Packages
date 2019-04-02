@@ -915,7 +915,7 @@ Architecture: iphoneos-arm
 Description: iOS mediaserverd hook to serve snapshots of current audio buffer via TCP/IP. Thanks to @NepetaDev
 Maintainer: iamgasgass <nick1710@live.it>
 Author: Nepeta
-Section: Tweaks
+Section: Development
 MD5sum: 4f9c4864ee9eb3555eb3e5ec72a7c336
 SHA1sum: 0b014a8265d3081db9adf6a96ff4310683224fbd
 SHA256sum: f34a0f92522b9b8cacd3ae1346ae69c228fe51bf2a2db24afa405780494b9638
