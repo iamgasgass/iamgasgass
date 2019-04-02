@@ -972,6 +972,7 @@ Name: libmitsuha
 Version: 0.1.4
 Size: 27878
 Architecture: iphoneos-arm
+Depends: io.ominousness.ass
 Description: Audio visualizer library utils. Thanks to @NepetaDev
 Maintainer: iamgasgass <nick1710@live.it>
 Author: Nepeta
