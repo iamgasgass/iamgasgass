@@ -890,3 +890,63 @@ MD5sum: b9925a55322740feb12cc0e61cd45e0e
 SHA1sum: f21a65a14ebda9e848e138da1f205ecf2e9f2911
 SHA256sum: cae705f40ec7784d9fe1044bcb112c6157574a79cc95d89cc16009074b12374e
 Filename: debs//com.iamgasgass.osirisxs_1.0.deb
+
+Package: io.ominousness.mitsuhaxi
+Name: MitsuhaXI
+Version: 0.5.5
+Size: 62696
+Architecture: iphoneos-arm
+Description: Universal iOS 11 and up audio visualizer. Thanks to @NepetaDev
+Depends: org.thebigboss.libcolorpicker, io.ominousness.ass, ws.hbang.common (>= 1.11)
+Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta
+Maintainer: iamgasgass <nick1710@live.it>
+Author: Nepeta
+Section: Tweaks
+MD5sum: 865db6c18b69902a80687768da0c4fb8
+SHA1sum: 4bd2316f4a6e5edcdd649d177d97df400b66200b
+SHA256sum: 822d4241e63efd0f226a0c5024a8d71dec5252f3bccc77558f701c530f923912
+Filename: debs//io.ominousness.mitsuhaxi_0.5.5_iphoneos-arm.deb
+
+Package: io.ominousness.ass
+Name: AudioSnapshotServer
+Version: 1.0.0
+Size: 5352
+Architecture: iphoneos-arm
+Description: iOS mediaserverd hook to serve snapshots of current audio buffer via TCP/IP. Thanks to @NepetaDev
+Maintainer: iamgasgass <nick1710@live.it>
+Author: Nepeta
+Section: Tweaks
+MD5sum: 4f9c4864ee9eb3555eb3e5ec72a7c336
+SHA1sum: 0b014a8265d3081db9adf6a96ff4310683224fbd
+SHA256sum: f34a0f92522b9b8cacd3ae1346ae69c228fe51bf2a2db24afa405780494b9638
+Filename: debs//io.ominousness.ass_1.0.0_iphoneos-arm.deb
+
+Package: me.nepeta.notifica
+Name: Notifica
+Version: 0.1.10
+Size: 358814
+Architecture: iphoneos-arm
+Description: Notifications customizer and more. Thanks to @NepetaDev
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), me.libnepeta
+Conflicts: ch.mdaus.palette, com.golddavid.colorbanners2-new
+Maintainer: iamgasgass <nick1710@live.it>
+Author: Nepeta
+Section: Tweaks
+MD5sum: f26663f83bd4683650a842743d566c50
+SHA1sum: c524538e6ca002d728ab7c59b4ad2d2802a4a1fa
+SHA256sum: e0d091d522d59f652298dcc1f7a012fc3ed6b96cbb51f603dcc061cd74718efc
+Filename: debs//me.nepeta.notifica_0.1.10_iphoneos-arm.deb
+
+Package: me.nepeta.libnepeta
+Name: libnepeta
+Version: 0.1.0
+Size: 15896
+Architecture: iphoneos-arm
+Description: Nepeta's color utils. Thanks to @NepetaDev
+Maintainer: iamgasgass <nick1710@live.it>
+Author: Nepeta
+Section: Development
+MD5sum: 974857d9aa0d4e415cfa80fc97461c93
+SHA1sum: 881a90cb9286e03a2e4f910735a8fd53b4d5a8e1
+SHA256sum: 5fef36e7465595caf5895f4d974e56d180f485a7f0be3b6cda88136e7f975bb4
+Filename: debs//me.nepeta.libnepeta_0.1.0_iphoneos-arm.deb
