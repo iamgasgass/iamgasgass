@@ -101,6 +101,21 @@ SHA1sum: fac9ff1a3808d5cad71cf6e4d8cef53f2ade4916
 SHA256sum: 66aa9bae2cecbe56a760b827daa98efe4cab92156b9f52fc49fe0d74223c6a36
 Filename: debs//com.iamgasgass.autowall_0.1f_iphoneos-arm.deb
 
+Package: com.iamgasgass.moderndepictions
+Name: ModernDepictions
+Version: 0.1.35
+Size: 3979756
+Architecture: iphoneos-arm
+Description: Change the wallpaper dynamics setting the time, like macOS Mojave!:)
+Depends: mobilesubstrate, preferenceloader
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 853e67fe0f84a0e2f794218dd3fc7af2
+SHA1sum: 8e5ceb378ec90cea9ae43958b848f28a5870afb6
+SHA256sum: 0128de967ecb572f3bec0488880e213e6a4d64fd220ee04d1b908c9f8e091968
+Filename: debs//com.iamgasgass.moderndepictions_0.1.35_iphoneos-arm.deb
+
 Package: com.iamgasgass.amon-rhaxs
 Name: Amon-RhaXS
 Version: 0.3.4
