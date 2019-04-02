@@ -647,7 +647,7 @@ Size: 27158
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Description: Modified version of lib bulletin that fixes a nasty crash on iOS12
-Section: Tweaks
+Section: Development
 Author: iamgasgass
 Maintainer: iamgasgass
 MD5sum: 323ace8928569c7aa4995429aae9c671
@@ -950,3 +950,33 @@ MD5sum: 974857d9aa0d4e415cfa80fc97461c93
 SHA1sum: 881a90cb9286e03a2e4f910735a8fd53b4d5a8e1
 SHA256sum: 5fef36e7465595caf5895f4d974e56d180f485a7f0be3b6cda88136e7f975bb4
 Filename: debs//me.nepeta.libnepeta_0.1.0_iphoneos-arm.deb
+
+Package: me.nepeta.mitsuhainfinity
+Name: MitsuhaInfinity
+Version: 0.1.3
+Size: 36130
+Architecture: iphoneos-arm
+Description: Universal iOS 11 and up audio visualizer. Thanks to @NepetaDev
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.4), me.nepeta.libnepeta
+Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
+Maintainer: iamgasgass <nick1710@live.it>
+Author: Nepeta
+Section: Tweaks
+MD5sum: 75e9674b1a432cde43631f7014a9e1ed
+SHA1sum: 7d03dad7ff2c52a87169f8aed245ddad9c777a8f
+SHA256sum: 9830a704d6441fba8a633018306ff14fba3c73add94b8505c8a4dd88273379b3
+Filename: debs//me.nepeta.mitsuhainfinity_0.1.3_iphoneos-arm.deb
+
+Package: me.nepeta.libmitsuha
+Name: libmitsuha
+Version: 0.1.4
+Size: 27878
+Architecture: iphoneos-arm
+Description: Audio visualizer library utils. Thanks to @NepetaDev
+Maintainer: iamgasgass <nick1710@live.it>
+Author: Nepeta
+Section: Development
+MD5sum: 22bc6f704f555e946116869d475b8078
+SHA1sum: 8b39453cb8346c23c9845c519010b7fb4f6c1e93
+SHA256sum: 239f8842ff8c24f44eaecacc7c5d00800545c8af325182012416eda45771a6dc
+Filename: debs//me.nepeta.libmitsuha_0.1.4_iphoneos-arm.deb
