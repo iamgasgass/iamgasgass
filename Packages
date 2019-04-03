@@ -1055,3 +1055,18 @@ MD5sum: 40e825be29256e5e7febac19a282644e
 SHA1sum: e2854f0b4c7dbc8aea66c00089919101d2787707
 SHA256sum: 0003e2a4a80973a2dd3ab31565b728fab9adeeb61e5e4e5b4b071181b79c68e6
 Filename: debs//com.iamgasgass.iphonexslivewallpaper12_1.0_iphoneos-arm.deb
+
+Package: com.iamgasgass.deezehack
+Name: DeezeHack
+Version: 0.1pwn
+Size: 31944
+Architecture: iphoneos-arm
+Description: Deezer Fully Premium Features, Unrestrict Music. Requires Deezer App (AppStore)! ENJOY.
+Depends: mobilesubstrate
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 6e8dbe50ef66df270e9b2dc8daa2f60c
+SHA1sum: f85b1bc7b204b7cc877a0d13eba635bda4c2d9a1
+SHA256sum: c3e6db13b3d42c8491dbc011a5ca183fd718c5d50dc8316d9057eb5e09a4fdad
+Filename: debs//com.iamgasgass.deezehack_0.5_iphoneos-arm.deb
