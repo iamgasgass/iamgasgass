@@ -86,34 +86,79 @@ SHA1sum: 7aa40af5a4ee384bbe5ef92d44b77dd09731999a
 SHA256sum: ffeaea18da7120e0c440b71fba556935a66dd584c77a2dc688c4f2bf6041b75c
 Filename: debs//com.iamgasgass.hack10xto841_0.1h4ck_iphoneos-arm.deb
 
-Package: com.iamgasgass.autowall
-Name: AutoWall
-Version: 0.1f
-Size: 53444
+Package: com.iamgasgass.cydown
+Name: CyDown
+Version: 0.6.9.7
+Size: 1546698
 Architecture: iphoneos-arm
-Description: Change the wallpaper dynamics setting the time, like macOS Mojave!:) iOS 11 and up.
-Depends: mobilesubstrate, preferenceloader
+Description: Cydia downloader manager & extra features! iOS 8 and up.
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (>=8.3) | Idid (>=1.2.1), mobilesubstrate, preferenceloader
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: 703a99bfbf869e0c16af39ad158db6b4
-SHA1sum: fac9ff1a3808d5cad71cf6e4d8cef53f2ade4916
-SHA256sum: 66aa9bae2cecbe56a760b827daa98efe4cab92156b9f52fc49fe0d74223c6a36
-Filename: debs//com.iamgasgass.autowall_0.1f_iphoneos-arm.deb
+MD5sum: 44cfee4a10ef047bdd7230d04419028b
+SHA1sum: 38779b361423d8bf041d15f21ad2d4a8b2f07f86
+SHA256sum: d7dbc4652ab70f30618de002553983c10ffb3d8e39a6a5e4d5785024e985fd15
+Filename: debs//com.iamgasgass.cydown_0.6.9.7_iphoneos-arm.deb
+
+Package: com.iamgasgass.login
+Name: Login
+Version: 1.0.4h4ck
+Size: 687906
+Architecture: iphoneos-arm
+Description: Unlock your device with OSX-style login screen!:)
+Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0), com.bd452.libpass
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: ff90333d665c71421da4ed2851847451
+SHA1sum: 1ba1d16f0cc92253953dee3166864ff6d0b51f72
+SHA256sum: 232981d5d62e81502a4c35e03d0a74945612b63d0e0329380b5d375e91946f30
+Filename: debs//com.iamgasgass.login_1.0.4h4ck_iphoneos-arm.deb
+
+Package: com.iamgasgass.anchor
+Name: Anchor
+Version: 2.0.4h4ck
+Size: 132104
+Architecture: iphoneos-arm
+Description: Keep your icons where you want them.!:)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware (>= 7.0), applist, com.chpwn.iconsupport
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: c4d2faf579071b42e95f89121dc42c02
+SHA1sum: 4ed09fff418c397d9156b823108f44d829c8c1c4
+SHA256sum: 44b648291ab594d8592be2cba03256a1dd092f257ed8ee8c0f249ce967e70641
+Filename: debs//com.iamgasgass.com.anchor_2.0.4h4ck_iphoneos-arm.deb
 
 Package: com.iamgasgass.moderndepictions
 Name: ModernDepictions
-Version: 0.1.35
-Size: 3979756
+Version: 0.1.44
+Size: 3981610
 Architecture: iphoneos-arm
 Description: Sileo depictions for Cydia.app on iOS 8 and up!:)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: 853e67fe0f84a0e2f794218dd3fc7af2
-SHA1sum: 8e5ceb378ec90cea9ae43958b848f28a5870afb6
-SHA256sum: 0128de967ecb572f3bec0488880e213e6a4d64fd220ee04d1b908c9f8e091968
-Filename: debs//com.iamgasgass.moderndepictions_0.1.35_iphoneos-arm.deb
+MD5sum: f296bea52d9ca0cefed334d92d78a9f3
+SHA1sum: 792c3001b71591c5e0cdfcb7e9c39bd6b7d66e0b
+SHA256sum: 44747292fc25e8966fd9021f8c23c3ebece5487655e96898dfef4232db578d7c
+Filename: debs//com.iamgasgass.moderndepictions_0.1.44_iphoneos-arm.deb
+
+Package: com.iamgasgass.pip
+Name: PiPXS
+Version: 0.12
+Size: 51332
+Architecture: iphoneos-arm
+Depends: firmware (>= 9.0), mobilesubstrate
+Description: Enable Picture in Picture feature to iOS 9 and up.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 678df611dc08d5d9fa862f74fbf36213
+SHA1sum: ca549ac789ef28dfc2d1ca31663dc4f7af847dfb
+SHA256sum: 61461912b4f9b9b0fc30155d7921d2a40f1655b78722dd33d4ba58187f6d38ff
+Filename: debs//com.iamgasgass.pip_0.12_iphoneos-arm.deb
 
 Package: com.iamgasgass.amon-rhaxs
 Name: Amon-RhaXS
