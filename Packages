@@ -1,16 +1,16 @@
 Package: com.iamgasgass.iamosxs
 Name: iamOSXS
-Version: 0.1.10x
-Size: 12761752
+Version: 0.1.11
+Size: 10958576
 Architecture: iphoneos-arm
 Description: A fantastic theme based on macOS X up and adapted for iOSxx.x ENJOY.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Themes
-MD5sum: 4d88667107452ee50e73dabbc13d1c1e
-SHA1sum: 15b21d42bf61dcd1fba426f36738074e4a2746d4
-SHA256sum: 64e6e3260306c117948ce328a198683cbf8851d267958f49b6a2dc4a7e046152
-Filename: debs//com.iamgasgass.iamosxs_0.1.10x_iphoneos-arm.deb
+MD5sum: 4b755c9446cd968e565eae5375bd4328
+SHA1sum: 018d26aeb61498c4f83f5a9900727ab0ebd1ac59
+SHA256sum: 32749bb70b4da593b2c49a91de36a1926d1dae324df2e6f22fad13c2a03987f6
+Filename: debs//com.iamgasgass.iamosxs_0.1.11x_iphoneos-arm.deb
 
 Package: com.iamgasgass.osxsfull
 Name: OSXSFull
