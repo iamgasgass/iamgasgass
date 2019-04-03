@@ -26,6 +26,21 @@ SHA1sum: efdacabd16fbb9169ad0c43ecdf5e4a13dadce89
 SHA256sum: 7d47df48bad7dd9d950618b226191c228900ce4df46a4b7daa5710ae78ad5e72
 Filename: debs//com.iamgasgass.osxsfull_0.2.1.1_iphoneos-arm.deb
 
+Package: com.iamgasgass.autowall
+Name: AutoWall
+Version: 0.1f
+Size: 53444
+Architecture: iphoneos-arm
+Description: Change the wallpaper dynamics setting the time, like macOS Mojave!:) iOS 11 and up.
+Depends: mobilesubstrate, preferenceloader
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 703a99bfbf869e0c16af39ad158db6b4
+SHA1sum: fac9ff1a3808d5cad71cf6e4d8cef53f2ade4916
+SHA256sum: 66aa9bae2cecbe56a760b827daa98efe4cab92156b9f52fc49fe0d74223c6a36
+Filename: debs//com.iamgasgass.autowall_0.1f_iphoneos-arm.deb
+
 Package: com.iamgasgass.cydown
 Name: CyDown
 Version: 0.6.9.7
