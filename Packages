@@ -987,7 +987,7 @@ Version: 0.1.10
 Size: 358814
 Architecture: iphoneos-arm
 Description: Notifications customizer and more. Thanks to @NepetaDev
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), me.libnepeta
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta
 Conflicts: ch.mdaus.palette, com.golddavid.colorbanners2-new
 Maintainer: iamgasgass <nick1710@live.it>
 Author: Nepeta
@@ -1070,3 +1070,17 @@ MD5sum: 6e8dbe50ef66df270e9b2dc8daa2f60c
 SHA1sum: f85b1bc7b204b7cc877a0d13eba635bda4c2d9a1
 SHA256sum: c3e6db13b3d42c8491dbc011a5ca183fd718c5d50dc8316d9057eb5e09a4fdad
 Filename: debs//com.iamgasgass.deezehack_0.5_iphoneos-arm.deb
+
+Package: com.iamgasgass.macosxmojavedynamicx
+Name: macOSX MojaveDynamic X
+Version: 1.0
+Size: 46099896
+Architecture: iphoneos-arm
+Description: Wallpaper of macOSX adapted for iPhoneX(S). Open this package with Filza and extract, then save all the images.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass
+Section: Wallpaper
+MD5sum: 82f5eb4d9f796f0a5c20f6dbf51fea30
+SHA1sum: 3129ec27e266e4dd9d92639db3c14e4464b15414
+SHA256sum: 21f930d18c06caa55286f8c759e58c12c8983a817df018a0d3c8b5578b98912b
+Filename: debs//com.iamgasgass.macosxmojavedynamicx_1.0_iphoneos-arm.deb
