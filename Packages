@@ -148,17 +148,17 @@ Filename: debs//com.iamgasgass.com.anchor_2.0.4h4ck_iphoneos-arm.deb
 
 Package: com.iamgasgass.moderndepictions
 Name: ModernDepictions
-Version: 0.1.44
-Size: 3981610
+Version: 0.2.6
+Size: 3994034
 Architecture: iphoneos-arm
 Description: Sileo depictions for Cydia.app on iOS 8 and up!:)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: f296bea52d9ca0cefed334d92d78a9f3
-SHA1sum: 792c3001b71591c5e0cdfcb7e9c39bd6b7d66e0b
-SHA256sum: 44747292fc25e8966fd9021f8c23c3ebece5487655e96898dfef4232db578d7c
-Filename: debs//com.iamgasgass.moderndepictions_0.1.44_iphoneos-arm.deb
+MD5sum: e72b4b3f3f1cac1ce2c3173c48e87406
+SHA1sum: 669f4d879f0754e4921e9953193da437c7ac2164
+SHA256sum: d394a79893af6326fce5a9f225b943037641a1d15c5cfad4b20d44da9bbf5af5
+Filename: debs//com.iamgasgass.moderndepictions_0.2.6_iphoneos-arm.deb
 
 Package: com.iamgasgass.pip
 Name: PiPXS
@@ -180,7 +180,6 @@ Name: Amon-RhaXS
 Version: 0.3.4
 Size: 48406800
 Architecture: iphoneos-arm
-Depends: com.spark.snowboard, com.anemonetheming.anemone
 Description: A new day, a new theme, a new experience with Amon-RhaXS theme!:)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
@@ -195,7 +194,6 @@ Name: Anubys
 Version: 1.8
 Size: 36371570
 Architecture: iphoneos-arm
-Depends: com.spark.snowboard, com.anemonetheming.anemone
 Description: Bring your iOS experience to new life with Anubys! It also contains iOS6 theme for the book of the dead's!:)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
@@ -255,6 +253,7 @@ Name: BundleIDXS
 Version: 0.1.1.2
 Size: 106660
 Architecture: iphoneos-arm
+Depends: applist
 Description: This app allows you to see and copy with simply tap the Bundle ID's od the applications installed on your device.!:)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
@@ -360,7 +359,6 @@ Version: 0.10.88
 Size: 38406860
 Architecture: iphoneos-arm
 Description: Colourful explosions. Now with extra colour.
-Depends: com.spark.snowboard, com.anemonetheming.anemone
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Themes
@@ -371,17 +369,17 @@ Filename: debs//com.iamgasgass.njsdesignx_iphoneos-arm.deb
 
 Package: com.iamgasgass.njscontrol
 Name: NJ.'sControl
-Version: 0.1.1
-Size: 445372
+Version: 0.1.2.11
+Size: 442528
 Architecture: iphoneos-arm
 Description: This is nControl alternative(repackagefromme)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: 1dca160bc72296e8b705a47ae9f8ba3e
-SHA1sum: 2160a3c1e3cb17268d602d153e552a4a4fa76925
-SHA256sum: 1a47d9dbfb0aa044eb23627725e9745eeb011f111019c22abb630da9fa12f367
-Filename: debs//com.iamgasgass.njscontrol_1.deb
+MD5sum: dd1e79f3e6dc208f9862bf5e83f30ecc
+SHA1sum: f6683d93d6e7d580884242a5e56d5858f0b5fe5b
+SHA256sum: cd374df6ee0b4598c51775f69b1aa07df2aa86b7691d55f5faf3b7bd29185c5e
+Filename: debs//com.iamgasgass.njscontrol_0.1.2.11_iphoneos-arm.deb
 
 Package: com.iamgasgass.tupacrespring
 Name: TupacRespring
@@ -735,7 +733,6 @@ Name: FluxiusXS
 Version: 3.5.1
 Size: 17033664
 Architecture: iphoneos-arm
-Depends: com.spark.snowboard, com.anemonetheming.anemone
 Description: A awesome iOS redesigned and optimized with some fun!:)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
@@ -1084,3 +1081,18 @@ MD5sum: 82f5eb4d9f796f0a5c20f6dbf51fea30
 SHA1sum: 3129ec27e266e4dd9d92639db3c14e4464b15414
 SHA256sum: 21f930d18c06caa55286f8c759e58c12c8983a817df018a0d3c8b5578b98912b
 Filename: debs//com.iamgasgass.macosxmojavedynamicx_1.0_iphoneos-arm.deb
+
+Package: com.iamgasgass.unique13
+Name: Unique13
+Version: 0.1.9
+Size: 5140358
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0)
+Description: A essential theme and concept of an iOS 13 redesign.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Themes
+MD5sum: 1d6362bd0e27c73c9f7f77c63ec27277
+SHA1sum: dad8aa4d3cf29981a9e49f3404fa5eefd46a25d9
+SHA256sum: 266aaa0ae75c9f923cf7691317430ce290ba1bba9b9389672afc15b4be0e7948
+Filename: debs//com.iamgasgass.unique13.deb
