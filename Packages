@@ -1096,3 +1096,17 @@ MD5sum: 1d6362bd0e27c73c9f7f77c63ec27277
 SHA1sum: dad8aa4d3cf29981a9e49f3404fa5eefd46a25d9
 SHA256sum: 266aaa0ae75c9f923cf7691317430ce290ba1bba9b9389672afc15b4be0e7948
 Filename: debs//com.iamgasgass.unique13.deb
+
+Package: com.iamgasgass.mojavexs
+Name: MojaveXS
+Version: 10.14
+Size: 75030
+Architecture: iphoneos-arm
+Description: Mojave like alkaline theme to battery fresh and clean while charging. Looks better with iamOSXS.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Themes
+MD5sum: ee598c989d3c481982a831587c010dd9
+SHA1sum: 48150ad000b97ed0900b6765b2d92c5b571ff501
+SHA256sum: 3e32f9059a03463d9e9f973feca4271bc01971a1d618e30fccab4dd632d9abe8
+Filename: debs//com.iamgasgass.mojavexs_10.14_iphoneos-arm.deb
