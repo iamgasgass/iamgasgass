@@ -1116,7 +1116,7 @@ Name: FloatingDockPlus
 Version: 1.3
 Size: 66200
 Architecture: iphoneos-arm
-Depends: firmware (>= 11.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker,com.spark.libsparkapplist
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.spark.libsparkapplist
 Conflicts: com.imkpatil.floatingdock, com.synnyg.floatydock
 Description: Enable native iPad dock on all iDevices!:) iOS 11 and up.
 Maintainer: iamgasgass <nick1710@live.it>
