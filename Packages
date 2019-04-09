@@ -1110,3 +1110,19 @@ MD5sum: ee598c989d3c481982a831587c010dd9
 SHA1sum: 48150ad000b97ed0900b6765b2d92c5b571ff501
 SHA256sum: 3e32f9059a03463d9e9f973feca4271bc01971a1d618e30fccab4dd632d9abe8
 Filename: debs//com.iamgasgass.mojavexs_10.14_iphoneos-arm.deb
+
+Package: com.iamgasgass.floatingdockplus
+Name: FloatingDockPlus
+Version: 1.3
+Size: 66200
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker,com.spark.libsparkapplist
+Conflicts: com.imkpatil.floatingdock, com.synnyg.floatydock
+Description: Enable native iPad dock on all iDevices!:) iOS 11 and up.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: e327132ff93d9dc01d280f1e4dcc940e
+SHA1sum: ee51e0fbfeeeeb6e0b4efdfd5f1c95abaf276f36
+SHA256sum: c4f434ffb4d5f6eee3448161a8ac2e5fa78be25ab9c7c949eee411652f123385
+Filename: debs//com.iamgasgass.floatingdockplus_1.3_iphoneos-arm.deb
