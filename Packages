@@ -1126,3 +1126,20 @@ MD5sum: e327132ff93d9dc01d280f1e4dcc940e
 SHA1sum: ee51e0fbfeeeeb6e0b4efdfd5f1c95abaf276f36
 SHA256sum: c4f434ffb4d5f6eee3448161a8ac2e5fa78be25ab9c7c949eee411652f123385
 Filename: debs//com.iamgasgass.floatingdockplus_1.3_iphoneos-arm.deb
+
+Package: com.pulandres.myriad
+Name: Myriad
+Version: 0.2.6h4ck
+Size: 1410240
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, jp.ashikase.techsupport, com.spark.libsparkapplist
+Conflicts: com.spark.splitview
+Replaces: com.spark.myriad
+Description: Enable native iPad dock on all iDevices!:) iOS 11 and up.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: Spark
+Section: Tweaks
+MD5sum: b9040945b3868173de37b441aca7754e
+SHA1sum: 7e208bf22bc136b44113d2aff4b960c5427ad822
+SHA256sum: 08183164fd9a4842ba885d180fe51582022da3017c87791944fea2df79c9be90
+Filename: debs//com.pulandres.myriad_0.2.6_iphoneos-arm.deb
