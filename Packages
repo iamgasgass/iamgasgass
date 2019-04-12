@@ -1101,6 +1101,7 @@ Name: MojaveXS
 Version: 10.14
 Size: 75030
 Architecture: iphoneos-arm
+Depends: com.fortysixandtwo.alkaline
 Description: Mojave like alkaline theme to battery fresh and clean while charging. Looks better with iamOSXS.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
