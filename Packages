@@ -1129,13 +1129,13 @@ Filename: debs//com.iamgasgass.floatingdockplus_1.3_iphoneos-arm.deb
 
 Package: com.pulandres.myriad
 Name: Myriad
-Version: 0.2.6h4ck
+Version: 0.2.6
 Size: 1410240
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, preferenceloader, jp.ashikase.techsupport, com.spark.libsparkapplist
 Conflicts: com.spark.splitview
 Replaces: com.spark.myriad
-Description: Enable native iPad dock on all iDevices!:) iOS 11 and up.
+Description: Split your screen
 Maintainer: iamgasgass <nick1710@live.it>
 Author: Spark
 Section: Tweaks
