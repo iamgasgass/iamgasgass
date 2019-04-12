@@ -148,17 +148,18 @@ Filename: debs//com.iamgasgass.com.anchor_2.0.4h4ck_iphoneos-arm.deb
 
 Package: com.iamgasgass.moderndepictions
 Name: ModernDepictions
-Version: 0.2.6
-Size: 3994034
+Version: 0.3.91
+Size: 4056634
 Architecture: iphoneos-arm
 Description: Sileo depictions for Cydia.app on iOS 8 and up!:)
+Depends: mobilesubstrate, firmware (>= 8.0), org.thebigboss.libcolorpicker, preferenceloader, ws.hbang.common (>= 1.11)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: e72b4b3f3f1cac1ce2c3173c48e87406
-SHA1sum: 669f4d879f0754e4921e9953193da437c7ac2164
-SHA256sum: d394a79893af6326fce5a9f225b943037641a1d15c5cfad4b20d44da9bbf5af5
-Filename: debs//com.iamgasgass.moderndepictions_0.2.6_iphoneos-arm.deb
+MD5sum: 9763366aba9af9919a500c75c533a163
+SHA1sum: 7c701de73cf93d9a2ac0a876afd00f6825402302
+SHA256sum: 14d815fd92d5ecfda11e81b08501b71ce18f2833e882f4bbe0954bd77eece6f7
+Filename: debs//com.iamgasgass.moderndepictions_0.3.91_iphoneos-arm.deb
 
 Package: com.iamgasgass.pip
 Name: PiPXS
@@ -744,20 +745,18 @@ Filename: debs//com.iamgasgass.fluxiusxs_3.5.1_iphoneos-arm.deb
 
 Package: com.iamgasgass.xeon
 Name: Xeon
-Version: 0.1.1
-Size: 960516
+Version: 1.2.3
+Size: 1024992
 Architecture: iphoneos-arm
 Description: Customize the iDevice with a pic on statusbar.
-Depends: mobilesubstrate, ws.hbang.common (>=1.11), firmware (>=11.0), cy+cpu.arm64, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1), com.muirey03.libimagepicker
-Conflicts: com.alexzielenski.zeppelin, zeppelin
-Provides: com.alexzielenski.zeppelin, zeppelin
-Replaces: com.alexzielenski.zeppelin, zeppelin
+Depends: mobilesubstrate, ws.hbang.common (>=1.11), firmware (>=11.0), cy+cpu.arm64, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1), com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker
+Conflicts: com.peterdev.xeon
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: a9cd16fad2d2d86c22cb4e498a330fe9
-SHA1sum: 7b67ae2792191b79b980b4cba4c7f0c5a4892d9b
-SHA256sum: 4c07a730301da768c10970b57fee4f9de0807ca4c0a52670971743d01d799d7b
+MD5sum: 51ee6bc175d7b4ebe37a025ebaa074d3
+SHA1sum: 737beced424a492847f745289bbb95c7df855cd7
+SHA256sum: 6493c5280015b0598ec933b8eeaa5d1b406b1840711205f14853d81dc6d2dc0c
 Filename: debs//com.iamgasgass.xeon_1.deb
 
 Package: com.iamgasgass.bazzi
