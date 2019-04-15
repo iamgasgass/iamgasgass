@@ -377,7 +377,7 @@ Description: This is nControl alternative(repackagefromme)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: dd1e79f3e6dc208f9862bf5e83f30ecc
+MD5sum: 0f374fad318d6579298b18e32ef2c42e
 SHA1sum: f6683d93d6e7d580884242a5e56d5858f0b5fe5b
 SHA256sum: cd374df6ee0b4598c51775f69b1aa07df2aa86b7691d55f5faf3b7bd29185c5e
 Filename: debs//com.iamgasgass.njscontrol_0.1.2.11_iphoneos-arm.deb
@@ -1143,3 +1143,17 @@ MD5sum: b9040945b3868173de37b441aca7754e
 SHA1sum: 7e208bf22bc136b44113d2aff4b960c5427ad822
 SHA256sum: 08183164fd9a4842ba885d180fe51582022da3017c87791944fea2df79c9be90
 Filename: debs//com.pulandres.myriad_0.2.6_iphoneos-arm.deb
+
+Package: com.iamgasgass.iamosmavericks
+Name: iamOSMavericks
+Version: 0.1.4
+Size: 17605174
+Architecture: iphoneos-arm
+Description: A fantastic theme based on macOS X Mavericks & Snowleopard and adapted for iOSxx.x ENJOY
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Themes
+MD5sum: 5356bf7e03a4dd1e64c402f372673948
+SHA1sum: 46cba51d103d4bf9ca099d473dad9cc5a1faa774
+SHA256sum: 9a471f165be0972cc14c30b75b1003e272046e901ade9cf1f73b589987df7c31
+Filename: debs//com.iamgasgass.iamosmavericks_0.1.4_iphoneos-arm.deb
