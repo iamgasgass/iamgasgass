@@ -750,7 +750,7 @@ Size: 1023598
 Architecture: iphoneos-arm
 Description: Customize the iDevice with a pic on statusbar.
 Depends: mobilesubstrate, ws.hbang.common (>=1.11), firmware (>=11.0), cy+cpu.arm64, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1), com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker
-Conflicts: com.peterdev.xeon
+Conflicts: com.peterdev.xeon, org.cydia.kiimo.xeon
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
