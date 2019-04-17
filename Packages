@@ -745,19 +745,19 @@ Filename: debs//com.iamgasgass.fluxiusxs_3.5.1_iphoneos-arm.deb
 
 Package: com.iamgasgass.xeon
 Name: Xeon
-Version: 1.2.3
-Size: 1024992
+Version: 1.2.3h4ck
+Size: 1023598
 Architecture: iphoneos-arm
 Description: Customize the iDevice with a pic on statusbar.
 Depends: mobilesubstrate, ws.hbang.common (>=1.11), firmware (>=11.0), cy+cpu.arm64, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1), com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker
-Conflicts: com.peterdev.xeon
+Conflicts: com.peterdev.xeon, org.cydia.kiimo.xeon
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: 51ee6bc175d7b4ebe37a025ebaa074d3
-SHA1sum: 737beced424a492847f745289bbb95c7df855cd7
-SHA256sum: 6493c5280015b0598ec933b8eeaa5d1b406b1840711205f14853d81dc6d2dc0c
-Filename: debs//com.iamgasgass.xeon_1.deb
+MD5sum: 3b752d42e41c504a91544a5efb11786f
+SHA1sum: b653fca3492d58ebe0bd0ce38e4714b1651fddce
+SHA256sum: 52ac92d199f8bd77eb7c395c38ea74a7586aa419bb22f9b7c7b7b6b508c0a2d3
+Filename: debs//com.iamgasgass.xeon.deb
 
 Package: com.iamgasgass.bazzi
 Name: Bazzi
