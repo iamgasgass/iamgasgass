@@ -1161,13 +1161,13 @@ Filename: debs//com.iamgasgass.iamosmavericks_0.1.4_iphoneos-arm.deb
 Package: com.iamgasgass.spotihackios6
 Name: SpotiHackiOS6
 Version: 0.2h4ck
-Size: 9336
+Size: 9140
 Architecture: iphoneos-arm
 Description: A tweak that hack the Spotify.app on AppStore. ENJOY
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: 56fa0af1094f47b683554fdd1e02735d
-SHA1sum: d261ce9a288bedbd15213e218464c7a93b489464
-SHA256sum: 96538dd83ea19f3f7ea109ed9055363ae97aae26494065c462e146c073855c95
+MD5sum: 148d8e09215c5e9f63106693c0817f23
+SHA1sum: e2705fd58c499e3e6a50606d4eb2c3aee214a35f
+SHA256sum: 578030ba4f0a09402f53a1255206b7f32fe41172e498558d6c5a6ff19b005bb0
 Filename: debs//com.iamgasgass.spotihackios6.deb
