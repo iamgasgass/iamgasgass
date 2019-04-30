@@ -234,21 +234,6 @@ SHA1sum: 3d14e4b78a8239a21e9453f6ae73639d55a09bbc
 SHA256sum: 3fe3b1956260a8621602a48c827e621f49ac1fd661e7539a85bd17253f69e978
 Filename: debs//com.iamgasgass.melior_0.1.8.1_iphoneos-arm.deb
 
-Package: com.iamgasgass.whatabouthis
-Name: WhatAboutThis
-Version: 0.1.1
-Size: 10618
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (<= 12.1.4)
-Description: Brings iOS 12.2 style About page in the Settings.app to older versions.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: ff336f5a881065f2a35b9645522b60fb
-SHA1sum: 8667f150871bca924574772b76b6f228b01d684c
-SHA256sum: 4ba9c40623a58cbdf606fe50714f248a4669fa11d01a21011b7c27ba333392bf
-Filename: debs//com.iamgasgass.whatabouthis_0.1.1_iphoneos-arm.deb
-
 Package: com.iamgasgass.BundleIDXS
 Name: BundleIDXS
 Version: 0.1.1.2
@@ -278,36 +263,6 @@ SHA1sum: 44d80f91ad9f7f2cd175cae0ad6ed4eeeba32908
 SHA256sum: de60cf47fa6bae1d0c479e40a310f622a2e4ecdafa7e399869e747992ac80445
 Filename: debs//com.iamgasgass.settingscollapse_0.1.1_iphoneos-arm.deb
 
-Package: com.iamgasgass.slyd
-Name: Slyd
-Version: 0.1.1
-Size: 18630
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
-Description: Slide to unlock for iOS 11 and 12.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: e902efe5ca29bc85ac0c63789fffb416
-SHA1sum: e8cef9733a6b94c1523847867251a8a2bb9bec77
-SHA256sum: 7a02e2ee207654e194630da6b27ffe98c19452e45fec969777aa80844e2a1fe3
-Filename: debs//com.iamgasgass.slyd_0.1.1_iphoneos-arm.deb
-
-Package: com.iamgasgass.selector
-Name: Selector
-Version: 0.1.1
-Size: 28910
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Description: Select text to search or translate.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 6f584fb4dfc8a3044bb742f23cc0621e
-SHA1sum: 52b4e4c868030082163a756e9d20e6cbfaca3e47
-SHA256sum: b7a441f60af70921e83c9319612f3e8dfa2db317eb3de10ce4ed846f416de976
-Filename: debs//com.iamgasgass.selector_0.1.1_iphoneos-arm.deb
-
 Package: com.iamgasgass.chargeanimations
 Name: ChargeAnimations
 Version: 0.2
@@ -322,22 +277,6 @@ MD5sum: 2e1c92eb6603b4e40f74eeeab3053231
 SHA1sum: 4f9e28cf84c94562b125ecd2b132d199829454c8
 SHA256sum: ea3a750daab64a542a326bf4ae49210d95e251a2c59cbd6a234bcec8c67533b7
 Filename: debs//com.iamgasgass.chargeanimations_0.2_iphoneos-arm.deb
-
-Package: com.iamgasgass.twitterdarkmode
-Name: TwitterDarkMode
-Version: 0.1.2.1
-Size: 111208
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, org.thebigboss.libcolorpicker
-Conflicts: com.quackdev.twitterdarkmode, com.tapsharp.twitterdarkmode, com.halston696.twitteruicustomizer, com.repo.xarold.com.twitterdarkmode
-Description: TwitterDarkMode.!:)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 566541a27bb5172de6b0fc64d0452f40
-SHA1sum: da58cfd10be2bdf85727993a08696242010cf51a
-SHA256sum: 583563288cd9b058fa7aa4be8ff36ef7866d51506d903cc8d6bf489ac30f8d8d
-Filename: debs//com.iamgasgass.twitterdarkmode_0.1.2.1_iphoneos-arm.deb
 
 Package: com.iamgasgass.smallsiri
 Name: SmallSiri
@@ -776,7 +715,6 @@ SHA1sum: 1405815f1cf75dae0742e87aaede17c5ffee5ff4
 SHA256sum: 8344ccd8fa77d4f5cd0c0e295ef8df7ee836ce0209f744a40b128a4e86655548
 Filename: debs//com.iamgasgass.bazzi_0.2.4_iphoneos-arm.deb
 
-
 Package: com.iamgasgass.tacitus
 Name: Tacitus
 Version: 0.1.2
@@ -898,41 +836,6 @@ SHA1sum: 80af629fef6ace817422059fa90e9c11db9704a9
 SHA256sum: c56f0ba0b4976ea813254c394cdd7228abeb2b324b0236b6ae2cc024f94a5432
 Filename: debs//com.iamgasgass.colorflow4_1.2.1h4ck_iphoneos-arm.deb
 
-Package: ga.jakeashacks.anemoneinstaller
-Name: Anemone3.0unc0ver
-Version: 1.0.1
-Size: 17830
-Architecture: iphoneos-arm
-Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
-Replaces: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
-Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
-Description: Anemone 3.0 for unc0ver! Thanks @Jakeashacks
-Depends: pincrush, mobilesubstrate
-Pre-Depends: curl, ga.jakeashacks.substitutedummy, jailbreak-resources (>= 0.7), ldid
-Maintainer: iamgasgass
-Author: Jake James <jakeashacks@gmail.com>
-Section: Tweaks
-MD5sum: a363b71248385091769f83d658f0be3e
-SHA1sum: 287c0c84a5fbb7c99388218366218f08267f06c6
-SHA256sum: d9712551724f15a6a36717cd09f2ae06d4763555cabdb0c3c88c542dd4aa2619
-Filename: debs//ga.jakeashacks.anemoneinstaller_1.0.1_iphoneos-arm.deb
-
-Package: ga.jakeashacks.substitutedummy
-Name: SubstituteDummy Unc0ver
-Version: 1.0
-Size: 6294
-Architecture: iphoneos-arm
-Provides: org.coolstar.tweakinject, com.ex.libsubstitute
-Replaces: org.coolstar.tweakinject, com.ex.libsubstitute
-Description: Add Substrate support to Substitute tweaks! Thanks @Jakeashacks
-Maintainer: iamgasgass
-Author: Jake James <jakeashacks@gmail.com>
-Section: Tweaks
-MD5sum: 954adf6afaefbeec2130b76d7d8950f0
-SHA1sum: 2da6c8c4938d4a99f75a604d07079a8e7955c47b
-SHA256sum: c0f6aba41265143784e4a7627a591b9461712bbb15a295f9520f7ee12283a8da
-Filename: debs//ga.jakeashacks.substitutedummy_1.0_iphoneos-arm.deb
-
 Package: com.iamgasgass.osirisxs
 Name: OsirisXS
 Version: 0.1.3
@@ -946,97 +849,6 @@ MD5sum: b9925a55322740feb12cc0e61cd45e0e
 SHA1sum: f21a65a14ebda9e848e138da1f205ecf2e9f2911
 SHA256sum: cae705f40ec7784d9fe1044bcb112c6157574a79cc95d89cc16009074b12374e
 Filename: debs//com.iamgasgass.osirisxs_1.0.deb
-
-Package: io.ominousness.mitsuhaxi
-Name: MitsuhaXI
-Version: 0.5.5
-Size: 62696
-Architecture: iphoneos-arm
-Description: Universal iOS 11 and up audio visualizer. Thanks to @NepetaDev
-Depends: org.thebigboss.libcolorpicker, io.ominousness.ass, ws.hbang.common (>= 1.11)
-Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta
-Maintainer: iamgasgass <nick1710@live.it>
-Author: Nepeta
-Section: Tweaks
-MD5sum: 865db6c18b69902a80687768da0c4fb8
-SHA1sum: 4bd2316f4a6e5edcdd649d177d97df400b66200b
-SHA256sum: 822d4241e63efd0f226a0c5024a8d71dec5252f3bccc77558f701c530f923912
-Filename: debs//io.ominousness.mitsuhaxi_0.5.5_iphoneos-arm.deb
-
-Package: io.ominousness.ass
-Name: AudioSnapshotServer
-Version: 1.0.0
-Size: 5352
-Architecture: iphoneos-arm
-Description: iOS mediaserverd hook to serve snapshots of current audio buffer via TCP/IP. Thanks to @NepetaDev
-Maintainer: iamgasgass <nick1710@live.it>
-Author: Nepeta
-Section: Development
-MD5sum: 4f9c4864ee9eb3555eb3e5ec72a7c336
-SHA1sum: 0b014a8265d3081db9adf6a96ff4310683224fbd
-SHA256sum: f34a0f92522b9b8cacd3ae1346ae69c228fe51bf2a2db24afa405780494b9638
-Filename: debs//io.ominousness.ass_1.0.0_iphoneos-arm.deb
-
-Package: me.nepeta.notifica
-Name: Notifica
-Version: 0.1.10
-Size: 358814
-Architecture: iphoneos-arm
-Description: Notifications customizer and more. Thanks to @NepetaDev
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker, ws.hbang.common (>= 1.11), me.nepeta.libnepeta
-Conflicts: ch.mdaus.palette, com.golddavid.colorbanners2-new
-Maintainer: iamgasgass <nick1710@live.it>
-Author: Nepeta
-Section: Tweaks
-MD5sum: f26663f83bd4683650a842743d566c50
-SHA1sum: c524538e6ca002d728ab7c59b4ad2d2802a4a1fa
-SHA256sum: e0d091d522d59f652298dcc1f7a012fc3ed6b96cbb51f603dcc061cd74718efc
-Filename: debs//me.nepeta.notifica_0.1.10_iphoneos-arm.deb
-
-Package: me.nepeta.libnepeta
-Name: libnepeta
-Version: 0.1.0
-Size: 15896
-Architecture: iphoneos-arm
-Description: Nepeta's color utils. Thanks to @NepetaDev
-Maintainer: iamgasgass <nick1710@live.it>
-Author: Nepeta
-Section: Development
-MD5sum: 974857d9aa0d4e415cfa80fc97461c93
-SHA1sum: 881a90cb9286e03a2e4f910735a8fd53b4d5a8e1
-SHA256sum: 5fef36e7465595caf5895f4d974e56d180f485a7f0be3b6cda88136e7f975bb4
-Filename: debs//me.nepeta.libnepeta_0.1.0_iphoneos-arm.deb
-
-Package: me.nepeta.mitsuhainfinity
-Name: MitsuhaInfinity
-Version: 0.1.3
-Size: 36130
-Architecture: iphoneos-arm
-Description: Universal iOS 11 and up audio visualizer. Thanks to @NepetaDev
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker, io.ominousness.ass, ws.hbang.common (>= 1.11), me.nepeta.libmitsuha (>= 0.1.4), me.nepeta.libnepeta
-Conflicts: io.c0ldra1n.mitsuha, io.c0ldra1n.mitsuha-beta, io.ominousness.mitsuhaxi
-Maintainer: iamgasgass <nick1710@live.it>
-Author: Nepeta
-Section: Tweaks
-MD5sum: 75e9674b1a432cde43631f7014a9e1ed
-SHA1sum: 7d03dad7ff2c52a87169f8aed245ddad9c777a8f
-SHA256sum: 9830a704d6441fba8a633018306ff14fba3c73add94b8505c8a4dd88273379b3
-Filename: debs//me.nepeta.mitsuhainfinity_0.1.3_iphoneos-arm.deb
-
-Package: me.nepeta.libmitsuha
-Name: libmitsuha
-Version: 0.1.4
-Size: 27878
-Architecture: iphoneos-arm
-Depends: io.ominousness.ass
-Description: Audio visualizer library utils. Thanks to @NepetaDev
-Maintainer: iamgasgass <nick1710@live.it>
-Author: Nepeta
-Section: Development
-MD5sum: 22bc6f704f555e946116869d475b8078
-SHA1sum: 8b39453cb8346c23c9845c519010b7fb4f6c1e93
-SHA256sum: 239f8842ff8c24f44eaecacc7c5d00800545c8af325182012416eda45771a6dc
-Filename: debs//me.nepeta.libmitsuha_0.1.4_iphoneos-arm.deb
 
 Package: com.iamgasgass.iphonexslivewallpaper12
 Name: iPhoneXS LiveWallpaper
