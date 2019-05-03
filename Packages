@@ -1,16 +1,16 @@
 Package: com.iamgasgass.iamosxs
 Name: iamOSXS
-Version: 0.1.11b
-Size: 11424960
+Version: 0.1.11f
+Size: 13376474
 Architecture: iphoneos-arm
 Description: A fantastic theme based on macOS X up and adapted for iOSxx.x ENJOY.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Themes
-MD5sum: 99dbc5b41da48ef81d36497df820c487
-SHA1sum: a1b5c50aea08a294da0ef7bc6caecca421b66d95
-SHA256sum: cbb66d992dd8d02ee0e25de57a2322fa4c1b0ed88b4c9395cbee1f468a272436
-Filename: debs//com.iamgasgass.iamosxs_0.1.11b_iphoneos-arm.deb
+MD5sum: 7640ab0f83690169abb5daf77ab3d162
+SHA1sum: 40703a52f16ac24a560c2352c3ae161cf93dc13d
+SHA256sum: 06b3d456dcfc63a246aadc237f6bee58c281a90c49a937f31f3ec6c37fd149cc
+Filename: debs//com.iamgasgass.iamosxs_0.1.11f_iphoneos-arm.deb
 
 Package: com.iamgasgass.osxsfull
 Name: OSXSFull
@@ -218,21 +218,6 @@ MD5sum: 0386ef5198fc829fcd57293a6c759b57
 SHA1sum: 10aa0159567c060b8b907c109e133aacc9426249
 SHA256sum: 73b3dab4e6a52af473d99843118edc0d08974b4f5aa50ceeba1b5d28d9351a7b
 Filename: debs//com.iamgasgass.floatingdock_0.1.5.1_iphoneos-arm.deb
-
-Package: com.iamgasgass.melior
-Name: Melior
-Version: 0.1.8.1
-Size: 181150
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker, preferenceloader
-Description: Custom volume HUD.!:) iOS 10 and up.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: af8f139efaf40231aeb8148a6d674dcc
-SHA1sum: 3d14e4b78a8239a21e9453f6ae73639d55a09bbc
-SHA256sum: 3fe3b1956260a8621602a48c827e621f49ac1fd661e7539a85bd17253f69e978
-Filename: debs//com.iamgasgass.melior_0.1.8.1_iphoneos-arm.deb
 
 Package: com.iamgasgass.BundleIDXS
 Name: BundleIDXS
@@ -958,17 +943,17 @@ Filename: debs//com.pulandres.myriad_0.2.6_iphoneos-arm.deb
 
 Package: com.iamgasgass.iamosmavericks
 Name: iamOSMavericks
-Version: 0.1.4
-Size: 17605174
+Version: 0.1.4a
+Size: 17937758
 Architecture: iphoneos-arm
 Description: A fantastic theme based on macOS X Mavericks & Snowleopard and adapted for iOSxx.x ENJOY
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Themes
-MD5sum: 5356bf7e03a4dd1e64c402f372673948
-SHA1sum: 46cba51d103d4bf9ca099d473dad9cc5a1faa774
-SHA256sum: 9a471f165be0972cc14c30b75b1003e272046e901ade9cf1f73b589987df7c31
-Filename: debs//com.iamgasgass.iamosmavericks_0.1.4_iphoneos-arm.deb
+MD5sum: 6a2f2d1877bdb688b8e02427919fc46f
+SHA1sum: 947170c04cfac5e53e59c5aeba5ce26ef9642861
+SHA256sum: 3e5ecef0cf61ad9184108249de9573652f158972a96f89d57df739a5d201f8cb
+Filename: debs//com.iamgasgass.iamosmavericks_0.1.4a_iphoneos-arm.deb
 
 Package: com.iamgasgass.spotihackios6
 Name: SpotiHackiOS6
@@ -983,3 +968,31 @@ MD5sum: 148d8e09215c5e9f63106693c0817f23
 SHA1sum: e2705fd58c499e3e6a50606d4eb2c3aee214a35f
 SHA256sum: 578030ba4f0a09402f53a1255206b7f32fe41172e498558d6c5a6ff19b005bb0
 Filename: debs//com.iamgasgass.spotihackios6.deb
+
+Package: com.r333d.cylinder
+Name: Cylinder
+Version: 1.0.7~beta1
+Size: 515576
+Architecture: iphoneos-arm
+Description: A tweak that make your icons dance. Compiled by iamgasgass for arm64e!:)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: Reed Weichler
+Section: Tweaks
+MD5sum: b98cf1af3123610dae3d394416cb3446
+SHA1sum: f339882532c0fd6e436ceb0a626899edd8baff32
+SHA256sum: 171f98f3be6be87c2dc107985c8011389a971533a9f6121be539aaa50a090a96
+Filename: debs//cylinder.deb
+
+Package: com.iamgasgass.reportsnewhack
+Name: Reports+ For Instagram Hack
+Version: 0.0.2
+Size: 81418
+Architecture: iphoneos-arm
+Description: A tweak that hack the Reports+.app on AppStore. ENJOY
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: b62ba2d9865724099672115e41adcb3f
+SHA1sum: 06b8ca4c4cbc9b94c34a8b28631f1263c15b6823
+SHA256sum: b580b351d2d4803a6b0006e0b76e37deaae828b5ae42f0141865891f3765121a
+Filename: debs//com.iamgasgass.reporthack_0.0.deb
