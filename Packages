@@ -979,3 +979,48 @@ MD5sum: 71c1dda15f26dd935d076373292213ee
 SHA1sum: 71d24f38d73cb4220968702b2f4845efdfa4de74
 SHA256sum: d371f2c212818b9a74ce451444bb27f3f460aa9f749c6c9352b5b27aed473062
 Filename: debs//ga.jakeashacks.sharedfix_1.0_iphoneos-arm.deb
+
+Package: com.iamgasgass.noctis12
+Name: Noctis12
+Version: 1.6.5
+Size: 394242
+Architecture: iphoneos-arm
+Description: DarkMode everything.
+Depends: mobilesubstrate, preferenceloader, me.nepeta.libcolorpicker, com.laughingquoll.prefixui, com.spark.libsparkapplist, com.opa334.ccsupport, com.rpetrich.rocketbootstrap
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: a010dca06d0d6977dec43debd4ee8c62
+SHA1sum: 0e6b01087895ba272808da1232a3568d574e2240
+SHA256sum: 69f0ede122dcc3dc849265ffb818b575b5ee65676335cb5938d9d28bb94456ee
+Filename: debs//com.iamgasgass.noctis12_1.6.5_iphoneos-arm.deb
+
+Package: com.iamgasgass.carplay
+Name: CarBridge
+Version: 1.0.7h4ck
+Size: 3312586
+Architecture: iphoneos-arm
+Depends: firmware (>= 10.0=, mobilesubstrate, applist, com.rpetrich.rocketbootstrap | mobilesubstrate (>= 99.0), preferenceloader, ws.hbang.common
+Description: CarPlay h4ck
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: ee696c59e31bb279f64c3d568cc3a147
+SHA1sum: 6b20cf7cf484833dac6c7c3b6bc1d267d230fe9e
+SHA256sum: 5f51e27dacf1a8edaa8b92706ad374b44731a4eed6f34dab26fa2bdd8c97df04
+Filename: debs//com.iamgasgass.carplay_1.0.7h4ck_iphoneos-arm.deb
+
+Package: com.iamgasgass.centaur
+Name: Centaur
+Version: 1.0.6h4ck
+Size: 778026
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.11)
+Description: Modernize your Notification Center with a new fresh look!:)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: ba7424f8a7cfb88a33a91b1c4709bde7
+SHA1sum: 49ce5a8e9a3675e20773d1adf18aafee0f5a4731
+SHA256sum: f0692bd6c0c5053e6676c82dbee9f62366f9bcfaedbf6982f5ffd5f7eafedae7
+Filename: debs//com.iamgasgass.centaur_1.0.6h4ck_iphoneos-arm.deb
