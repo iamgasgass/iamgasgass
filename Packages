@@ -824,39 +824,6 @@ SHA1sum: 06b8ca4c4cbc9b94c34a8b28631f1263c15b6823
 SHA256sum: b580b351d2d4803a6b0006e0b76e37deaae828b5ae42f0141865891f3765121a
 Filename: debs//com.iamgasgass.reporthack_0.0.deb
 
-Package: com.iamgasgass.classicfolders2u
-Name: ClassicFolders2 (unc0ver)
-Version: 2.2h4ck
-Size: 2731824
-Architecture: iphoneos-arm
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), ldid, ga.jakeashacks.substitutedummy, ga.jakeashacks.sharedfix
-Conflicts: org.coolstara.classicfolders, org.coolstar.classicfolders2, com.pulandres.classicfolders2
-Replaces: org.coolstar.classicfolders, org.coolstar.classicfolders-modern
-Description: Bring back the iOS6 folders view to iOS8-12!
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 481daccc048ca753a36a7ca654f580fa
-SHA1sum: 65efa89e911f6dc04d051be410b1b179f8be6461
-SHA256sum: b3eeb56e3c6bb34cc037f491f38bee58b1cd0b05b4e9fc16dde935f07ba0b7fd
-Filename: debs//com.iamgasgass.classicfolders2u_2.2h4ck.deb
-
-Package: com.iamgasgass.gesto
-Name: Gesto
-Version: 1.2.1h4ck
-Size: 1120768
-Architecture: iphoneos-arm
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader 
-Replaces: com.blackhole.gesto
-Description: The ultimate tweak for modern MultiTasking on iOS.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 0ad54e105be4f6717858f8d3808121ca
-SHA1sum: 88e0d20a9f1bbd7af50d83f6d973ba77071e9ae3
-SHA256sum: 13923861130211d4c589a17411a871dc073bb8a6d03c3630127252c0d89c6478
-Filename: debs//com.iamgasgass.gesto_1.2.1h4ck.deb
-
 Package: com.iamgasgass.scribb
 Name: Scribble
 Version: 1.0.3.1h4ck
@@ -887,21 +854,6 @@ SHA1sum: 214b1bfc97b3ba4f5a0d59eda9c29eb005f24f1f
 SHA256sum: 3ffa8926e083e46eea256d88fa00392ee8819ec519b1ce08a3142d4ec98b8ec3
 Filename: debs//com.iamgasgass.switchus_1.3h4ck_iphoneos-arm.deb
 
-Package: com.iamgasgass.essentials
-Name: Essentials
-Version: 1.2.1h4ck
-Size: 86800
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker, com.chpwn.iconsupport, preferenceloader
-Description: Essentials utility for your modern iDevice!:)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 33ddcab790e09824d8a48e89ccbdbdbc
-SHA1sum: 29aaee16cf9294a4421b8fd344d25dc3cb28d43e
-SHA256sum: 73bdcf19fd6feda8d2c4aad970e4bb0cc8bc7d4939abeda7f10d8eb0be8ddcdb
-Filename: debs//com.iamgasgass.essentials_1.2.1h4ck.deb
-
 Package: org.coolstar.classicdock
 Name: ClassicDock / ModernDock
 Version: 3.0.1
@@ -931,23 +883,6 @@ MD5sum: 595cfac063ab385fdb0be980b854aa92
 SHA1sum: e78b8dcbfbf2b87cc49336088a478d77df8b8b95
 SHA256sum: 2130e56470f409832d330a1d728393f9310fb5eae5d006ef0bb51fcbdaa9ca8c
 Filename: debs//com.yourepo.iamgasgass.bundleidsxi_1.1.1.2.1_iphoneos-arm
-
-Package: com.iamgasgass.ventana
-Name: Ventana (unc0ver)
-Version: 1.4h4ck
-Size: 1346318
-Architecture: iphoneos-arm
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), ldid, ga.jakeashacks.substitutedummy, ga.jakeashacks.sharedfix
-Conflicts: org.coolstar.ventana, com.hackyouriphone.ventana, jaja.kiiimo
-Replaces: org.coolstar.ventana
-Description: Give a new fresh look to your lockscreen like Windows 10!:)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 3359e3f8fb2f07c3cb4dabcec2f888fa
-SHA1sum: 5ad76e5a9c12b36fd3887c027d384eaabf3a9776
-SHA256sum: 023f3404d21f0c08837f508213f21480acfecf0616a75750be33f2a3ad43f298
-Filename: debs//com.iamgasgass.ventana_1.4h4ck.deb
 
 Package: ga.jakeashacks.substitutedummy
 Name: Substitute Dummy for unc0ver
@@ -1009,18 +944,3 @@ MD5sum: ee696c59e31bb279f64c3d568cc3a147
 SHA1sum: 6b20cf7cf484833dac6c7c3b6bc1d267d230fe9e
 SHA256sum: 5f51e27dacf1a8edaa8b92706ad374b44731a4eed6f34dab26fa2bdd8c97df04
 Filename: debs//com.iamgasgass.carplay_1.0.7h4ck_iphoneos-arm.deb
-
-Package: com.iamgasgass.centaur
-Name: Centaur
-Version: 1.0.6h4ck
-Size: 778026
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, preferenceloader, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.11)
-Description: Modernize your Notification Center with a new fresh look!:)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: ba7424f8a7cfb88a33a91b1c4709bde7
-SHA1sum: 49ce5a8e9a3675e20773d1adf18aafee0f5a4731
-SHA256sum: f0692bd6c0c5053e6676c82dbee9f62366f9bcfaedbf6982f5ffd5f7eafedae7
-Filename: debs//com.iamgasgass.centaur_1.0.6h4ck_iphoneos-arm.deb
