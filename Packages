@@ -473,7 +473,7 @@ Architecture: iphoneos-arm
 Description: A tweak that enable supersonic refresh repo!:)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
+Section: System
 MD5sum: e788a1db65f738e81203fc6ee136901b
 SHA1sum: 10d2e6a8c5855f633c54626f508f275fa3bdc5e1
 SHA256sum: 0fc3a78cfaae26ff3bb0b4ff52bce709d6a176a3f67e37652630e6d297be3a72
@@ -1000,7 +1000,7 @@ Depends: applist
 Description: App to see Bundle IDs.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
+Section: Utility
 MD5sum: 595cfac063ab385fdb0be980b854aa92
 SHA1sum: e78b8dcbfbf2b87cc49336088a478d77df8b8b95
 SHA256sum: 2130e56470f409832d330a1d728393f9310fb5eae5d006ef0bb51fcbdaa9ca8c
