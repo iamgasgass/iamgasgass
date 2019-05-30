@@ -985,14 +985,14 @@ Depends: firmware (>= 7.0), com.anemonetheming.anemone3-extsb | com.anemonethemi
 Description: Bring back iOS 6 dock to iOS 7 or higher.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: CoolStar <coolstarorganization@gmail.com>
-Section: Tweaks
+Section: Themes
 MD5sum: d14bf07a6a193e1b15e45c0ed19e6446
 SHA1sum: 81cf07dcbbc0f3d4bfef7a68858a00ad30046450
 SHA256sum: 44c0a10462e9972f7c80ea08966458bea93765dbed4a2bf6b47e606509ebdd77
 Filename: debs//org.coolstar.classicdock_3.0.1_iphoneos-arm.deb
 
 Package: com.yourepo.iamgasgass.bundleidsxi
-Name: BundleIDsXI
+Name: BundleIDsXI Fix
 Version: 1.1.1.2.1
 Size: 122772
 Architecture: iphoneos-arm
