@@ -1002,7 +1002,7 @@ Name: ClassicFolders2 (unc0ver)
 Version: 2.2h4ck
 Size: 2731824
 Architecture: iphoneos-arm
-Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), Idid, ga.jakeashacks.substitutedummy, ga.jakeashacks.sharedfix
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), ldid, ga.jakeashacks.substitutedummy, ga.jakeashacks.sharedfix
 Conflicts: org.coolstara.classicfolders, org.coolstar.classicfolders2, com.pulandres.classicfolders2
 Replaces: org.coolstar.classicfolders, org.coolstar.classicfolders-modern
 Description: Bring back the iOS6 folders view to iOS8-12!
