@@ -669,8 +669,8 @@ Filename: debs//com.iamgasgass.fluxiusxs_3.5.1_iphoneos-arm.deb
 
 Package: com.iamgasgass.xeon
 Name: Xeon
-Version: 1.2.3h4ck
-Size: 1023598
+Version: 1.2.4h4ck
+Size: 1041930
 Architecture: iphoneos-arm
 Description: Customize the iDevice with a pic on statusbar.
 Depends: mobilesubstrate, ws.hbang.common (>=1.11), firmware (>=11.0), cy+cpu.arm64, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1), com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker
@@ -678,10 +678,10 @@ Conflicts: com.peterdev.xeon, org.cydia.kiimo.xeon
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: 3b752d42e41c504a91544a5efb11786f
-SHA1sum: b653fca3492d58ebe0bd0ce38e4714b1651fddce
-SHA256sum: 52ac92d199f8bd77eb7c395c38ea74a7586aa419bb22f9b7c7b7b6b508c0a2d3
-Filename: debs//com.iamgasgass.xeon.deb
+MD5sum: e19497ca7252c9635a949f4d3bee20b6
+SHA1sum: 1d448f07efb318760174a12902544d4289b4b7e8
+SHA256sum: 5b41ab631516579e0e0fa6911344e2436510935ec9e2859e0dcebcffb29af854
+Filename: debs//com.iamgasgass.xeon1.4h4ck.deb
 
 Package: com.iamgasgass.bazzi
 Name: Bazzi
@@ -761,9 +761,9 @@ SHA256sum: 94c57376118a2859c55ae309b8918aff78c784ee7f6f9719b554d5c246837cbf
 Filename: debs//com.iamgasgass.musicdark_0.1.2_iphoneos-arm.deb
 
 Package: com.iamgasgass.jellyfish
-Name: JellyFish
-Version: 1.1.2h4ck
-Size: 100960
+Name: Jellyfish
+Version: 1.1.5h4ck
+Size: 177192
 Architecture: iphoneos-arm
 Description: Modern lock screen for iOS 11 and above!:)
 Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
@@ -771,10 +771,10 @@ Conflicts: applebetas.ios.tweak.time11, com.junesiphone.lockpluspro
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: aba1c884572d0e736bafcf84977892a2
-SHA1sum: a71500203241108448ae5e5b394cbc8eb60a75af
-SHA256sum: e7d36914c81a8bab624bae8d93eb32aebdd1159b5a4144a690a3013495af90a6
-Filename: debs//com.iamgasgass.jellyfish_1.1.2.deb
+MD5sum: b8c72767a59710b3d28f0b57eb149a31
+SHA1sum: 3b71fcad40baf9cc5bda62751d15f3b72ca081a9
+SHA256sum: b6d1cdc513a2a29d5dea185c2dbf3f0d625a6c78b1aced747719ca2abc691667
+Filename: debs//com.iamgasgass.jellyfish_1.1.5h4ck.deb
 
 Package: com.iamgasgass.myriad
 Name: Myriad
@@ -996,3 +996,51 @@ MD5sum: b62ba2d9865724099672115e41adcb3f
 SHA1sum: 06b8ca4c4cbc9b94c34a8b28631f1263c15b6823
 SHA256sum: b580b351d2d4803a6b0006e0b76e37deaae828b5ae42f0141865891f3765121a
 Filename: debs//com.iamgasgass.reporthack_0.0.deb
+
+Package: com.iamgasgass.classicfolders2u
+Name: ClassicFolders2 (unc0ver)
+Version: 2.2h4ck
+Size: 2731824
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), Idid, ga.jakeashacks.substitutedummy, ga.jakeashacks.sharedfix
+Conflicts: org.coolstara.classicfolders, org.coolstar.classicfolders2, com.pulandres.classicfolders2
+Replaces: org.coolstar.classicfolders, org.coolstar.classicfolders-modern
+Description: Bring back the iOS6 folders view to iOS8-12!
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 481daccc048ca753a36a7ca654f580fa
+SHA1sum: 65efa89e911f6dc04d051be410b1b179f8be6461
+SHA256sum: b3eeb56e3c6bb34cc037f491f38bee58b1cd0b05b4e9fc16dde935f07ba0b7fd
+Filename: debs//com.iamgasgass.classicfolders2u_2.2h4ck.deb
+
+Package: com.iamgasgass.gesto
+Name: Gesto
+Version: 1.2.1h4ck
+Size: 1120768
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader 
+Replaces: com.blackhole.gesto
+Description: The ultimate tweak for modern MultiTasking on iOS.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 0ad54e105be4f6717858f8d3808121ca
+SHA1sum: 88e0d20a9f1bbd7af50d83f6d973ba77071e9ae3
+SHA256sum: 13923861130211d4c589a17411a871dc073bb8a6d03c3630127252c0d89c6478
+Filename: debs//com.iamgasgass.gesto_1.2.1h4ck.deb
+
+Package: com.iamgasgass.scribb
+Name: Scribble
+Version: 1.0.3.1h4ck
+Size: 263240
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11)
+Description: Draw your pattern code on iOS.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 3e000e1f84ba5f0e701f84179a920be1
+SHA1sum: 6b32fe24aa74e64274b4a906c5bc41376303f607
+SHA256sum: 247f94b94a251d0c091d259da8dacd4503052fc1da876628c3c5f21889e8e94f
+Filename: debs//com.iamgasgass.scribb_1.0.3.1h4ck.deb
