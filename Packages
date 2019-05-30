@@ -915,3 +915,110 @@ SHA1sum: 6b32fe24aa74e64274b4a906c5bc41376303f607
 SHA256sum: 247f94b94a251d0c091d259da8dacd4503052fc1da876628c3c5f21889e8e94f
 Filename: debs//com.iamgasgass.scribb_1.0.3.1h4ck.deb
 
+Package: com.iamgasgass.switchus
+Name: Switchus
+Version: 1.3h4ck
+Size: 116158
+Architecture: iphoneos-arm
+Depends: firmware (>= 11.0), mobilesubstrate, applist
+Description: Choose what you do with your MultiTasking.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 1927c626f52dc11b57abf1c0b061bc1f
+SHA1sum: 214b1bfc97b3ba4f5a0d59eda9c29eb005f24f1f
+SHA256sum: 3ffa8926e083e46eea256d88fa00392ee8819ec519b1ce08a3142d4ec98b8ec3
+Filename: debs//com.iamgasgass.switchus_1.3h4ck_iphoneos-arm.deb
+
+Package: com.iamgasgass.essentials
+Name: Essentials
+Version: 1.2.1h4ck
+Size: 86800
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, com.chpwn.iconsupport, preferenceloader
+Description: Essentials utility for your modern iDevice!:)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 33ddcab790e09824d8a48e89ccbdbdbc
+SHA1sum: 29aaee16cf9294a4421b8fd344d25dc3cb28d43e
+SHA256sum: 73bdcf19fd6feda8d2c4aad970e4bb0cc8bc7d4939abeda7f10d8eb0be8ddcdb
+Filename: debs//com.iamgasgass.essentials_1.2.1h4ck.deb
+
+Package: org.coolstar.classicdock
+Name: ClassicDock / ModernDock
+Version: 3.0.1
+Size: 363920
+Architecture: iphoneos-arm
+Depends: firmware (>= 7.0), com.anemonetheming.anemone3-extsb | com.anemonetheming.anemone
+Description: Bring back iOS 6 dock to iOS 7 or higher.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: CoolStar <coolstarorganization@gmail.com>
+Section: Tweaks
+MD5sum: d14bf07a6a193e1b15e45c0ed19e6446
+SHA1sum: 81cf07dcbbc0f3d4bfef7a68858a00ad30046450
+SHA256sum: 44c0a10462e9972f7c80ea08966458bea93765dbed4a2bf6b47e606509ebdd77
+Filename: debs//org.coolstar.classicdock_3.0.1_iphoneos-arm.deb
+
+Package: com.yourepo.iamgasgass.bundleidsxi
+Name: BundleIDsXI
+Version: 1.1.1.2.1
+Size: 122772
+Architecture: iphoneos-arm
+Depends: applist
+Description: App to see Bundle IDs.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 595cfac063ab385fdb0be980b854aa92
+SHA1sum: e78b8dcbfbf2b87cc49336088a478d77df8b8b95
+SHA256sum: 2130e56470f409832d330a1d728393f9310fb5eae5d006ef0bb51fcbdaa9ca8c
+Filename: debs//com.yourepo.iamgasgass.bundleidsxi_1.1.1.2.1_iphoneos-arm
+
+Package: com.iamgasgass.ventana
+Name: Ventana (unc0ver)
+Version: 1.4h4ck
+Size: 1346318
+Architecture: iphoneos-arm
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), ldid, ga.jakeashacks.substitutedummy, ga.jakeashacks.sharedfix
+Conflicts: org.coolstar.ventana, com.hackyouriphone.ventana, jaja.kiiimo
+Replaces: org.coolstar.ventana
+Description: Give a new fresh look to your lockscreen like Windows 10!:)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 3359e3f8fb2f07c3cb4dabcec2f888fa
+SHA1sum: 5ad76e5a9c12b36fd3887c027d384eaabf3a9776
+SHA256sum: 023f3404d21f0c08837f508213f21480acfecf0616a75750be33f2a3ad43f298
+Filename: debs//com.iamgasgass.ventana_1.4h4ck.deb
+
+Package: ga.jakeashacks.substitutedummy
+Name: Substitute Dummy for unc0ver
+Version: 1.0
+Size: 6294
+Architecture: iphoneos-arm
+Provides: org.coolstar.tweakinject, com.ex.libsubstitute
+Replaces: org.coolstar.tweakinject, com.ex.libsubstitute
+Description: Add Substrate support to Substitute tweaks! And by that I mean, tweaks made by coolstar!
+Maintainer: Jake James <jakeashacks@gmail.com>
+Author: Jake James <jakeashacks@gmail.com>
+Section: Tweaks
+MD5sum: 954adf6afaefbeec2130b76d7d8950f0
+SHA1sum: 2da6c8c4938d4a99f75a604d07079a8e7955c47b
+SHA256sum: c0f6aba41265143784e4a7627a591b9461712bbb15a295f9520f7ee12283a8da
+Filename: debs//com.iamgasgass.ventana_1.4h4ck.deb
+
+Package: ga.jakeashacks.sharedfix
+Name: Shared Package Fix for Unc0ver
+Version: 1.0
+Size: 6506
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Fix various packages on Unc0ver
+Maintainer: Jake James <jakeashacks@gmail.com>
+Author: Jake James <jakeashacks@gmail.com>
+Section: Tweaks
+MD5sum: 71c1dda15f26dd935d076373292213ee
+SHA1sum: 71d24f38d73cb4220968702b2f4845efdfa4de74
+SHA256sum: d371f2c212818b9a74ce451444bb27f3f460aa9f749c6c9352b5b27aed473062
+Filename: debs//ga.jakeashacks.sharedfix_1.0_iphoneos-arm.deb
