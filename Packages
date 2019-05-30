@@ -26,6 +26,20 @@ SHA1sum: 4aea148147e37ce99e2a6e8e4ab57c7a35d57a0a
 SHA256sum: 264b7206cbd0afd28d4450342b9b031769eb60c9db609267fe681cb16f1a0924
 Filename: debs//com.iamgasgass.classicios_1.3_iphoneos-arm.deb
 
+Package: com.iamgasgass.iammodernxs
+Name: iamModernXS
+Version: 1.0
+Size: 1022186
+Architecture: iphoneos-arm
+Description: A fantastic theme based on iOS 6 and adapted for iOSxx.x ENJOY.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Themes
+MD5sum: a55fbde77e95b1310d119ee1f55d94c3
+SHA1sum: 1ec0c2a460401f6fd7b67c98c0765170b6905490
+SHA256sum: 4b8498ef67515fbdec615b1793f50f885966a296499bc1417331bad253aefd93
+Filename: debs//com.iamgasgass.iammodernxs_1.0_iphoneos-arm.deb
+
 Package: com.iamgasgass.osxsfull
 Name: OSXSFull
 Version: 0.2.1.1
