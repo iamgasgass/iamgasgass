@@ -175,21 +175,6 @@ SHA1sum: 7c701de73cf93d9a2ac0a876afd00f6825402302
 SHA256sum: 14d815fd92d5ecfda11e81b08501b71ce18f2833e882f4bbe0954bd77eece6f7
 Filename: debs//com.iamgasgass.moderndepictions_0.3.91_iphoneos-arm.deb
 
-Package: com.iamgasgass.pip
-Name: PiPXS
-Version: 0.12
-Size: 51332
-Architecture: iphoneos-arm
-Depends: firmware (>= 9.0), mobilesubstrate
-Description: Enable Picture in Picture feature to iOS 9 and up.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 678df611dc08d5d9fa862f74fbf36213
-SHA1sum: ca549ac789ef28dfc2d1ca31663dc4f7af847dfb
-SHA256sum: 61461912b4f9b9b0fc30155d7921d2a40f1655b78722dd33d4ba58187f6d38ff
-Filename: debs//com.iamgasgass.pip_0.12_iphoneos-arm.deb
-
 Package: com.iamgasgass.floatingdock
 Name: FloatingDock
 Version: 0.1.5.1
@@ -248,21 +233,6 @@ MD5sum: 2e1c92eb6603b4e40f74eeeab3053231
 SHA1sum: 4f9e28cf84c94562b125ecd2b132d199829454c8
 SHA256sum: ea3a750daab64a542a326bf4ae49210d95e251a2c59cbd6a234bcec8c67533b7
 Filename: debs//com.iamgasgass.chargeanimations_0.2_iphoneos-arm.deb
-
-Package: com.iamgasgass.smallsiri
-Name: SmallSiri
-Version: 0.1.2.1
-Size: 173384
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Description: Make Siri smaller and unobtrusive!
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 2d4e906c34abb018caa789c0828c4ea7
-SHA1sum: 67abc93732fa8c40738f27c7b38a9ecd22a5fdc4
-SHA256sum: aecbe993fef1bebc58dae692d64b787b97a3c3fffc55e85a3cc6f571731f2ca8
-Filename: debs//com.iamgasgass.smallsiri_0.1.2.1_iphoneos-arm.deb
 
 Package: com.iamgasgass.njsdesignx
 Name: NJ.'sdesignX
@@ -422,20 +392,6 @@ SHA1sum: f19948798765a18c9367244d53d98b25836b55c7
 SHA256sum: 18b871f9c7d7b72e1c5c4f6efc6db57358ca95191b63a7b11f40fd746817d025
 Filename: debs//com.iamgasgass.classicfolders2_2x.k_iphoneos-arm.deb
 
-Package: com.iamgasgass.reportsig
-Name: ReportsHack.
-Version: 0.0.4
-Size: 16368
-Architecture: iphoneos-arm
-Description: A tweak that crack Reports.app x Instagram on AppStore. ENJOY
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 708c1f5c278044e1906ec9b92ab585e9
-SHA1sum: 4860e9636d80aa64ebeeb70d062286f8dea57da4
-SHA256sum: fe589131f264909598273314c652bd6a144f479b5949abd7d8ac3b781d649e2b
-Filename: debs//com.iamgasgass.reportsig.deb
-
 Package: com.iamgasgass.tsssaver
 Name: TSS Saver
 Version: 0.1.2
@@ -581,36 +537,6 @@ MD5sum: f745c6a088e6c822df9f97ffd61f6045
 SHA1sum: 87ce2605fb95f07f42e20a552bbc53ad62e6800b
 SHA256sum: 004e0a9716684496e1a35eeea8480104ee01fd3a19f75f2cbed19130c5e6015a
 Filename: debs//com.iamgasgass.xeninfo_2.2_iphoneos-arm.deb
-
-Package: com.iamgasgass.notyplayxs
-Name: NotyPlayXS
-Version: 0.1.3
-Size: 12964
-Architecture: iphoneos-arm
-Description: This tweak show a notification banner when now playing media changes. A fun animation with pencilchargingindicator!:)
-Depends: mobilesubstrate, com.iamgasgass.libbulletin (>=0.1-146-iamgasgass), firmware (>=11.0)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 4a389b0f4e4fc2b421bae1518b0bad13
-SHA1sum: 2c082234c5c4a68f3ad2f3bb5bd404ef44668967
-SHA256sum: 39b477b44ace56603457f456576344928d242405191cd3c652bedb2ddd960613
-Filename: debs//com.iamgasgass.notyplayxs_0.1.3_iphoneos-arm.deb
-
-Package: com.iamgasgass.libbulletin
-Name: libbulletin
-Version: 0.1-146-iamgasgass
-Size: 27158
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Modified version of lib bulletin that fixes a nasty crash on iOS12
-Section: Development
-Author: iamgasgass
-Maintainer: iamgasgass
-MD5sum: 323ace8928569c7aa4995429aae9c671
-SHA1sum: fe61acafcc326a2424c1a7a0b4fa7d87654f8d27
-SHA256sum: 58e770495f2b8cbb3be397611307834ad14defdb468e66635d207df186a58e45
-Filename: debs//com.iamgasgass.libbulletin_0.1-146-iamgasgass_iphoneos-arm.deb
 
 Package: com.iamgasgass.pencilchargingindicator
 Name: PencilChargingIndicator
