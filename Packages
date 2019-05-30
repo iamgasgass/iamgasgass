@@ -12,6 +12,20 @@ SHA1sum: 40703a52f16ac24a560c2352c3ae161cf93dc13d
 SHA256sum: 06b3d456dcfc63a246aadc237f6bee58c281a90c49a937f31f3ec6c37fd149cc
 Filename: debs//com.iamgasgass.iamosxs_0.1.11f_iphoneos-arm.deb
 
+Package: com.iamgasgass.classicios
+Name: iamOS Six
+Version: 1.3
+Size: 13205574
+Architecture: iphoneos-arm
+Description: A fantastic theme based on iOS 6 and adapted for iOSxx.x ENJOY.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Themes
+MD5sum: 5440d2684203e64e844f97151c01d929
+SHA1sum: 4aea148147e37ce99e2a6e8e4ab57c7a35d57a0a
+SHA256sum: 264b7206cbd0afd28d4450342b9b031769eb60c9db609267fe681cb16f1a0924
+Filename: debs//com.iamgasgass.classicios_1.3_iphoneos-arm.deb
+
 Package: com.iamgasgass.osxsfull
 Name: OSXSFull
 Version: 0.2.1.1
@@ -479,19 +493,21 @@ SHA1sum: 62101e82472776af70a26d17928436741b65d75c
 SHA256sum: a24fdeb525217bb08c18934951c8b6b8228e6d0044b9f3b95ae6458280116eac
 Filename: debs//com.iamgasgass.spotyhack.deb
 
-Package: com.iamgasgass.ibox3
-Name: iBox3
-Version: 3.4.1.1
-Size: 2803358
+Package: com.iamgasgass.boxy3
+Name: Boxy 3
+Version: 3.4.2h4ck
+Size: 2774444
 Architecture: iphoneos-arm
 Description: Boxy3 ALT!:)
+Depends: mobilesubstrate, preferenceloader, com.chpwn.iconsupport
+Conflicts: info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: 976055a9da3d0efe95d791a7614b13f4
-SHA1sum: 4dd0a18f1fc9b61984552c72b353defa765b6588
-SHA256sum: 3c238409cf075ef9668b8d65f36aaa829aefa9ca404f60f8889e9e037a1aaf82
-Filename: debs//com.iamgasgass.ibox3_3.4.1.1_iphoneos-arm.deb
+MD5sum: 1a9ecdd32c0fc53cedd20c8437c85323
+SHA1sum: 721c8686544e500ea15bd0ec22e94e76996d0c28
+SHA256sum: d77c95bd0bcd30bce8632a2b5eed139ea507054d4b9794b6bbb04aa9ad1b7743
+Filename: debs//com.iamgasgass.boxy3_3.4.2h4ck_iphoneos-arm.deb
 
 Package: com.iamgasgass.tvAlert
 Name: tvAlert
@@ -598,18 +614,18 @@ Filename: debs//com.iamgasgass.libbulletin_0.1-146-iamgasgass_iphoneos-arm.deb
 
 Package: com.iamgasgass.pencilchargingindicator
 Name: PencilChargingIndicator
-Version: 0.1.2.5
-Size: 506416
+Version: 0.1.2.6h4ck
+Size: 502666
 Architecture: iphoneos-arm
 Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.!:)
 Depends: mobilesubstrate
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: c945d4b6c5010803be90120a758f95cc
-SHA1sum: c0a674c686ac59f869c56fb0c8925e0453a3f65d
-SHA256sum: c0807af39ccab3571832430dcff880f503983ebd71b1fe0764ab99104c909e57
-Filename: debs//com.iamgasgass.pencilchargingindicator_0.1.2.5_iphoneos-arm.deb
+MD5sum: fa2422f0e3a0311a1896681b049d9eaf
+SHA1sum: 2412a08ad7e59f0a6f3b5a297e72f9b01931a7d6
+SHA256sum: 94a572778007be1b6795b14a640ff339c409ad2e1ef01407473118419d5d4874
+Filename: debs//com.iamgasgass.pencilchargingindicator_1.2.6h4ck_iphoneos-arm.deb
 
 Package: com.iamgasgass.xeon
 Name: Xeon
@@ -732,6 +748,21 @@ MD5sum: 694cacc5aacb5c3b266ae5e2b9959935
 SHA1sum: 80af629fef6ace817422059fa90e9c11db9704a9
 SHA256sum: c56f0ba0b4976ea813254c394cdd7228abeb2b324b0236b6ae2cc024f94a5432
 Filename: debs//com.iamgasgass.colorflow4_1.2.1h4ck_iphoneos-arm.deb
+
+Package: com.iamgasgass.colorflow4a12
+Name: ColorFlow4 A12
+Version: 1.2.3h4ck
+Size: 913168
+Architecture: iphoneos-arm
+Description: A new UI for the music time, colorize like you want.!:)
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 6a178d2d4320e1cc6a2a06f9ddce2457
+SHA1sum: 75d1d0c271b7dfc382397c111b4f801debfffb69
+SHA256sum: 90ab5a34af1942b5aee7324303a9f00bb44c851a9bdeb83746c09297a479161a
+Filename: debs//com.iamgasgass.colorflow4a12_1.2.3h4ck_iphoneos-arm.deb
 
 Package: com.iamgasgass.deezehack
 Name: DeezeHack
