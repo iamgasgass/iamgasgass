@@ -176,34 +176,6 @@ SHA1sum: ca549ac789ef28dfc2d1ca31663dc4f7af847dfb
 SHA256sum: 61461912b4f9b9b0fc30155d7921d2a40f1655b78722dd33d4ba58187f6d38ff
 Filename: debs//com.iamgasgass.pip_0.12_iphoneos-arm.deb
 
-Package: com.iamgasgass.amon-rhaxs
-Name: Amon-RhaXS
-Version: 0.3.4
-Size: 48406800
-Architecture: iphoneos-arm
-Description: A new day, a new theme, a new experience with Amon-RhaXS theme!:)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Themes
-MD5sum: 4b1893e53cd4a10503c4cef6219cb33b
-SHA1sum: fec931e7f38a9dc08ea7d271392efd774d58ca9b
-SHA256sum: d796d44ce03403125caed9e0add595cd8e3d41ef765c3d63ebdec24290743bec
-Filename: debs//com.iamgasgass.amon-rhaxs_0.3.4_iphoneos-arm.deb
-
-Package: com.iamgasgass.anubys
-Name: Anubys
-Version: 1.8
-Size: 36371570
-Architecture: iphoneos-arm
-Description: Bring your iOS experience to new life with Anubys! It also contains iOS6 theme for the book of the dead's!:)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Themes
-MD5sum: 38a2364320df19354287c348bd0c91da
-SHA1sum: 6672cb260b450d3f965335c2bc4cd5a5ed84a784
-SHA256sum: 21bf935547cc66390bc90a101907ebc28c61e2645f9f8bf09fd87a4b0a8bb219
-Filename: debs//com.iamgasgass.anubys_1.8_iphoneos-arm.deb
-
 Package: com.iamgasgass.floatingdock
 Name: FloatingDock
 Version: 0.1.5.1
@@ -638,20 +610,6 @@ MD5sum: c945d4b6c5010803be90120a758f95cc
 SHA1sum: c0a674c686ac59f869c56fb0c8925e0453a3f65d
 SHA256sum: c0807af39ccab3571832430dcff880f503983ebd71b1fe0764ab99104c909e57
 Filename: debs//com.iamgasgass.pencilchargingindicator_0.1.2.5_iphoneos-arm.deb
-
-Package: com.iamgasgass.fluxiusxs
-Name: FluxiusXS
-Version: 3.5.1
-Size: 17033664
-Architecture: iphoneos-arm
-Description: A awesome iOS redesigned and optimized with some fun!:)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Themes
-MD5sum: 77d87fd5fb29a36029908b512d862a7f
-SHA1sum: d8e9656aaba7ee6889a20f38d3d8594945312721
-SHA256sum: 9b1848b6e480c499983a58788cf5aa5723ca1b3e8401d81af027a774e9d7938e
-Filename: debs//com.iamgasgass.fluxiusxs_3.5.1_iphoneos-arm.deb
 
 Package: com.iamgasgass.xeon
 Name: Xeon
