@@ -926,7 +926,7 @@ Depends: applist
 Description: App to see Bundle IDs.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
-Section: Utility
+Section: Utilities
 MD5sum: 595cfac063ab385fdb0be980b854aa92
 SHA1sum: e78b8dcbfbf2b87cc49336088a478d77df8b8b95
 SHA256sum: 2130e56470f409832d330a1d728393f9310fb5eae5d006ef0bb51fcbdaa9ca8c
