@@ -958,3 +958,17 @@ MD5sum: ee696c59e31bb279f64c3d568cc3a147
 SHA1sum: 6b20cf7cf484833dac6c7c3b6bc1d267d230fe9e
 SHA256sum: 5f51e27dacf1a8edaa8b92706ad374b44731a4eed6f34dab26fa2bdd8c97df04
 Filename: debs//com.iamgasgass.carplay_1.0.7h4ck_iphoneos-arm.deb
+
+Package: com.iamgasgass.essentialx
+Name: Essentialx
+Version: 1.3
+Size: 2328204
+Architecture: iphoneos-arm
+Description: Improve your iOS.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Themes
+MD5sum: b9b0bf22f646c847ace146a960c79187
+SHA1sum: 75bfc5f05f6df0c0254f0a6846ab67584a002bfc
+SHA256sum: ff7158d5a0ce110e6067cda400e5c96e76d850dc8d11e651def62cc0ca5ee3f2
+Filename: debs//com.iamgasgass.essentialx_1.3_iphoneos-arm.deb
