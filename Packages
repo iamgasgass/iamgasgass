@@ -12,7 +12,7 @@ SHA1sum: 40703a52f16ac24a560c2352c3ae161cf93dc13d
 SHA256sum: 06b3d456dcfc63a246aadc237f6bee58c281a90c49a937f31f3ec6c37fd149cc
 Filename: debs//com.iamgasgass.iamosxs_0.1.11f_iphoneos-arm.deb
 
-Package: com.iamgasgass.classicios
+Package: com.iamgasgass.iamossix
 Name: iamOS Six
 Version: 1.6
 Size: 10031796
