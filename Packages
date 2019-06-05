@@ -986,3 +986,31 @@ MD5sum: c09e57db8ea1d2a0672e0b9d27147206
 SHA1sum: fa239e753856fe0008ffa6a59291542d9a435567
 SHA256sum: 84b60df4ffe7898352bec7aa3901499695cebe39aa49473929360725739da48a
 Filename: debs//com.iamgasgass.viola_1.2_iphoneos-arm.deb
+
+Package: com.iamgasgass.amury
+Name: Amury
+Version: 1.8
+Size: 16318302
+Architecture: iphoneos-arm
+Description: Bring your iOS experience to life.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Themes
+MD5sum: 0dc76ca9acee0df64edaea4245f38a3b
+SHA1sum: aeb19d612f3fee94d331337880be8db5daa925d0
+SHA256sum: 2be3f0155f368f6dc35ef514fdf7ca4423590270f4ba6da3c37b3b5dcfb74907
+Filename: debs//com.iamgasgass.amury_1.8_iphoneos-arm.deb
+
+Package: com.iamgasgass.muze4
+Name: Muze 4
+Version: 1.4
+Size: 28692392
+Architecture: iphoneos-arm
+Description: Popular theme with 700+ icons.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Themes
+MD5sum: 07e4ea2dc5119af214df1b306075e6c4
+SHA1sum: 303d2175f441e30eb390e3812b075db3ce374be2
+SHA256sum: e078f1db052c39129ae6f63c7309909ea58e192cfaba4463ff26fe06d6e4c744
+Filename: debs//com.iamgasgass.amury_1.8_iphoneos-arm.deb
