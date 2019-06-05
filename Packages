@@ -24,7 +24,7 @@ Section: Themes
 MD5sum: 7f47fbf4d2c0bc1a1d8e77a73df02ee8
 SHA1sum: d3fd1ad57906e2e86fb8d6ae6b1c9a8b5aa578ed
 SHA256sum: eb6a78cf1bc86827ac996820e76711e4c754bae7492dd250bec90961a6552722
-Filename: debs//com.iamgasgass.classicios_1.6_iphoneos-arm.deb
+Filename: debs//com.iamgasgass.iamossix_1.6_iphoneos-arm.deb
 
 Package: com.iamgasgass.iammodernxs
 Name: iamModernXS
@@ -1014,3 +1014,18 @@ MD5sum: 07e4ea2dc5119af214df1b306075e6c4
 SHA1sum: 303d2175f441e30eb390e3812b075db3ce374be2
 SHA256sum: e078f1db052c39129ae6f63c7309909ea58e192cfaba4463ff26fe06d6e4c744
 Filename: debs//com.iamgasgass.amury_1.8_iphoneos-arm.deb
+
+Package: com.iamgasgass.exsto
+Name: ExstoXS
+Version: 1.3
+Size: 57394
+Architecture: iphoneos-arm
+Description: Unleash your folders
+Depends: firmware (>=11), mobilesubstrate
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 66c33d62d2f7961df7db302a450ac6bd
+SHA1sum: 0fee3ed3d5c8ce5984bdcd7a8b834d9b249fb0dc
+SHA256sum: 419f64660370fae1af320eb3f366ea36f6ef7fa25c4bc453da7e4d99cef39d38
+Filename: debs//com.iamgasgass.exsto_1.3_iphoneos-arm.deb
