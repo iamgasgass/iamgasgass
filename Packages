@@ -14,17 +14,17 @@ Filename: debs//com.iamgasgass.iamosxs_0.1.11f_iphoneos-arm.deb
 
 Package: com.iamgasgass.classicios
 Name: iamOS Six
-Version: 1.3
-Size: 13205574
+Version: 1.6
+Size: 10031796
 Architecture: iphoneos-arm
 Description: A fantastic theme based on iOS 6 and adapted for iOSxx.x ENJOY.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Themes
-MD5sum: 5440d2684203e64e844f97151c01d929
-SHA1sum: 4aea148147e37ce99e2a6e8e4ab57c7a35d57a0a
-SHA256sum: 264b7206cbd0afd28d4450342b9b031769eb60c9db609267fe681cb16f1a0924
-Filename: debs//com.iamgasgass.classicios_1.3_iphoneos-arm.deb
+MD5sum: 7f47fbf4d2c0bc1a1d8e77a73df02ee8
+SHA1sum: d3fd1ad57906e2e86fb8d6ae6b1c9a8b5aa578ed
+SHA256sum: eb6a78cf1bc86827ac996820e76711e4c754bae7492dd250bec90961a6552722
+Filename: debs//com.iamgasgass.classicios_1.6_iphoneos-arm.deb
 
 Package: com.iamgasgass.iammodernxs
 Name: iamModernXS
