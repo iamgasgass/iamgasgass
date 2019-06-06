@@ -1068,7 +1068,7 @@ Name: CC On & Off
 Version: 0.0.1.1
 Size: 5994
 Architecture: iphoneos-arm
-Description: Bypass jailbreak detection.
+Description: RealCC ALT.
 Depends: mobilesubstrate, firmware (>= 11.0)
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
