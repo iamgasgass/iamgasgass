@@ -1013,7 +1013,7 @@ Section: Themes
 MD5sum: 07e4ea2dc5119af214df1b306075e6c4
 SHA1sum: 303d2175f441e30eb390e3812b075db3ce374be2
 SHA256sum: e078f1db052c39129ae6f63c7309909ea58e192cfaba4463ff26fe06d6e4c744
-Filename: debs//com.iamgasgass.amury_1.8_iphoneos-arm.deb
+Filename: debs//com.iamgasgass.muze4_1.4_iphoneos-arm.deb
 
 Package: com.iamgasgass.exsto
 Name: ExstoXS
@@ -1029,3 +1029,21 @@ MD5sum: 66c33d62d2f7961df7db302a450ac6bd
 SHA1sum: 0fee3ed3d5c8ce5984bdcd7a8b834d9b249fb0dc
 SHA256sum: 419f64660370fae1af320eb3f366ea36f6ef7fa25c4bc453da7e4d99cef39d38
 Filename: debs//com.iamgasgass.exsto_1.3_iphoneos-arm.deb
+
+Package: com.iamgasgass.ithemer
+Name: iThemer
+Version: 1.0.2.1
+Size: 183674
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 07c3ec8931b31242c3df149e0645fcdf
+SHA1sum: 1a84229734ff1184dd1b4ed906545e469f763971
+SHA256sum: e6e32754c1fe4df0ea365c5713ba068dac6e77f11e944dfa0f4cae10903f0dd2
+Filename: debs//com.iamgasgass.ithemer_1.0.2.1_iphoneos-arm.deb
