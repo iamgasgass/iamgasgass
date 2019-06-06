@@ -1047,3 +1047,33 @@ MD5sum: 07c3ec8931b31242c3df149e0645fcdf
 SHA1sum: 1a84229734ff1184dd1b4ed906545e469f763971
 SHA256sum: e6e32754c1fe4df0ea365c5713ba068dac6e77f11e944dfa0f4cae10903f0dd2
 Filename: debs//com.iamgasgass.ithemer_1.0.2.1_iphoneos-arm.deb
+
+Package: com.iamgasgass.libertylite
+Name: LibertyLite (Beta)
+Version: 0.2.12
+Size: 82394
+Architecture: iphoneos-arm
+Description: Bypass jailbreak detection.
+Depends: mobilesubstrate, preferenceloader, applist
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 9532eb148bdbbe2b3cbc6c51c81afd2c
+SHA1sum: a067d5df9295c84f6c173ced5062aba1a18342bb
+SHA256sum: 499b32a7c1ab646c0408d1ad8d42b96d4c7da904a4084ad57a4476a708ca3dd0
+Filename: debs//com.iamgasgass.libertylite_0.2.12_iphoneos-arm.deb
+
+Package: com.iamgasgass.cconandoff
+Name: CC On & Off
+Version: 0.0.1.1
+Size: 5994
+Architecture: iphoneos-arm
+Description: Bypass jailbreak detection.
+Depends: mobilesubstrate, firmware (>= 11.0)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 8de7a63441575a7efef202b643bcdb91
+SHA1sum: be78d854d09e2aaa4cd885dfaead023d2ff6d104
+SHA256sum: e93081fd2bfb90bf72e4e35ec6c7e766214a1c7162bd7574c031392b87514e07
+Filename: debs//com.iamgasgass.cconandoff_0.0.1.1_iphoneos-arm
