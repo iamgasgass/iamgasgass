@@ -1085,8 +1085,8 @@ Size: 33236
 Architecture: iphoneos-arm
 Description: Battery custom.
 Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
- Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1)
- Conflicts: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1)
+Conflicts: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
