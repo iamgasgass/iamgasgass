@@ -931,18 +931,18 @@ Filename: debs//ga.jakeashacks.sharedfix_1.0_iphoneos-arm.deb
 
 Package: com.iamgasgass.noctis12
 Name: Noctis12
-Version: 1.6.5
-Size: 394242
+Version: 1.6.6h4ck
+Size: 399964
 Architecture: iphoneos-arm
 Description: DarkMode everything.
 Depends: mobilesubstrate, preferenceloader, me.nepeta.libcolorpicker, com.laughingquoll.prefixui, com.spark.libsparkapplist, com.opa334.ccsupport, com.rpetrich.rocketbootstrap
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: a010dca06d0d6977dec43debd4ee8c62
-SHA1sum: 0e6b01087895ba272808da1232a3568d574e2240
-SHA256sum: 69f0ede122dcc3dc849265ffb818b575b5ee65676335cb5938d9d28bb94456ee
-Filename: debs//com.iamgasgass.noctis12_1.6.5_iphoneos-arm.deb
+MD5sum: 5ec143fedd0978777ce296dbc5932727
+SHA1sum: 5db54b993022d7e2ddf4e5c81e26099d8e043950
+SHA256sum: 6485af32d68081e8ddc2b1f542f0ef7f5fdd944aa82d1d1b61ec092d01b45095
+Filename: debs//com.iamgasgass.noctis12_1.6.6h4ck_iphoneos-arm.deb
 
 Package: com.iamgasgass.carplay
 Name: CarBridge
