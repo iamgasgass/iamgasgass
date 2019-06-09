@@ -1094,3 +1094,34 @@ MD5sum: f46446e129d717bd75b3534552fb5f9c
 SHA1sum: 6e8859ca23426244554bec2c30d4ab29e6fc9fe9
 SHA256sum: 02cedb30b1c4188a794a288e072159127e721860e2e313a1a7a9ea7b73e263df
 Filename: debs//com.iamgasgass.bazzi_2.0.6_iphoneos-arm.deb
+
+Package: com.iamgasgass.switcherstyle
+Name: SwitcherStyle
+Version: 0.5.3
+Size: 39300
+Architecture: iphoneos-arm
+Description: Change the MultiTasking style.
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: d90deb37c8279b3a2a0c98d214328750
+SHA1sum: e91ceb5487b55c039cb01c90719a382e97715255
+SHA256sum: 1f024dc0a0852ff5b52cf57fec58ad573dce2bde8bcc3f7cde9625c1f4c67f73
+Filename: debs//com.iamgasgass.switcherstyle.deb
+
+Package: com.iamgasgass.perfecttimexs
+Name: PerfectTimeXS
+Version: 0.2.01
+Size: 67666
+Architecture: iphoneos-arm
+Description: Change the time view style.
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.mpg13.undertime, com.neinzedd9.dateundertimex, com.huchundong.weekrighttimex, com.huchundong.perfecttimex
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: dac6e2cb408d9390f249d08ff390a3ea
+SHA1sum: d9a11be409f16be1676d8dff079492091fee4cbf
+SHA256sum: eb654db0fb6af2b61a22eb47912cef2ee8f1505db8c6fe3284bc6af5800e4759
+Filename: debs//com.iamgasgass.perfecttimexs.deb
