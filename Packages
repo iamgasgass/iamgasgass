@@ -1125,3 +1125,50 @@ MD5sum: dac6e2cb408d9390f249d08ff390a3ea
 SHA1sum: d9a11be409f16be1676d8dff079492091fee4cbf
 SHA256sum: eb654db0fb6af2b61a22eb47912cef2ee8f1505db8c6fe3284bc6af5800e4759
 Filename: debs//com.iamgasgass.perfecttimexs.deb
+
+Package: com.iamgasgass.betterpowerdown
+Name: BetterPowerDown2
+Version: 2.0.1
+Size: 463654
+Architecture: iphoneos-arm
+Description: An awesome MobileSunstrate tweak!
+Depends: mobilesubstrate, firmware (>= 7.0) | org.coolstar.libclassictelephonyui
+Provides: ws.hbang.repower, org.coolstar.betterpowerdown (=1.4.0)
+Replaces: ws.hbang.repower, org.coolstar.betterpowerdown
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 10e1b56655a7096e3aa92097c8e0d18a
+SHA1sum: b395b96227dcd564fb7c12b41ac5d8c09e44213e
+SHA256sum: 71673ae74a29b44f8247e0cee71eb2cca5da748c982dd20432aec5d6699addbf
+Filename: debs//com.iamgasgass.betterpowerdown_2.0.1_iphoneos-arm.deb
+
+Package: com.iamgasgass.sixls
+Name: Six (LS)
+Version: 1.0.4.1
+Size: 1566588
+Architecture: iphoneos-arm
+Description: iOS 6 Style Lock Screen!
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0) 
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 5abaaf96815b900a5f254d2c0872a819
+SHA1sum: 88b78dfb294c54cb04a04937720a8a9fc130717f
+SHA256sum: 343fa14f6d037437894749b7a82a9646eac62cf6599f3086d6a63121f7b462ca
+Filename: debs//com.iamgasgass.sixls_1.0.4.1_iphoneos-arm.deb
+
+Package: com.iamgasgass.dune
+Name: Dune
+Version: 1.0.1
+Size: 57196
+Architecture: iphoneos-arm
+Description: A free, open-source iOS dark mode.
+Depends: mobilesubstrate, preferenceloader
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 2fd49a86d194e6954cf7dd18e0c8fa1c
+SHA1sum: 754ed87ce970631fc2b42b99b45be7ed1d82d76c
+SHA256sum: 129a3ddd5d72a8fa208d2df21b4441d738607306c3be7f74dd6952a93059dffc
+Filename: debs//com.iamgasgass.dune_1.0.1_iphoneos-arm.deb
