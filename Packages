@@ -1172,3 +1172,17 @@ MD5sum: 2fd49a86d194e6954cf7dd18e0c8fa1c
 SHA1sum: 754ed87ce970631fc2b42b99b45be7ed1d82d76c
 SHA256sum: 129a3ddd5d72a8fa208d2df21b4441d738607306c3be7f74dd6952a93059dffc
 Filename: debs//com.iamgasgass.dune_1.0.1_iphoneos-arm.deb
+
+Package: com.iamgasgass.macosindicator
+Name: macOSX Indicator
+Version: 1.1
+Size: 134708
+Architecture: iphoneos-arm
+Description: macOSX loading indicator.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Themes
+MD5sum: 52a0c1a8972eee9e06e4fed78a20270d
+SHA1sum: e3b61570496848d7e272add0715d4d518f658100
+SHA256sum: fd2deed3e22b102dee35ee71b9f6fadb29740ba109402f8471776a8e821cd066
+Filename: debs//com.iamgasgass.macosindicator_1.1_iphoneos-arm.deb
