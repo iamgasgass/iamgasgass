@@ -1131,7 +1131,7 @@ Name: BetterPowerDown2
 Version: 2.0.1
 Size: 463654
 Architecture: iphoneos-arm
-Description: An awesome MobileSunstrate tweak!
+Description: An awesome MobileSubstrate tweak!
 Depends: mobilesubstrate, firmware (>= 7.0) | org.coolstar.libclassictelephonyui
 Provides: ws.hbang.repower, org.coolstar.betterpowerdown (=1.4.0)
 Replaces: ws.hbang.repower, org.coolstar.betterpowerdown
