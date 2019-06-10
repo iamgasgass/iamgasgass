@@ -883,21 +883,6 @@ SHA1sum: 81cf07dcbbc0f3d4bfef7a68858a00ad30046450
 SHA256sum: 44c0a10462e9972f7c80ea08966458bea93765dbed4a2bf6b47e606509ebdd77
 Filename: debs//org.coolstar.classicdock_3.0.1_iphoneos-arm.deb
 
-Package: com.yourepo.iamgasgass.bundleidsxi
-Name: BundleIDsXI Fix
-Version: 1.1.1.2.1
-Size: 122772
-Architecture: iphoneos-arm
-Depends: applist
-Description: App to see Bundle IDs.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Utilities
-MD5sum: 595cfac063ab385fdb0be980b854aa92
-SHA1sum: e78b8dcbfbf2b87cc49336088a478d77df8b8b95
-SHA256sum: 2130e56470f409832d330a1d728393f9310fb5eae5d006ef0bb51fcbdaa9ca8c
-Filename: debs//com.yourepo.iamgasgass.bundleidsxi_1.1.1.2.1_iphoneos-arm
-
 Package: ga.jakeashacks.substitutedummy
 Name: Substitute Dummy for unc0ver
 Version: 1.0
