@@ -1171,3 +1171,35 @@ MD5sum: 52a0c1a8972eee9e06e4fed78a20270d
 SHA1sum: e3b61570496848d7e272add0715d4d518f658100
 SHA256sum: fd2deed3e22b102dee35ee71b9f6fadb29740ba109402f8471776a8e821cd066
 Filename: debs//com.iamgasgass.macosindicator_1.1_iphoneos-arm.deb
+
+Package: com.iamgasgass.eclipse12
+Name: Eclipse Dark Mode12
+Version: 6.1.2
+Size: 628424
+Architecture: iphoneos-arm
+Description: DarkMode for iOS 12 with libcolorpickersupport.
+Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 12.0), com.creaturesurvive.libcscolorpicker
+Maintainer: iamgasgass <nick1710@live.it>
+Author: Guillermo Moràn (fr0st)
+Section: Tweaks
+MD5sum: 14b860d66979f932991b7c44f995ff84
+SHA1sum: 30eb05a0f2ef4c89e06d717e6c81cc5cf048fa03
+SHA256sum: 7f06177e22b86da2f60bc5c192a8b77d3949e127a9032248035c0667ea3e787c
+Filename: debs//com.iamgasgass.eclipse12_6.1.2_iphoneos-arm.deb
+
+Package: com.iamgasgass.icleanerpro
+Name: iCleaner Pro
+Version: 7.7.5
+Size: 3590732
+Architecture: iphoneos-arm
+Description: The legend iCleanerPro for iOS.
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
+Maintainer: iamgasgass <nick1710@live.it>
+Author: Ivano Bilenchi <support@ib-soft.net>
+Section: Utilities
+MD5sum: 6d731961cf254c55d3ef52f3b262f2d1
+SHA1sum: 6b33cf9ecb0dba33a1858a78525cfaf3e6567125
+SHA256sum: b275f45c5f02696cf902076128a0ab6cb14bde3a1b8d46812df0240fb1df1daf
+Filename: debs//com.iamgasgass.icleanerpro_7.7.5_iphoneos-arm.deb
