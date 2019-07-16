@@ -1145,18 +1145,18 @@ Filename: debs//com.iamgasgass.sixls_1.0.4.1_iphoneos-arm.deb
 
 Package: com.iamgasgass.dune
 Name: Dune
-Version: 1.0.1
-Size: 57196
+Version: 1.1.2
+Size: 565868
 Architecture: iphoneos-arm
 Description: A free, open-source iOS dark mode.
 Depends: mobilesubstrate, preferenceloader
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: 2fd49a86d194e6954cf7dd18e0c8fa1c
-SHA1sum: 754ed87ce970631fc2b42b99b45be7ed1d82d76c
-SHA256sum: 129a3ddd5d72a8fa208d2df21b4441d738607306c3be7f74dd6952a93059dffc
-Filename: debs//com.iamgasgass.dune_1.0.1_iphoneos-arm.deb
+MD5sum: 16de5326b77536eb73877f648a9eb551
+SHA1sum: 92bceeab4672c34de9f03864cffc1fee67e55db9
+SHA256sum: 23f341aabfc767bb583dc8988cb328136040320c94574b217c848bbe4d2a1729
+Filename: debs//com.iamgasgass.dune_1.1.2_iphoneos-arm.deb
 
 Package: com.iamgasgass.macosindicator
 Name: macOSX Indicator
