@@ -1203,3 +1203,47 @@ MD5sum: 6d731961cf254c55d3ef52f3b262f2d1
 SHA1sum: 6b33cf9ecb0dba33a1858a78525cfaf3e6567125
 SHA256sum: b275f45c5f02696cf902076128a0ab6cb14bde3a1b8d46812df0240fb1df1daf
 Filename: debs//com.iamgasgass.icleanerpro_7.7.5_iphoneos-arm.deb
+
+Package: com.iamgasgass.autowall
+Name: AutoWall
+Version: 1.1
+Size: 43798
+Architecture: iphoneos-arm
+Description: Change the wallpaper dynamics setting the time, like macOS Mojave!:) iOS 11 and up.
+Depends: mobilesubstrate, preferenceloader
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 8889318d80e8d692e58b0775596fdb33
+SHA1sum: 8ffd4caaa54a550ffbe67c986431708976ef4bd5
+SHA256sum: 5a0327031b559a0534aa5ea29f5a1d05f5143a985970308f66b5e98659a3dda0
+Filename: debs//com.iamgasgass.autowall_0.1f_iphoneos-arm.deb
+
+Package: com.iamgasgass.betterccxi
+Name: BetterCCXI
+Version: 0.1.4.10
+Size: 62604
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
+Description: Enhance your control center on iOS 11 & 12!:)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: d8e17ec5c60842e0fc043184f481aeed
+SHA1sum: fd3345af68689cf78ab1143ef51d8346e340fa7e
+SHA256sum: 0bd2d210d8796774ec4f1612b09113c60e5fb53399f60f8c6f17c806e5cd7655
+Filename: debs//com.iamgasgass.betterccxi_1.4_iphoneos-arm.deb
+
+Package: com.iamgasgass.cardsbasic
+Name: iamOSCards
+Version: 1.0
+Size: 31824
+Architecture: iphoneos-arm
+Description: iamOSCards Basic for iOSxx.x ENJOY.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Themes
+MD5sum: 2a5719f50de3a2d56eb2da5cd93f34af
+SHA1sum: bd94983528ea82f95086be29e3da743db0f2a5fe
+SHA256sum: c075bccf7d004abdf433bacd460246bb8ce40478358587c60b41cf3f033ead46
+Filename: debs//com.iamgasgass.cardsbasic_1.0_iphoneos-arm.deb
