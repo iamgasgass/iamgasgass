@@ -1232,7 +1232,7 @@ Section: Tweaks
 MD5sum: d8e17ec5c60842e0fc043184f481aeed
 SHA1sum: fd3345af68689cf78ab1143ef51d8346e340fa7e
 SHA256sum: 0bd2d210d8796774ec4f1612b09113c60e5fb53399f60f8c6f17c806e5cd7655
-Filename: debs//com.iamgasgass.betterccxi_1.4_iphoneos-arm.deb
+Filename: debs//com.iamgasgass.betterccxi_1.4.deb
 
 Package: com.iamgasgass.cardsbasic
 Name: iamOSCards
