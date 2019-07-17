@@ -1247,3 +1247,33 @@ MD5sum: 2a5719f50de3a2d56eb2da5cd93f34af
 SHA1sum: bd94983528ea82f95086be29e3da743db0f2a5fe
 SHA256sum: c075bccf7d004abdf433bacd460246bb8ce40478358587c60b41cf3f033ead46
 Filename: debs//com.iamgasgass.cardsbasic_1.0_iphoneos-arm.deb
+
+Package: system-memory-reset-fix
+Name: System Memory Reset Fix
+Version: 1.0
+Size: 5720
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Prevent overnight userspace reboots triggered by mmaintenanced
+Maintainer: iamgasgass <nick1710@live.it>
+Author: Pwn20wnd
+Section: System
+MD5sum: 2f388e27de48dfc29e2aa59ff998cf0d
+SHA1sum: a4f63add9570be3463598b531b2b29e4114eda9e
+SHA256sum: b6fbfa3558d695995d589eec267f7ed9cdde76e6907661ef45b04d1b32c2ff93
+Filename: debs//system-memory-reset-fix_1.0_iphoneos-arm.deb
+
+Package: com.pwn20wnd.noplsocsp
+Name: NoPlsOCSP
+Version: 1.0-3+debug
+Size: 6036
+Architecture: iphoneos-arm
+Depends: bash, cy+cpu.arm64
+Description: Blocks the Apple OCSP servers to pervent the certificates from getting revoked.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: Pwn20wnd
+Section: System
+MD5sum: cc2b5f94323bf8def25019e8773d284f
+SHA1sum: 94de9ff5a0ce787f207f4bc03db243da0097d592
+SHA256sum: 408e94d39ac3954d96fe873379720f720b4becdf1656e2a08cc3c00fee5358eb
+Filename: debs//com.pwn20wnd.noplsocsp_1.0-3+debug_iphoneos-arm.deb
