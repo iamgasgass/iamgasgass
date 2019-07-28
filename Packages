@@ -26,7 +26,7 @@ SHA1sum: 35c67daf661a182b1e6e3d4b83c2a274daa0acd0
 SHA256sum: 2f2ec298ee291b9334ce6893b0cbd52fdc02014e9c5af5e035b14e8afc465dd9
 Filename: debs//com.iamgasgass.iamossix_1.4_iphoneos-arm.deb
 
-Package: com.iamgasgass.iamossix
+Package: com.iamgasgass.iamossixext
 Name: iamOS Six EXT
 Version: 1.2
 Size: 4715516
