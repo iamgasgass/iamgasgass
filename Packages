@@ -29,15 +29,15 @@ Filename: debs//com.iamgasgass.iamossix_1.4_iphoneos-arm.deb
 Package: com.iamgasgass.iamossixext
 Name: iamOS Six EXT
 Version: 1.2
-Size: 11070334
+Size: 11070338
 Architecture: iphoneos-arm
 Description: I love that dock and badge, I love iOS6.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Themes
-MD5sum: 91733a45f53fb86983ffee774fdfb052
-SHA1sum: 8cfc622e2d040e3e0f9de035eb51ac92d0ef8290
-SHA256sum: e4501e6603b8c51c397509c2c83df61005b93c4bf144e03e544227071b34d91b
+MD5sum: cecc79790aa9e49cccba650671482814
+SHA1sum: 8c0c701d77576470d35b67f6fc924507ea36428c
+SHA256sum: e17a0e221813423304f7ecc82e1c716f11c6e868daa83cf4a087fb6fc9dd05dc
 Filename: debs//com.iamgasgass.iamossix_1.2_iphoneos-arm.deb
 
 Package: com.iamgasgass.iammodernxs
