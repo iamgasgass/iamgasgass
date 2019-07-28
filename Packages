@@ -14,17 +14,31 @@ Filename: debs//com.iamgasgass.iamosxs_0.1.11f_iphoneos-arm.deb
 
 Package: com.iamgasgass.iamossix
 Name: iamOS Six
-Version: 1.6
-Size: 10031796
+Version: 1.4
+Size: 20837364
 Architecture: iphoneos-arm
-Description: A fantastic theme based on iOS 6 and adapted for iOSxx.x ENJOY.
+Description: I love that icon, I love iOS 6.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Themes
-MD5sum: 7f47fbf4d2c0bc1a1d8e77a73df02ee8
-SHA1sum: d3fd1ad57906e2e86fb8d6ae6b1c9a8b5aa578ed
-SHA256sum: eb6a78cf1bc86827ac996820e76711e4c754bae7492dd250bec90961a6552722
-Filename: debs//com.iamgasgass.iamossix_1.6_iphoneos-arm.deb
+MD5sum: c83d84aaebeaadc72963cb28eac7c0da
+SHA1sum: 35c67daf661a182b1e6e3d4b83c2a274daa0acd0
+SHA256sum: 2f2ec298ee291b9334ce6893b0cbd52fdc02014e9c5af5e035b14e8afc465dd9
+Filename: debs//com.iamgasgass.iamossix_1.4_iphoneos-arm.deb
+
+Package: com.iamgasgass.iamossix
+Name: iamOS Six EXT
+Version: 1.2
+Size: 4715516
+Architecture: iphoneos-arm
+Description: A fantastic theme based on iOS 6 and adapted for iOSxx.x
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Themes
+MD5sum: 6a765bb69645ff7aeb03f0ff42be9fa2
+SHA1sum: 37deea2d3a703c9a4d394dae7130c20a5a0b96c1
+SHA256sum: d86a5b103e49aa50bf021424bb1732d84e09efbafa73bf22dca7b159c0cbe44b
+Filename: debs//com.iamgasgass.iamossix_1.2_iphoneos-arm.deb
 
 Package: com.iamgasgass.iammodernxs
 Name: iamModernXS
