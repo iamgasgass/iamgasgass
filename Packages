@@ -29,30 +29,30 @@ Filename: debs//com.iamgasgass.iamossix_1.4_iphoneos-arm.deb
 Package: com.iamgasgass.iamossixext
 Name: iamOS Six EXT
 Version: 1.2
-Size: 4715516
+Size: 11070334
 Architecture: iphoneos-arm
 Description: I love that dock and badge, I love iOS6.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Themes
-MD5sum: 6a765bb69645ff7aeb03f0ff42be9fa2
-SHA1sum: 37deea2d3a703c9a4d394dae7130c20a5a0b96c1
-SHA256sum: d86a5b103e49aa50bf021424bb1732d84e09efbafa73bf22dca7b159c0cbe44b
+MD5sum: 91733a45f53fb86983ffee774fdfb052
+SHA1sum: 8cfc622e2d040e3e0f9de035eb51ac92d0ef8290
+SHA256sum: e4501e6603b8c51c397509c2c83df61005b93c4bf144e03e544227071b34d91b
 Filename: debs//com.iamgasgass.iamossix_1.2_iphoneos-arm.deb
 
 Package: com.iamgasgass.iammodernxs
 Name: iamModernXS
-Version: 1.0
-Size: 1022186
+Version: 1.45
+Size: 9455872
 Architecture: iphoneos-arm
 Description: A fantastic theme based on iOS concept and adapted for iOSxx.x ENJOY.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Themes
-MD5sum: a55fbde77e95b1310d119ee1f55d94c3
-SHA1sum: 1ec0c2a460401f6fd7b67c98c0765170b6905490
-SHA256sum: 4b8498ef67515fbdec615b1793f50f885966a296499bc1417331bad253aefd93
-Filename: debs//com.iamgasgass.iammodernxs_1.0_iphoneos-arm.deb
+MD5sum: b47101cb2566ffc82c6d2ab2a431ee0f
+SHA1sum: a424926b4df751c0b497d9d0e86305caa0061a14
+SHA256sum: 8cc1b0b108524662df5bc5003084bf3b5b048a512799d8d8a3039a975b89e2c4
+Filename: debs//com.iamgasgass.iammodernxs_1.45_iphoneos-arm.deb
 
 Package: com.iamgasgass.osxsfull
 Name: OSXSFull
