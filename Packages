@@ -38,7 +38,7 @@ Section: Themes
 MD5sum: cecc79790aa9e49cccba650671482814
 SHA1sum: 8c0c701d77576470d35b67f6fc924507ea36428c
 SHA256sum: e17a0e221813423304f7ecc82e1c716f11c6e868daa83cf4a087fb6fc9dd05dc
-Filename: debs//com.iamgasgass.iamossix_1.2_iphoneos-arm.deb
+Filename: debs//com.iamgasgass.iamossixext_1.2_iphoneos-arm.deb
 
 Package: com.iamgasgass.iammodernxs
 Name: iamModernXS
