@@ -656,7 +656,7 @@ Section: Tweaks
 MD5sum: 0628d158e53dc6cc412cb8ccb7d4729d
 SHA1sum: 5b58025c2d97d5a05f89a0a45f2b2521b0c8faf7
 SHA256sum: 1d4091b9b39f6f54881c350136d7fa268d903097250b0634ea0515079a81118b
-Filename: debs//com.iamgasgass.jellyfish_1.2.1h4ck.deb
+Filename: debs//com.iamgasgass.jellyfish_1.2.1h4ck_iphoneos-arm.deb
 
 Package: com.iamgasgass.myriad
 Name: Myriad
