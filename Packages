@@ -100,18 +100,18 @@ Filename: debs//com.iamgasgass.cydown_0.6.9.7_iphoneos-arm.deb
 
 Package: com.iamgasgass.reprovision
 Name: ReProvision
-Version: 0.4.2
-Size: 10555786
+Version: 0.4.3
+Size: 10539084
 Architecture: iphoneos-arm
 Description: Re-sign applications on your iDevice.!:) iOS 9 and up.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Depends: firmware (>= 9.0)
 Section: System
-MD5sum: 08a8ab347e334517f2187d79a3b02103
-SHA1sum: 6b601173b25a14bdd6bbb0d0cc94991b0e946ec4
-SHA256sum: 3170c9523cbcdae3957976d1a13eec5c5eceda4108be48299377de42d5085e3d
-Filename: debs//com.iamgasgass.reprovision_0.4.2_iphoneos-arm.deb
+MD5sum: b6f508358db5b8047b9feb30ec340e4a
+SHA1sum: 9f0bd17758562c7df7a243a85bde958f799a0264
+SHA256sum: aa7fa19261b935d8a272f29d863aac6e248e5106317cf748299838e1182fa6e6
+Filename: debs//com.iamgasgass.reprovision_0.4.3_iphoneos-arm.deb
 
 Package: com.iamgasgass.coolbooter
 Name: CoolBooter
@@ -765,8 +765,8 @@ Filename: debs//com.iamgasgass.mojavexs_10.14_iphoneos-arm.deb
 
 Package: com.iamgasgass.floatingdockplus
 Name: FloatingDockPlus
-Version: 1.3.3h4ck
-Size: 94968
+Version: 1.3.4.1h4ck
+Size: 96224
 Architecture: iphoneos-arm
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.spark.libsparkapplist
 Conflicts: com.imkpatil.floatingdock, com.synnyg.floatydock
@@ -774,10 +774,10 @@ Description: Enable native iPad dock on all iDevices!:) iOS 11 and up.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: a946fd7855aee7285c675a2695808eba
-SHA1sum: 218ff09f51096474bd1c45ad1ff26a93315074e5
-SHA256sum: b71f4b23cdc3c12cdc24b98ab26ace51d7c4a7409a80f7ef110eb1822a7d7844
-Filename: debs//com.iamgasgass.floatingdockplus_1.3.3h4ck_iphoneos-arm.deb
+MD5sum: 073728e8b32fef65908b99f709e8a59b
+SHA1sum: cd5bd978df540a5bf3f7d0409701a259ac71c2bf
+SHA256sum: 5f3b594d81c8cc479863945d73548e370993104bc2c20921b2fd89018aac5926
+Filename: debs//com.iamgasgass.floatingdockplus_1.3.4.1h4ck_iphoneos-arm.deb
 
 Package: com.pulandres.myriad
 Name: Myriad
@@ -1159,18 +1159,18 @@ Filename: debs//com.iamgasgass.sixls_1.0.4.1_iphoneos-arm.deb
 
 Package: com.iamgasgass.dune
 Name: Dune
-Version: 1.1.2
-Size: 565868
+Version: 1.2.1
+Size: 590354
 Architecture: iphoneos-arm
 Description: A free, open-source iOS dark mode.
 Depends: mobilesubstrate, preferenceloader
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: 16de5326b77536eb73877f648a9eb551
-SHA1sum: 92bceeab4672c34de9f03864cffc1fee67e55db9
-SHA256sum: 23f341aabfc767bb583dc8988cb328136040320c94574b217c848bbe4d2a1729
-Filename: debs//com.iamgasgass.dune_1.1.2_iphoneos-arm.deb
+MD5sum: f93ff0c14bd94b0772b6fda9a7560c55
+SHA1sum: 09fbb1406f0012d7dd2a82894c8dac1d37a73952
+SHA256sum: d84af6504fc946d5531fa76765b3033a9ea2a1a3129e421966298a0e358bc8e1
+Filename: debs//com.iamgasgass.dune_1.2.1_iphoneos-arm.deb
 
 Package: com.iamgasgass.macosindicator
 Name: macOSX Indicator
