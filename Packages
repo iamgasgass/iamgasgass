@@ -644,8 +644,8 @@ Filename: debs//com.iamgasgass.musicdark_0.1.2_iphoneos-arm.deb
 
 Package: com.iamgasgass.jellyfish
 Name: Jellyfish
-Version: 1.1.5h4ck
-Size: 177192
+Version: 1.2.1h4ck
+Size: 188880
 Architecture: iphoneos-arm
 Description: Modern lock screen for iOS 11 and above!:)
 Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
@@ -653,10 +653,10 @@ Conflicts: applebetas.ios.tweak.time11, com.junesiphone.lockpluspro
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Tweaks
-MD5sum: b8c72767a59710b3d28f0b57eb149a31
-SHA1sum: 3b71fcad40baf9cc5bda62751d15f3b72ca081a9
-SHA256sum: b6d1cdc513a2a29d5dea185c2dbf3f0d625a6c78b1aced747719ca2abc691667
-Filename: debs//com.iamgasgass.jellyfish_1.1.5h4ck.deb
+MD5sum: 0628d158e53dc6cc412cb8ccb7d4729d
+SHA1sum: 5b58025c2d97d5a05f89a0a45f2b2521b0c8faf7
+SHA256sum: 1d4091b9b39f6f54881c350136d7fa268d903097250b0634ea0515079a81118b
+Filename: debs//com.iamgasgass.jellyfish_1.2.1h4ck.deb
 
 Package: com.iamgasgass.myriad
 Name: Myriad
@@ -1188,18 +1188,18 @@ Filename: debs//com.iamgasgass.macosindicator_1.1_iphoneos-arm.deb
 
 Package: com.iamgasgass.eclipse12
 Name: Eclipse Dark Mode12
-Version: 6.1.2
-Size: 628424
+Version: 6.1.2.1
+Size: 692828
 Architecture: iphoneos-arm
 Description: DarkMode for iOS 12 with libcolorpickersupport.
 Depends: mobilesubstrate, preferenceloader, applist, firmware (>= 12.0), com.creaturesurvive.libcscolorpicker
 Maintainer: iamgasgass <nick1710@live.it>
 Author: Guillermo Moràn (fr0st)
 Section: Tweaks
-MD5sum: 14b860d66979f932991b7c44f995ff84
-SHA1sum: 30eb05a0f2ef4c89e06d717e6c81cc5cf048fa03
-SHA256sum: 7f06177e22b86da2f60bc5c192a8b77d3949e127a9032248035c0667ea3e787c
-Filename: debs//com.iamgasgass.eclipse12_6.1.2_iphoneos-arm.deb
+MD5sum: 8377df2391aceeaf916f402aa8fcca03
+SHA1sum: 093c8d5250a012f2a0cad0ffb45d9c7a2407629e
+SHA256sum: 066299749ab5d1cca1aa37cb564432a48952a24d51ca9e04b91cf889e87d5e0a
+Filename: debs//com.iamgasgass.eclipse12_6.1.2.1_iphoneos-arm.deb
 
 Package: com.iamgasgass.icleanerpro
 Name: iCleaner Pro
