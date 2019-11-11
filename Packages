@@ -1321,3 +1321,75 @@ MD5sum: 4efb5c09f090e136485ee1cea0aa4820
 SHA1sum: 337304f63fc53239bc6b4ddae07da21d72fbcfcf
 SHA256sum: 46cbda71d74342b45d7cbe1ac1b330c7a12b124e76e2d10ef646767dd844b66c
 Filename: debs//com.iamgasgass.localiapstore_1.4.5_iphoneos-arm.deb
+
+Package: com.iamgasgass.iamossixbattery
+Name: iamOS Six Battery
+Version: 1.4
+Size: 42964
+Architecture: iphoneos-arm
+Depends: com.fortysixandtwo.alkaline
+Description: iOS6 ClassicBattery for Alkaline.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass
+Section: Themes
+MD5sum: cb8b99cfc07971a00fdecded2ee8dd07
+SHA1sum: a303e05148ee78d34725210cc1778149e1e2b0a4
+SHA256sum: 3c773d3971e31a61c7d1f2556c515d53276cebc7d6a3ee7d46cfa8fcfb74a5d5
+Filename: debs//com.iamgasgass.iamossixbattery_1.4_iphoneos-arm.deb
+
+Package: com.iamgasgass.iamosmavericksdock
+Name: iamOSMavericksDock
+Version: 1.10.5
+Size: 1305658
+Architecture: iphoneos-arm
+Description: A theme for dock like macOS Mavericks.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass
+Section: Themes
+MD5sum: 60f56be8fcd6b9af28b63c18357cdf58
+SHA1sum: 1a9a70460c24b91c6b6714cc4118e7283de81f03
+SHA256sum: 3ac67fcf741220da6d7c3ae0b1d73b86602dca1c526efaa4cacca9c37d7c7fb0
+Filename: debs//com.iamgasgass.iamosmavericksdock_1.10.5_iphoneos-arm.deb
+
+Package: com.iamgasgass.iamosbadges
+Name: iamOSBadges
+Version: 10.4.3
+Size: 19880
+Architecture: iphoneos-arm
+Description: A collection of themes for the badges theming.
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass
+Section: Themes
+MD5sum: 709d721ceeda23b07857ca7aafafe0ef
+SHA1sum: 4b0251e48c4f158f905f386dd5de6821ed680431
+SHA256sum: f4f462619b671ff26634229a427e030959cee7997a834e7b628b81816f775141
+Filename: debs//com.iamgasgass.iamosbadges_10.14.3_iphoneos-arm.deb
+
+Package: com.iamgasgass.iamdockyos
+Name: iamDockyOS
+Version: 0.0.2
+Size: 18239724
+Architecture: iphoneos-arm
+Description: Some dock themes by iamgasgass.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass
+Section: Themes
+MD5sum: 1bf90e83cc2bf3b39c1623c8030d01b6
+SHA1sum: a5bf1a03012d5812a2e26707056374799bf3b08d
+SHA256sum: d0429566ad58d635a9e8859e55c3643cfa97bb6ddbf48bccc896c44227d8148a
+Filename: debs//com.iamgasgass.iamdockyos_0.0.2_iphoneos-arm.deb
+
+Package: com.iamgasgass.ios6statbar
+Name: iOS 6 StatusBar
+Version: 1.0
+Size: 880
+Architecture: iphoneos-arm
+Description: iOS6 StatusBar for iPhone X and up, must be downloaded with XenHTML.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass
+Section: Widgets
+MD5sum: 1be172af55ebed939ebd24b5df016a99
+SHA1sum: 6252ad74d37b751ae842a11be62b2db0b9f84938
+SHA256sum: cdeb3144e9eb67383bc1f3b337c28cd8922fafba6f7cf1dbb2d424d67631c836
+Filename: debs//com.iamgasgass.ios6statbar_1.0_iphoneos-arm.deb
