@@ -897,37 +897,6 @@ SHA1sum: 81cf07dcbbc0f3d4bfef7a68858a00ad30046450
 SHA256sum: 44c0a10462e9972f7c80ea08966458bea93765dbed4a2bf6b47e606509ebdd77
 Filename: debs//org.coolstar.classicdock_3.0.1_iphoneos-arm.deb
 
-Package: ga.jakeashacks.substitutedummy
-Name: Substitute Dummy for unc0ver
-Version: 1.0
-Size: 6294
-Architecture: iphoneos-arm
-Provides: org.coolstar.tweakinject, com.ex.libsubstitute
-Replaces: org.coolstar.tweakinject, com.ex.libsubstitute
-Description: Add Substrate support to Substitute tweaks! And by that I mean, tweaks made by coolstar!
-Maintainer: Jake James <jakeashacks@gmail.com>
-Author: Jake James <jakeashacks@gmail.com>
-Section: Tweaks
-MD5sum: 954adf6afaefbeec2130b76d7d8950f0
-SHA1sum: 2da6c8c4938d4a99f75a604d07079a8e7955c47b
-SHA256sum: c0f6aba41265143784e4a7627a591b9461712bbb15a295f9520f7ee12283a8da
-Filename: debs//ga.jakeashacks.substitutedummy_1.0_iphoneos-arm.deb
-
-Package: ga.jakeashacks.sharedfix
-Name: Shared Package Fix for Unc0ver
-Version: 1.0
-Size: 6506
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Description: Fix various packages on Unc0ver
-Maintainer: Jake James <jakeashacks@gmail.com>
-Author: Jake James <jakeashacks@gmail.com>
-Section: Tweaks
-MD5sum: 71c1dda15f26dd935d076373292213ee
-SHA1sum: 71d24f38d73cb4220968702b2f4845efdfa4de74
-SHA256sum: d371f2c212818b9a74ce451444bb27f3f460aa9f749c6c9352b5b27aed473062
-Filename: debs//ga.jakeashacks.sharedfix_1.0_iphoneos-arm.deb
-
 Package: com.iamgasgass.noctis12
 Name: Noctis12
 Version: 1.6.6h4ck
