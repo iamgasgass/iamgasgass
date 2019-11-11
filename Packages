@@ -1291,3 +1291,33 @@ MD5sum: cc2b5f94323bf8def25019e8773d284f
 SHA1sum: 94de9ff5a0ce787f207f4bc03db243da0097d592
 SHA256sum: 408e94d39ac3954d96fe873379720f720b4becdf1656e2a08cc3c00fee5358eb
 Filename: debs//com.pwn20wnd.noplsocsp_1.0-3+debug_iphoneos-arm.deb
+
+Package: com.iamgasgass.checkra1n.boot
+Name: checkra1nBoot
+Version: 0.9
+Size: 141668
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 11.0)
+Description: Personalize your iDevice with checkra1n, this is a custom bootleg for all iOS device. Use with MakeRespringGreatAgain.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass
+Section: Themes
+MD5sum: a091a42c654fb6a0389e70a206705a5e
+SHA1sum: 7289929eb71ec32c886c20269d8911f1cf7ec20f
+SHA256sum: e7360004fface9f80f4b2b0e2f1afba22ae4b0b933dd4e4b5115a6ace3c3e284
+Filename: debs//com.iamgasgass.checkra1n.boot_0.9_iphoneos-arm.deb
+
+Package: com.iamgasgass.localiapstore
+Name: LocalIAPStore
+Version: 1.4.5
+Size: 70754
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader
+Description: In-App Purchase.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass
+Section: Tweaks
+MD5sum: 4efb5c09f090e136485ee1cea0aa4820
+SHA1sum: 337304f63fc53239bc6b4ddae07da21d72fbcfcf
+SHA256sum: 46cbda71d74342b45d7cbe1ac1b330c7a12b124e76e2d10ef646767dd844b66c
+Filename: debs//com.iamgasgass.localiapstore_1.4.5_iphoneos-arm.deb
