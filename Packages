@@ -1362,3 +1362,63 @@ MD5sum: 1be172af55ebed939ebd24b5df016a99
 SHA1sum: 6252ad74d37b751ae842a11be62b2db0b9f84938
 SHA256sum: cdeb3144e9eb67383bc1f3b337c28cd8922fafba6f7cf1dbb2d424d67631c836
 Filename: debs//com.iamgasgass.ios6statbar_1.0_iphoneos-arm.deb
+
+Package: com.iamgasgass.redsn0w.boot
+Name: Redsn0wBoot
+Version: 0.1
+Size: 447066
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 11.0)
+Description: Revive the good old days with the redsn0w bootlogo.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass
+Section: Themes
+MD5sum: 881bc7e446bd8abac073f95ad8dee738
+SHA1sum: 49802fe35333a767f738623e2b32b5b9ed724657
+SHA256sum: c545f16ab1dc4fce756c9c901100d6b7f8657eb9befcfc665a7c16a8dd42304c
+Filename: debs//com.iamgasgass.redsn0w.boot_0.1_iphoneos-arm.deb
+
+Package: com.iamgasgass.watchdogs.boot
+Name: WatchDogsBoot
+Version: 0.1
+Size: 595002
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 11.0)
+Description: Personalize your iDevice with this WatchDogsOS boot.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass
+Section: Themes
+MD5sum: 67cef702ed19fc84daba4c11309c6ce7
+SHA1sum: 982ed25ffadb0d2d3d3f49234977dc2ea05d1e5c
+SHA256sum: 0899191dc2dbc580dedf4281278ecb1f0a7815097d6cb8801d3c44ffe7536eee
+Filename: debs//com.iamgasgass.watchdogs.boot_0.1_iphoneos-arm.deb
+
+Package: com.iamgasgass.retroapple.boot
+Name: RetròAppleBoot
+Version: 1.0
+Size: 82090
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 11.0)
+Description: RetròApple custom Bootlogo.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass
+Section: Themes
+MD5sum: 58b95c9935cc57afb43b030302ca3bd3
+SHA1sum: cdb528c48b2bb5ddfb5db65d940f5bf389f6dd0b
+SHA256sum: 4203a50f492199b7ae33b898deae58726a4b33ebfd543226401fbce980add105
+Filename: debs//com.iamgasgass.retroapple.boot_1.0_iphoneos-arm.deb
+
+Package: com.iamgasgass.ios6boot
+Name: iOS6Boot
+Version: 1.0
+Size: 248938
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 11.0)
+Description: iOS6 custom Bootlogo.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass
+Section: Themes
+MD5sum: b2bbd90274fb93983dd2f40c8088366e
+SHA1sum: 625cac4fbd0dc06fd7fcaf83d4004a6a7bbb24f4
+SHA256sum: d7f0579d54df38014110d52471b8f5cfba6b084e9b595cefb2c131907312a22d
+Filename: debs//com.iamgasgass.ios6boot_1.0_iphoneos-arm.deb
