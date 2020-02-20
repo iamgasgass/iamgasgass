@@ -1,16 +1,16 @@
 Package: com.iamgasgass.iamosxs
 Name: iamOSXS
-Version: 0.1.11f
-Size: 13376474
+Version: 1.1
+Size: 16294922
 Architecture: iphoneos-arm
 Description: A fantastic theme based on macOS X up and adapted for iOSxx.x ENJOY.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
 Section: Themes
-MD5sum: 7640ab0f83690169abb5daf77ab3d162
-SHA1sum: 40703a52f16ac24a560c2352c3ae161cf93dc13d
-SHA256sum: 06b3d456dcfc63a246aadc237f6bee58c281a90c49a937f31f3ec6c37fd149cc
-Filename: debs//com.iamgasgass.iamosxs_0.1.11f_iphoneos-arm.deb
+MD5sum: de7e28626fa6dc02d6cd53573158f7c6
+SHA1sum: 9a17a7cf2e1a334579c59ee450ae4705c0e728d4
+SHA256sum: 0206dd634c99954dceed785826a9f438ffc026c36193751b7e580a286b580c38
+Filename: debs//com.iamgasgass.iamosxs_1.1_iphoneos-arm.deb
 
 Package: com.iamgasgass.iamossix
 Name: iamOS Six
@@ -1422,3 +1422,17 @@ MD5sum: b2bbd90274fb93983dd2f40c8088366e
 SHA1sum: 625cac4fbd0dc06fd7fcaf83d4004a6a7bbb24f4
 SHA256sum: d7f0579d54df38014110d52471b8f5cfba6b084e9b595cefb2c131907312a22d
 Filename: debs//com.iamgasgass.ios6boot_1.0_iphoneos-arm.deb
+
+Package: com.iamgasgass.iossixshad
+Name: iamOS Six Shadow
+Version: 0.1
+Size: 16886
+Architecture: iphoneos-arm
+Description: An Awesome SpringBoard Theme!
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Themes
+MD5sum: 236d4d36a5e3553947bf356ec981103a
+SHA1sum: d8054f1542129a0bac0dcc0be830a8bd863f7aef
+SHA256sum: 726dfbab2e57d9bc22eec9b8a62fa229fc08c390ba70c589f6ae4afd83389502
+Filename: debs//iOSSixShad.deb
