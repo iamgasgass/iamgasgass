@@ -1437,8 +1437,8 @@ SHA1sum: d8054f1542129a0bac0dcc0be830a8bd863f7aef
 SHA256sum: 726dfbab2e57d9bc22eec9b8a62fa229fc08c390ba70c589f6ae4afd83389502
 Filename: debs//iOSSixShad.deb
 
-Package: com.iamgasgass.iossixshad
-Name: iamOS Six Shadow
+Package: com.iamgasgass.iossixsb
+Name: iamOS Six SB
 Version: 1.0
 Size: 1902
 Architecture: iphoneos-arm
