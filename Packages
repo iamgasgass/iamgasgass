@@ -1261,20 +1261,20 @@ SHA1sum: 94de9ff5a0ce787f207f4bc03db243da0097d592
 SHA256sum: 408e94d39ac3954d96fe873379720f720b4becdf1656e2a08cc3c00fee5358eb
 Filename: debs//com.pwn20wnd.noplsocsp_1.0-3+debug_iphoneos-arm.deb
 
-Package: com.iamgasgass.checkra1n.boot
+Package: com.iamgasgass.checkra1nboot
 Name: checkra1nBoot
-Version: 0.9
-Size: 141668
+Version: 1.1
+Size: 371504
 Architecture: iphoneos-arm
 Depends: mobilesubstrate, firmware (>= 11.0)
 Description: Personalize your iDevice with checkra1n, this is a custom bootleg for all iOS device. Use with MakeRespringGreatAgain.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass
 Section: Themes
-MD5sum: a091a42c654fb6a0389e70a206705a5e
-SHA1sum: 7289929eb71ec32c886c20269d8911f1cf7ec20f
-SHA256sum: e7360004fface9f80f4b2b0e2f1afba22ae4b0b933dd4e4b5115a6ace3c3e284
-Filename: debs//com.iamgasgass.checkra1n.boot_0.9_iphoneos-arm.deb
+MD5sum: 278ee1fa133813e886a73aefff1b82cf
+SHA1sum: c9008cec9539e78611ac8de2e0b9884dc41decf5
+SHA256sum: 2676df68e4675e43b5f75bd8c3247a11e67165a916c37fefbdfe77518cc0ae37
+Filename: debs//com.iamgasgass.checkra1nboot_1.1_iphoneos-arm.deb
 
 Package: com.iamgasgass.localiapstore
 Name: LocalIAPStore
@@ -1436,3 +1436,17 @@ MD5sum: 236d4d36a5e3553947bf356ec981103a
 SHA1sum: d8054f1542129a0bac0dcc0be830a8bd863f7aef
 SHA256sum: 726dfbab2e57d9bc22eec9b8a62fa229fc08c390ba70c589f6ae4afd83389502
 Filename: debs//iOSSixShad.deb
+
+Package: com.iamgasgass.iossixshad
+Name: iamOS Six Shadow
+Version: 1.0
+Size: 1902
+Architecture: iphoneos-arm
+Description: An Awesome SpringBoard Theme!
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Widgets
+MD5sum: fa3259e3382925d118f9c4ec0e8f33a4
+SHA1sum: a34a131966d9e404b006d0eca8fd5a1263dc95c4
+SHA256sum: e968c5a9587e0c90e2fec6a3e78aa4f9057e7544e5600b844383107a9ba77564
+Filename: debs//iOS6StatusBar.deb
