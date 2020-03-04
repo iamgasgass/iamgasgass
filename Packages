@@ -1437,16 +1437,16 @@ SHA1sum: d8054f1542129a0bac0dcc0be830a8bd863f7aef
 SHA256sum: 726dfbab2e57d9bc22eec9b8a62fa229fc08c390ba70c589f6ae4afd83389502
 Filename: debs//iOSSixShad.deb
 
-Package: com.iamgasgass.iossixsb
-Name: iamOS Six SB
+Package: com.iamgasgass.iamDroid
+Name: iamDroid
 Version: 1.0
-Size: 1902
+Size: 4415200
 Architecture: iphoneos-arm
-Description: An Awesome SpringBoard Theme!
+Description: A new theme for iOS, android like.
 Maintainer: iamgasgass <nick1710@live.it>
 Author: iamgasgass <nick1710@live.it>
-Section: Widgets
-MD5sum: fa3259e3382925d118f9c4ec0e8f33a4
-SHA1sum: a34a131966d9e404b006d0eca8fd5a1263dc95c4
-SHA256sum: e968c5a9587e0c90e2fec6a3e78aa4f9057e7544e5600b844383107a9ba77564
-Filename: debs//iOS6StatusBar.deb
+Section: Themes
+MD5sum: 7c4b5f16597e4eb5fe2f3102419f6b86
+SHA1sum: 9222b484fee2af6429d7d03e24a68ce6ae7fa2fb
+SHA256sum: e1a89f16a2f4ba95acd514983471c16a97863ce4e3cf94a2fe7a610a4160590a
+Filename: debs//com.iamgasgass.iamdroid_1.0_iphoneos-arm.deb
