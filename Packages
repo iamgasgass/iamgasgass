@@ -98,21 +98,6 @@ SHA1sum: 38779b361423d8bf041d15f21ad2d4a8b2f07f86
 SHA256sum: d7dbc4652ab70f30618de002553983c10ffb3d8e39a6a5e4d5785024e985fd15
 Filename: debs//com.iamgasgass.cydown_0.6.9.7_iphoneos-arm.deb
 
-Package: com.iamgasgass.reprovision
-Name: ReProvision
-Version: 0.4.3
-Size: 10539084
-Architecture: iphoneos-arm
-Description: Re-sign applications on your iDevice.!:) iOS 9 and up.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Depends: firmware (>= 9.0)
-Section: System
-MD5sum: b6f508358db5b8047b9feb30ec340e4a
-SHA1sum: 9f0bd17758562c7df7a243a85bde958f799a0264
-SHA256sum: aa7fa19261b935d8a272f29d863aac6e248e5106317cf748299838e1182fa6e6
-Filename: debs//com.iamgasgass.reprovision_0.4.3_iphoneos-arm.deb
-
 Package: com.iamgasgass.coolbooter
 Name: CoolBooter
 Version: 0.1.5
@@ -188,21 +173,6 @@ SHA1sum: 4ed09fff418c397d9156b823108f44d829c8c1c4
 SHA256sum: 44b648291ab594d8592be2cba03256a1dd092f257ed8ee8c0f249ce967e70641
 Filename: debs//com.iamgasgass.com.anchor_2.0.4h4ck_iphoneos-arm.deb
 
-Package: com.iamgasgass.moderndepictions
-Name: ModernDepictions
-Version: 0.3.91
-Size: 4056634
-Architecture: iphoneos-arm
-Description: Sileo depictions for Cydia.app on iOS 8 and up!:)
-Depends: mobilesubstrate, firmware (>= 8.0), org.thebigboss.libcolorpicker, preferenceloader, ws.hbang.common (>= 1.11)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 9763366aba9af9919a500c75c533a163
-SHA1sum: 7c701de73cf93d9a2ac0a876afd00f6825402302
-SHA256sum: 14d815fd92d5ecfda11e81b08501b71ce18f2833e882f4bbe0954bd77eece6f7
-Filename: debs//com.iamgasgass.moderndepictions_0.3.91_iphoneos-arm.deb
-
 Package: com.iamgasgass.floatingdock
 Name: FloatingDock
 Version: 0.1.5.1
@@ -232,35 +202,6 @@ MD5sum: 5befa2818b05832fd7a682b9d09a20b6
 SHA1sum: 3be5c65b74e3c77174c17c8f01d3258ee2b5a956
 SHA256sum: 1509f15b386326a1f077780cec5a21b149338946b9b8332fb53ffbb37b6eca0d
 Filename: debs//com.iamgasgass.bundleidxs_0.1.1.2_iphoneos-arm.deb
-
-Package: com.iamgasgass.settingscollapse
-Name: SettingsCollapse
-Version: 0.1.1
-Size: 62284
-Architecture: iphoneos-arm
-Description: Expand or hide individual sections in the Settings.app
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 386d6caaae55a832044e6636797c9691
-SHA1sum: 44d80f91ad9f7f2cd175cae0ad6ed4eeeba32908
-SHA256sum: de60cf47fa6bae1d0c479e40a310f622a2e4ecdafa7e399869e747992ac80445
-Filename: debs//com.iamgasgass.settingscollapse_0.1.1_iphoneos-arm.deb
-
-Package: com.iamgasgass.chargeanimations
-Name: ChargeAnimations
-Version: 0.2
-Size: 10292720
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, firmware (>= 5.0), org.thebigboss.libcolorpicker, com.rpetrich.rocketbootstrap
-Description: Animation when you plug your charger!:)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 2e1c92eb6603b4e40f74eeeab3053231
-SHA1sum: 4f9e28cf84c94562b125ecd2b132d199829454c8
-SHA256sum: ea3a750daab64a542a326bf4ae49210d95e251a2c59cbd6a234bcec8c67533b7
-Filename: debs//com.iamgasgass.chargeanimations_0.2_iphoneos-arm.deb
 
 Package: com.iamgasgass.njsdesignx
 Name: NJ.'sdesignX
@@ -304,94 +245,6 @@ SHA1sum: 1c65aa092f802aad8911ed2ec4f2eaea86b87753
 SHA256sum: 06f55b8fa31ea116b057605531a31da5990919990f8c9bd5d6b543f5c54630b5
 Filename: debs//com.iamgasgass.tupacrespring.deb
 
-Package: com.iamgasgass.jellyfishalt
-Name: JellyFishAlt
-Version: 1x
-Size: 98316
-Architecture: iphoneos-arm
-Description: JellyFishAlt is a similar widget to JellyFish but this one is compatible with XenHTML.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Widgets
-MD5sum: 497b418764469be6bfb1df29c257c002
-SHA1sum: e0b25befa30f6eee7e646dc854955cee9b419f2d
-SHA256sum: fc9467507c44fbcc258849671ca1241ef9969538e59a15ade7320b3d8a38c98f
-Filename: debs//com.iamgasgass.jellyfishalt.deb
-
-Package: com.iamgasgass.wallpapermatrix
-Name: Wallpaper Matrix
-Version: 0.1
-Size: 1624
-Architecture: iphoneos-arm
-Description: Give the iDevices a fresh hack look with wallpaper matrix for XEN HTML
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Widgets
-MD5sum: 1df99db9850bea299473e65534aae1e3
-SHA1sum: 3b3692790061481e2ba36ae8d45d1980dffe984e
-SHA256sum: 59067539da5bbbeaaab5492b885d27e883f4f06b15271e0c400c764e402cf41e
-Filename: debs//com.iamgasgass.wallpapermatrix_0.1_iphoneos-arm.deb
-
-Package: com.iamgasgass.watchdogsxs
-Name: WatchDogs XS
-Version: 0.1.1
-Size: 69202
-Architecture: iphoneos-arm
-Depends: com.iamgasgass.resourcewidgetv3x
-Description: WatchDogs XS for XEN HTML
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Widgets
-MD5sum: 4512e07d7be9dddc611a612102513373
-SHA1sum: 4b47292ba4effafccf95f7c83d074a752d009488
-SHA256sum: 3852c56c0eecd84f49df111f9b8b89c5ba745c287bda80e0db09599f5d071273
-Filename: debs//com.iamgasgass.watchdogsxs_0.1.1_iphoneos-arm (1).deb
-
-Package: com.iamgasgass.termiusxs
-Name: TermiusXS
-Version: 1.1.2
-Size: 51614
-Architecture: iphoneos-arm
-Description: Widget terminal using macOS X up style, use dynamic data!:)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Widgets
-Depends: com.iamgasgass.resourcewidgetv3x
-MD5sum: e5b4d7c13901cb3ec1a2e69d8f46de9c
-SHA1sum: c9f380bd98ccb0b640e780fc3bf30bef73d95c4b
-SHA256sum: 2c23e3c54999d35bbe9077408bb2677efd3563ea3b3e30f00bfbeb2633da1df7
-Filename: debs//com.iamgasgass.termiusxs_1.1.2_iphoneos-arm.deb
-
-Package: com.iamgasgass.resourcewidgetv3x
-Name: ResourceWidgetV3.x
-Version: 3.x
-Size: 19128
-Architecture: iphoneos-arm
-Description: New feature, increase performance and more!:)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Widgets
-Depends: com.iamgasgass.weatheraccess
-MD5sum: 996a0fb6e110996606ba97899fed9e69
-SHA1sum: 6453ef02d3dbe9721e90ab1a53a2d73c86b0413b
-SHA256sum: 9c0c6c4b71a04f39e83dcc0347abae8a7070bd006030ba8847c0eb56591debbb
-Filename: debs//com.iamgasgass.resourcewidgetv3x_3.x_iphoneos-arm.deb
-
-Package: com.iamgasgass.weatheraccess
-Name: WeatherAccess
-Version: 0.0.1
-Size: 838
-Architecture: iphoneos-arm
-Description: Weather Access (forResourceWidgetv3)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Widgets
-Depends: com.iamgasgass.resourcewidgetv3x
-MD5sum: 37141ef8f5d30ec8790111034d42ccb8
-SHA1sum: b275d2fb8a2b279be3046c73299ffd16e5987b46
-SHA256sum: 470588b9fcef4cb33e472cc0add538c0c60cb55fb3cd5a8d03d290e57570b5fd
-Filename: debs//com.iamgasgass.weatheraccess_0.0.1_iphoneos-arm.deb
-
 Package: com.iamgasgass.classicswitcher3
 Name: ClassicSwitcher3
 Version: 0.3.5k
@@ -419,21 +272,6 @@ MD5sum: 3592e30353706e1adac40af2be3b6de2
 SHA1sum: f19948798765a18c9367244d53d98b25836b55c7
 SHA256sum: 18b871f9c7d7b72e1c5c4f6efc6db57358ca95191b63a7b11f40fd746817d025
 Filename: debs//com.iamgasgass.classicfolders2_2x.k_iphoneos-arm.deb
-
-Package: com.iamgasgass.tsssaver
-Name: TSS Saver
-Version: 0.1.2
-Size: 177712
-Architecture: iphoneos-arm
-Depends: com.modmyi.libswift4 (>= 4.0.3), firmware (>= 8.0)
-Description: A one-click tool save blobs using TSSsaver.1conan.com
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Utilities
-MD5sum: ef28f0e9b035fa79f5e62bd32901ed23
-SHA1sum: 73a5981bc477f22a817e478568a35cfa4a519155
-SHA256sum: 4152bd68aca332dca7ba97f18bdc4c416d0c8c5da83b55421f90eccef648ad9d
-Filename: debs//com.iamgasgass.tsssaver_0.1.2_iphoneos-arm.deb
 
 Package: com.iamgasgass.mimport
 Name: MImport
@@ -477,50 +315,6 @@ SHA1sum: 62101e82472776af70a26d17928436741b65d75c
 SHA256sum: a24fdeb525217bb08c18934951c8b6b8228e6d0044b9f3b95ae6458280116eac
 Filename: debs//com.iamgasgass.spotyhack.deb
 
-Package: com.iamgasgass.boxy3
-Name: Boxy 3
-Version: 3.4.2h4ck
-Size: 2774444
-Architecture: iphoneos-arm
-Description: Boxy3 ALT!:)
-Depends: mobilesubstrate, preferenceloader, com.chpwn.iconsupport
-Conflicts: info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 1a9ecdd32c0fc53cedd20c8437c85323
-SHA1sum: 721c8686544e500ea15bd0ec22e94e76996d0c28
-SHA256sum: d77c95bd0bcd30bce8632a2b5eed139ea507054d4b9794b6bbb04aa9ad1b7743
-Filename: debs//com.iamgasgass.boxy3_3.4.2h4ck_iphoneos-arm.deb
-
-Package: com.iamgasgass.tvAlert
-Name: tvAlert
-Version: 0.1.1
-Size: 134456
-Architecture: iphoneos-arm
-Description: tvOS style alerts, Palert alternative, INSTALL 0vigilate on iOS11-12! Compatible firmwares:8-12 w 0vigilate!:)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 861404c0a9dfdb767cbc4b1609a3292c
-SHA1sum: 9bef9d89dcd2b778c45d5aca73b1132d43f17f2d
-SHA256sum: 4e9b5844a8e7fddd9d042926fec52a281050423e8442955e1ea280be10233576
-Filename: debs//com.iamgasgass.tvAlert_0.1.1_iphoneos-arm.deb
-
-Package: com.iamgasgass.0vigilate
-Name: 0vigilate
-Version: 0.0.1
-Size: 2442
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: c856c1e7d5ee0d89e06551f65ac93efb
-SHA1sum: 9f2152146b5001d427da88d1acf3878fe3b5df32
-SHA256sum: 227b98ad6abdfc5e229a3cadb7d365d7600a78b1212365fba68983e17829c16b
-Filename: debs//com.iamgasgass.0vigilate_0.0.1_iphoneos-arm.deb
-
 Package: com.iamgasgass.betterccxi
 Name: BetterCCXI
 Version: 0.1.4.8
@@ -551,52 +345,6 @@ SHA1sum: 2158c34ab812bb800e4385c2a1f09c1f495302cb
 SHA256sum: 2a5bd7ef78fe307f440e21a2296e3137dc162bcce0180009d8d6b544f8a72c8a
 Filename: debs//com.iamgasgass.win10_1.2_iphoneos-arm.deb
 
-Package: com.iamgasgass.xeninfo
-Name: XenInfo
-Version: 2.2
-Size: 207322
-Architecture: iphoneos-arm
-Description: Music, Weather and battery info for XenHTML
-Depends: mobilesubstrate, firmware (>=9.0)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Addons
-MD5sum: f745c6a088e6c822df9f97ffd61f6045
-SHA1sum: 87ce2605fb95f07f42e20a552bbc53ad62e6800b
-SHA256sum: 004e0a9716684496e1a35eeea8480104ee01fd3a19f75f2cbed19130c5e6015a
-Filename: debs//com.iamgasgass.xeninfo_2.2_iphoneos-arm.deb
-
-Package: com.iamgasgass.pencilchargingindicator
-Name: PencilChargingIndicator
-Version: 0.1.2.6h4ck
-Size: 502666
-Architecture: iphoneos-arm
-Description: Make charging less boring with the Apple Pencil charging animation from the iPad Pro 2018.!:)
-Depends: mobilesubstrate
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: fa2422f0e3a0311a1896681b049d9eaf
-SHA1sum: 2412a08ad7e59f0a6f3b5a297e72f9b01931a7d6
-SHA256sum: 94a572778007be1b6795b14a640ff339c409ad2e1ef01407473118419d5d4874
-Filename: debs//com.iamgasgass.pencilchargingindicator_1.2.6h4ck_iphoneos-arm.deb
-
-Package: com.iamgasgass.xeon
-Name: Xeon
-Version: 1.2.4h4ck
-Size: 1041930
-Architecture: iphoneos-arm
-Description: Customize the iDevice with a pic on statusbar.
-Depends: mobilesubstrate, ws.hbang.common (>=1.11), firmware (>=11.0), cy+cpu.arm64, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1), com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker
-Conflicts: com.peterdev.xeon, org.cydia.kiimo.xeon
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: e19497ca7252c9635a949f4d3bee20b6
-SHA1sum: 1d448f07efb318760174a12902544d4289b4b7e8
-SHA256sum: 5b41ab631516579e0e0fa6911344e2436510935ec9e2859e0dcebcffb29af854
-Filename: debs//com.iamgasgass.xeon1.4h4ck.deb
-
 Package: com.iamgasgass.nox
 Name: Nox
 Version: 0.1.1.3
@@ -611,112 +359,6 @@ MD5sum: 2c00956a29414a6c1ed7d2e0f7199c2f
 SHA1sum: 0d7d77fc669c3a0758bfcd186af80bddf2396e69
 SHA256sum: d3aa8eed1645480dcb7fa63f83aef8b324481505ee0cc4b571d4d936568d7888
 Filename: debs//com.iamgasgass.nox_0.1.1.3_iphoneos-arm.deb
-
-Package: com.iamgasgass.fdark
-Name: FbDarkMode
-Version: 2.1.13
-Size: 579534
-Architecture: iphoneos-arm
-Description: Dark mode for Facebook.app
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: bb4e5af08fa66e69109f6149ceef9797
-SHA1sum: 1a47559432501107f120eeebf03e555e464be678
-SHA256sum: d9642febccaf6075274a4b6980a31b5c49c343a641ddbe40888cf2ba8b68a236
-Filename: debs//com.iamgasgass.fdark_2.1.13_iphoneos-arm.deb
-
-Package: com.iamgasgass.musicdark
-Name: Darkmusic
-Version: 0.1.2
-Size: 175442
-Architecture: iphoneos-arm
-Description: Dark mode for Music.app
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 24707e64de7f5e6140075ea67c4284c8
-SHA1sum: 91932f3b139293baab4788ac13f2dee5e6ef7638
-SHA256sum: 94c57376118a2859c55ae309b8918aff78c784ee7f6f9719b554d5c246837cbf
-Filename: debs//com.iamgasgass.musicdark_0.1.2_iphoneos-arm.deb
-
-Package: com.iamgasgass.jellyfish
-Name: Jellyfish
-Version: 1.2.1h4ck
-Size: 188880
-Architecture: iphoneos-arm
-Description: Modern lock screen for iOS 11 and above!:)
-Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
-Conflicts: applebetas.ios.tweak.time11, com.junesiphone.lockpluspro
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 0628d158e53dc6cc412cb8ccb7d4729d
-SHA1sum: 5b58025c2d97d5a05f89a0a45f2b2521b0c8faf7
-SHA256sum: 1d4091b9b39f6f54881c350136d7fa268d903097250b0634ea0515079a81118b
-Filename: debs//com.iamgasgass.jellyfish_1.2.1h4ck_iphoneos-arm.deb
-
-Package: com.iamgasgass.myriad
-Name: Myriad
-Version: 0.2.1.5h4ck
-Size: 1368106
-Architecture: iphoneos-arm
-Description: Split your screen like iPad on iOS devices!:)
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.0.3), com.spark.libsparkapplist, preferenceloader, jp.ashikase.techsupport
-Conflicts: com.spark.splitview
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 1c2d16e5289ff8c5a872a620525c9bb6
-SHA1sum: 321a9979dce7b390841c3049c5d2487c0408c36c
-SHA256sum: ab199c9399c63c458de8d738c7f153324294c0e0c0831a6ed29f388a10be302b
-Filename: debs//com.iamgasgass.myriad_0.2.1.5h4ck_iphoneos-arm.deb
-
-Package: com.iamgasgass.animoji122
-Name: Animoji12.2
-Version: 0.1.30
-Size: 3076370
-Architecture: iphoneos-arm
-Description: Put iOS 12.2 Animoji's on 12.0_12.1.2
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Addons
-MD5sum: e4786ee2994bec1a667ed5caa9aaa919
-SHA1sum: b255cbac7831b67508ef70f6af55ed56f3f0a85d
-SHA256sum: 107ce14a3cf30314f1130066a06b3127a15dec7f49166756ffd614a5836ccffe
-Filename: debs//com.iamgasgass.animoji122_0.1.30_iphoneos-arm.deb
-
-Package: com.iamgasgass.colorflow4
-Name: ColorFlow4
-Version: 1.2.1h4ck
-Size: 795670
-Architecture: iphoneos-arm
-Description: A new UI for the music time, colorize like you want.!:)
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 694cacc5aacb5c3b266ae5e2b9959935
-SHA1sum: 80af629fef6ace817422059fa90e9c11db9704a9
-SHA256sum: c56f0ba0b4976ea813254c394cdd7228abeb2b324b0236b6ae2cc024f94a5432
-Filename: debs//com.iamgasgass.colorflow4_1.2.1h4ck_iphoneos-arm.deb
-
-Package: com.iamgasgass.colorflow4a12
-Name: ColorFlow4 A12
-Version: 1.2.3h4ck
-Size: 913168
-Architecture: iphoneos-arm
-Description: A new UI for the music time, colorize like you want.!:)
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5.000), preferenceloader
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 6a178d2d4320e1cc6a2a06f9ddce2457
-SHA1sum: 75d1d0c271b7dfc382397c111b4f801debfffb69
-SHA256sum: 90ab5a34af1942b5aee7324303a9f00bb44c851a9bdeb83746c09297a479161a
-Filename: debs//com.iamgasgass.colorflow4a12_1.2.3h4ck_iphoneos-arm.deb
 
 Package: com.iamgasgass.deezehack
 Name: DeezeHack
@@ -763,39 +405,6 @@ SHA1sum: 48150ad000b97ed0900b6765b2d92c5b571ff501
 SHA256sum: 3e32f9059a03463d9e9f973feca4271bc01971a1d618e30fccab4dd632d9abe8
 Filename: debs//com.iamgasgass.mojavexs_10.14_iphoneos-arm.deb
 
-Package: com.iamgasgass.floatingdockplus
-Name: FloatingDockPlus
-Version: 1.3.4.1h4ck
-Size: 96224
-Architecture: iphoneos-arm
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.spark.libsparkapplist
-Conflicts: com.imkpatil.floatingdock, com.synnyg.floatydock
-Description: Enable native iPad dock on all iDevices!:) iOS 11 and up.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 073728e8b32fef65908b99f709e8a59b
-SHA1sum: cd5bd978df540a5bf3f7d0409701a259ac71c2bf
-SHA256sum: 5f3b594d81c8cc479863945d73548e370993104bc2c20921b2fd89018aac5926
-Filename: debs//com.iamgasgass.floatingdockplus_1.3.4.1h4ck_iphoneos-arm.deb
-
-Package: com.pulandres.myriad
-Name: Myriad
-Version: 0.2.6
-Size: 1410240
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, preferenceloader, jp.ashikase.techsupport, com.spark.libsparkapplist
-Conflicts: com.spark.splitview
-Replaces: com.spark.myriad
-Description: Split your screen
-Maintainer: iamgasgass <nick1710@live.it>
-Author: Spark
-Section: Tweaks
-MD5sum: b9040945b3868173de37b441aca7754e
-SHA1sum: 7e208bf22bc136b44113d2aff4b960c5427ad822
-SHA256sum: 08183164fd9a4842ba885d180fe51582022da3017c87791944fea2df79c9be90
-Filename: debs//com.pulandres.myriad_0.2.6_iphoneos-arm.deb
-
 Package: com.iamgasgass.iamosmavericks
 Name: iamOSMavericks
 Version: 0.1.4a
@@ -823,49 +432,6 @@ MD5sum: 148d8e09215c5e9f63106693c0817f23
 SHA1sum: e2705fd58c499e3e6a50606d4eb2c3aee214a35f
 SHA256sum: 578030ba4f0a09402f53a1255206b7f32fe41172e498558d6c5a6ff19b005bb0
 Filename: debs//com.iamgasgass.spotihackios6.deb
-
-Package: com.r333d.cylinder
-Name: Cylinder
-Version: 1.0.7~beta1
-Size: 515576
-Architecture: iphoneos-arm
-Description: A tweak that make your icons dance. Compiled by iamgasgass for arm64e!:)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: Reed Weichler
-Section: Tweaks
-MD5sum: b98cf1af3123610dae3d394416cb3446
-SHA1sum: f339882532c0fd6e436ceb0a626899edd8baff32
-SHA256sum: 171f98f3be6be87c2dc107985c8011389a971533a9f6121be539aaa50a090a96
-Filename: debs//cylinder.deb
-
-Package: com.iamgasgass.reportsnewhack
-Name: Reports+ For Instagram Hack
-Version: 0.0.2
-Size: 81418
-Architecture: iphoneos-arm
-Description: A tweak that hack the Reports+.app on AppStore. ENJOY
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: b62ba2d9865724099672115e41adcb3f
-SHA1sum: 06b8ca4c4cbc9b94c34a8b28631f1263c15b6823
-SHA256sum: b580b351d2d4803a6b0006e0b76e37deaae828b5ae42f0141865891f3765121a
-Filename: debs//com.iamgasgass.reporthack_0.0.deb
-
-Package: com.iamgasgass.scribb
-Name: Scribble
-Version: 1.0.3.1h4ck
-Size: 263240
-Architecture: iphoneos-arm
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, me.nepeta.libcolorpicker, ws.hbang.common (>= 1.11)
-Description: Draw your pattern code on iOS.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 3e000e1f84ba5f0e701f84179a920be1
-SHA1sum: 6b32fe24aa74e64274b4a906c5bc41376303f607
-SHA256sum: 247f94b94a251d0c091d259da8dacd4503052fc1da876628c3c5f21889e8e94f
-Filename: debs//com.iamgasgass.scribb_1.0.3.1h4ck.deb
 
 Package: com.iamgasgass.switchus
 Name: Switchus
@@ -896,21 +462,6 @@ MD5sum: d14bf07a6a193e1b15e45c0ed19e6446
 SHA1sum: 81cf07dcbbc0f3d4bfef7a68858a00ad30046450
 SHA256sum: 44c0a10462e9972f7c80ea08966458bea93765dbed4a2bf6b47e606509ebdd77
 Filename: debs//org.coolstar.classicdock_3.0.1_iphoneos-arm.deb
-
-Package: com.iamgasgass.noctis12
-Name: Noctis12
-Version: 1.6.6h4ck
-Size: 399964
-Architecture: iphoneos-arm
-Description: DarkMode everything.
-Depends: mobilesubstrate, preferenceloader, me.nepeta.libcolorpicker, com.laughingquoll.prefixui, com.spark.libsparkapplist, com.opa334.ccsupport, com.rpetrich.rocketbootstrap
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 5ec143fedd0978777ce296dbc5932727
-SHA1sum: 5db54b993022d7e2ddf4e5c81e26099d8e043950
-SHA256sum: 6485af32d68081e8ddc2b1f542f0ef7f5fdd944aa82d1d1b61ec092d01b45095
-Filename: debs//com.iamgasgass.noctis12_1.6.6h4ck_iphoneos-arm.deb
 
 Package: com.iamgasgass.carplay
 Name: CarBridge
@@ -998,24 +549,6 @@ SHA1sum: 0fee3ed3d5c8ce5984bdcd7a8b834d9b249fb0dc
 SHA256sum: 419f64660370fae1af320eb3f366ea36f6ef7fa25c4bc453da7e4d99cef39d38
 Filename: debs//com.iamgasgass.exsto_1.3_iphoneos-arm.deb
 
-Package: com.iamgasgass.ithemer
-Name: iThemer
-Version: 1.0.2.1
-Size: 183674
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Depends: mobilesubstrate, preferenceloader
-Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
-Provides: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
-Replaces: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 07c3ec8931b31242c3df149e0645fcdf
-SHA1sum: 1a84229734ff1184dd1b4ed906545e469f763971
-SHA256sum: e6e32754c1fe4df0ea365c5713ba068dac6e77f11e944dfa0f4cae10903f0dd2
-Filename: debs//com.iamgasgass.ithemer_1.0.2.1_iphoneos-arm.deb
-
 Package: com.iamgasgass.libertylite
 Name: LibertyLite (Beta)
 Version: 0.2.12
@@ -1030,38 +563,6 @@ MD5sum: 9532eb148bdbbe2b3cbc6c51c81afd2c
 SHA1sum: a067d5df9295c84f6c173ced5062aba1a18342bb
 SHA256sum: 499b32a7c1ab646c0408d1ad8d42b96d4c7da904a4084ad57a4476a708ca3dd0
 Filename: debs//com.iamgasgass.libertylite_0.2.12_iphoneos-arm.deb
-
-Package: com.iamgasgass.cconandoff
-Name: CC On & Off
-Version: 0.0.1.1
-Size: 5994
-Architecture: iphoneos-arm
-Description: RealCC ALT.
-Depends: mobilesubstrate, firmware (>= 11.0)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 8de7a63441575a7efef202b643bcdb91
-SHA1sum: be78d854d09e2aaa4cd885dfaead023d2ff6d104
-SHA256sum: e93081fd2bfb90bf72e4e35ec6c7e766214a1c7162bd7574c031392b87514e07
-Filename: debs//com.iamgasgass.cconandoff_0.0.1.1_iphoneos-arm.deb
-
-Package: com.iamgasgass.bazzi
-Name: Bazzi
-Version: 2.0.6
-Size: 33236
-Architecture: iphoneos-arm
-Description: Battery custom.
-Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, com.rpetrich.rocketbootstrap (>= 1.0.7~beta1)
-Conflicts: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: f46446e129d717bd75b3534552fb5f9c
-SHA1sum: 6e8859ca23426244554bec2c30d4ab29e6fc9fe9
-SHA256sum: 02cedb30b1c4188a794a288e072159127e721860e2e313a1a7a9ea7b73e263df
-Filename: debs//com.iamgasgass.bazzi_2.0.6_iphoneos-arm.deb
 
 Package: com.iamgasgass.switcherstyle
 Name: SwitcherStyle
@@ -1170,23 +671,6 @@ SHA1sum: 093c8d5250a012f2a0cad0ffb45d9c7a2407629e
 SHA256sum: 066299749ab5d1cca1aa37cb564432a48952a24d51ca9e04b91cf889e87d5e0a
 Filename: debs//com.iamgasgass.eclipse12_6.1.2.1_iphoneos-arm.deb
 
-Package: com.iamgasgass.icleanerpro
-Name: iCleaner Pro
-Version: 7.7.5
-Size: 3590732
-Architecture: iphoneos-arm
-Description: The legend iCleanerPro for iOS.
-Conflicts: org.altervista.exilecom.icleaner
-Replaces: org.altervista.exilecom.icleaner
-Depends: firmware (>= 4.0), findutils, shell-cmds, apt | apt7
-Maintainer: iamgasgass <nick1710@live.it>
-Author: Ivano Bilenchi <support@ib-soft.net>
-Section: Utilities
-MD5sum: 6d731961cf254c55d3ef52f3b262f2d1
-SHA1sum: 6b33cf9ecb0dba33a1858a78525cfaf3e6567125
-SHA256sum: b275f45c5f02696cf902076128a0ab6cb14bde3a1b8d46812df0240fb1df1daf
-Filename: debs//com.iamgasgass.icleanerpro_7.7.5_iphoneos-arm.deb
-
 Package: com.iamgasgass.autowall
 Name: AutoWall
 Version: 1.1
@@ -1201,21 +685,6 @@ MD5sum: 8889318d80e8d692e58b0775596fdb33
 SHA1sum: 8ffd4caaa54a550ffbe67c986431708976ef4bd5
 SHA256sum: 5a0327031b559a0534aa5ea29f5a1d05f5143a985970308f66b5e98659a3dda0
 Filename: debs//com.iamgasgass.autowall_0.1f_iphoneos-arm.deb
-
-Package: com.iamgasgass.betterccxi
-Name: BetterCCXI
-Version: 0.1.4.10
-Size: 62604
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader
-Description: Enhance your control center on iOS 11 & 12!:)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: d8e17ec5c60842e0fc043184f481aeed
-SHA1sum: fd3345af68689cf78ab1143ef51d8346e340fa7e
-SHA256sum: 0bd2d210d8796774ec4f1612b09113c60e5fb53399f60f8c6f17c806e5cd7655
-Filename: debs//com.iamgasgass.betterccxi_1.4.deb
 
 Package: com.iamgasgass.cardsbasic
 Name: iamOSCards
