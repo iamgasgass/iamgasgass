@@ -692,3 +692,32 @@ MD5sum: 7c4b5f16597e4eb5fe2f3102419f6b86
 SHA1sum: 9222b484fee2af6429d7d03e24a68ce6ae7fa2fb
 SHA256sum: e1a89f16a2f4ba95acd514983471c16a97863ce4e3cf94a2fe7a610a4160590a
 Filename: debs//com.iamgasgass.iamdroid_1.0_iphoneos-arm.deb
+
+Package: com.iamgasgass.ipadoswitcher
+Name: iPadOSwitcher
+Version: 1.1.0
+Size: 2716
+Architecture: iphoneos-arm
+Description: A tweak that allow you to enable iPadOS switcher on iOS 11 and above. no options to configure.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: fe86db12bda8e06fe21c9cf64264a025
+SHA1sum: fe9f73a051c1a4ee533938b7635266235e5c543d
+SHA256sum: 38e971ae2eb650229094ed0d827df417ec174e471fe992e6663ee4b08bd55371
+Filename: debs//com.iamgasgass.ipadoswitcher_1.1.0_iphoneos-arm.deb
+
+Package: com.iamgasgass.cylinderremade
+Name: Cylinder Remade
+Version: 0.0.3-beta
+Size: 104744
+Architecture: iphoneos-arm
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.60011), preferenceloader
+Description: Remade of the iconic Cylinder/barrel tweak, arm64e, all iOS 14+. Make your icons dance!
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: ebafcb222f4b0f0db1b8780ce019c69b
+SHA1sum: 84006f6fbaa0211c94a50ed91b6800552748c157
+SHA256sum: 775f16bf22689e15c0c8a6b474ac31cd551478b044e0cbbb9f1aa7a4bbad3b05
+Filename: debs//com.iamgasgass.cylinderremade_0.0.3-beta_iphoneos-arm.deb
