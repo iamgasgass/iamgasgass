@@ -40,49 +40,6 @@ SHA1sum: 8c0c701d77576470d35b67f6fc924507ea36428c
 SHA256sum: e17a0e221813423304f7ecc82e1c716f11c6e868daa83cf4a087fb6fc9dd05dc
 Filename: debs//com.iamgasgass.iamossixext_1.2_iphoneos-arm.deb
 
-Package: com.iamgasgass.iammodernxs
-Name: iamModernXS
-Version: 1.45
-Size: 9455872
-Architecture: iphoneos-arm
-Description: A fantastic theme based on iOS concept and adapted for iOSxx.x ENJOY.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Themes
-MD5sum: b47101cb2566ffc82c6d2ab2a431ee0f
-SHA1sum: a424926b4df751c0b497d9d0e86305caa0061a14
-SHA256sum: 8cc1b0b108524662df5bc5003084bf3b5b048a512799d8d8a3039a975b89e2c4
-Filename: debs//com.iamgasgass.iammodernxs_1.45_iphoneos-arm.deb
-
-Package: com.iamgasgass.osxsfull
-Name: OSXSFull
-Version: 0.2.1.1
-Size: 178042
-Architecture: iphoneos-arm
-Description: Combinated with iamOSXS this is the full macOS X up experience on iOS. It's compatible with XenHTML. ENJOY
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Widgets
-MD5sum: 2bf4c541b346ad7452e44e2ab77c5778
-SHA1sum: efdacabd16fbb9169ad0c43ecdf5e4a13dadce89
-SHA256sum: 7d47df48bad7dd9d950618b226191c228900ce4df46a4b7daa5710ae78ad5e72
-Filename: debs//com.iamgasgass.osxsfull_0.2.1.1_iphoneos-arm.deb
-
-Package: com.iamgasgass.coolbooter
-Name: CoolBooter
-Version: 0.1.5
-Size: 28631426
-Architecture: iphoneos-arm
-Depends: xpwn, zip, unzip, ldid, diskdev-cmds, firmware (>= 7.0)
-Description: CoolBooter is a new way to downgrade and dual boot for jailbroken iOS 32Bit.!:) iOS 7 up 10.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: System
-MD5sum: 76aa20d1960ba3d8d1fe6c413e06d8b3
-SHA1sum: e77a5ca71f07444468bba4f2d6f4c6ef83ccdba6
-SHA256sum: 620fb4394ea58470edd6e54194ff34eac91dc7654215de03c8e6d4d18279a1f9
-Filename: debs//com.iamgasgass.coolbooter_0.1.5_iphoneos-arm.deb
-
 Package: com.iamgasgass.hack10xto841
 Name: Hack iOS10.x to 8.4.1
 Version: 0.1h4ck
@@ -97,65 +54,6 @@ MD5sum: 44530ac2f2676deb46f6c7617ec546a2
 SHA1sum: 7aa40af5a4ee384bbe5ef92d44b77dd09731999a
 SHA256sum: ffeaea18da7120e0c440b71fba556935a66dd584c77a2dc688c4f2bf6041b75c
 Filename: debs//com.iamgasgass.hack10xto841_0.1h4ck_iphoneos-arm.deb
-
-Package: com.iamgasgass.login
-Name: Login
-Version: 1.0.4h4ck
-Size: 687906
-Architecture: iphoneos-arm
-Description: Unlock your device with OSX-style login screen!:)
-Depends: mobilesubstrate, preferenceloader, firmware (>= 8.0), com.bd452.libpass
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: ff90333d665c71421da4ed2851847451
-SHA1sum: 1ba1d16f0cc92253953dee3166864ff6d0b51f72
-SHA256sum: 232981d5d62e81502a4c35e03d0a74945612b63d0e0329380b5d375e91946f30
-Filename: debs//com.iamgasgass.login_1.0.4h4ck_iphoneos-arm.deb
-
-Package: com.iamgasgass.anchor
-Name: Anchor
-Version: 2.0.4h4ck
-Size: 132104
-Architecture: iphoneos-arm
-Description: Keep your icons where you want them.!:)
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware (>= 7.0), applist, com.chpwn.iconsupport
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: c4d2faf579071b42e95f89121dc42c02
-SHA1sum: 4ed09fff418c397d9156b823108f44d829c8c1c4
-SHA256sum: 44b648291ab594d8592be2cba03256a1dd092f257ed8ee8c0f249ce967e70641
-Filename: debs//com.iamgasgass.com.anchor_2.0.4h4ck_iphoneos-arm.deb
-
-Package: com.iamgasgass.BundleIDXS
-Name: BundleIDXS
-Version: 0.1.1.2
-Size: 106660
-Architecture: iphoneos-arm
-Depends: applist
-Description: This app allows you to see and copy with simply tap the Bundle ID's od the applications installed on your device.!:)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Utilities
-MD5sum: 5befa2818b05832fd7a682b9d09a20b6
-SHA1sum: 3be5c65b74e3c77174c17c8f01d3258ee2b5a956
-SHA256sum: 1509f15b386326a1f077780cec5a21b149338946b9b8332fb53ffbb37b6eca0d
-Filename: debs//com.iamgasgass.bundleidxs_0.1.1.2_iphoneos-arm.deb
-
-Package: com.iamgasgass.njsdesignx
-Name: NJ.'sdesignX
-Version: 0.10.88
-Size: 38406860
-Architecture: iphoneos-arm
-Description: Colourful explosions. Now with extra colour.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Themes
-MD5sum: 5f6ca195b5c39aa588475e4220872f01
-SHA1sum: c3eca29d6f6153a1e5b98848e0d4c68760651f60
-SHA256sum: 6ffe55c0ac9a1c227d9046846d06364d57ec03d7a63b7d04a7949d3fdc6701a0
-Filename: debs//com.iamgasgass.njsdesignx_iphoneos-arm.deb
 
 Package: com.iamgasgass.tupacrespring
 Name: TupacRespring
@@ -198,93 +96,6 @@ MD5sum: 3592e30353706e1adac40af2be3b6de2
 SHA1sum: f19948798765a18c9367244d53d98b25836b55c7
 SHA256sum: 18b871f9c7d7b72e1c5c4f6efc6db57358ca95191b63a7b11f40fd746817d025
 Filename: debs//com.iamgasgass.classicfolders2_2x.k_iphoneos-arm.deb
-
-Package: com.iamgasgass.mimport
-Name: MImport
-Version: 0.0.34a
-Size: 628460
-Architecture: iphoneos-arm
-Description: Media importer directly from Music.app!:)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 72debb34e91286dcf328c0548734bace
-SHA1sum: fc73282814bd9d221117d8b59bfa61320cfc7dca
-SHA256sum: 1e35e50d3a0d11e7cfb0fcc456812d4288e7cc93618df9e511a63b3911cfb13c
-Filename: debs//com.iamgasgass.mimport_0.0.34a_iphoneos-arm.deb
-
-Package: com.iamgasgass.fastuprepo
-Name: FastUpRepo
-Version: 0.0.4
-Size: 7720
-Architecture: iphoneos-arm
-Description: A tweak that enable supersonic refresh repo!:)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: System
-MD5sum: e788a1db65f738e81203fc6ee136901b
-SHA1sum: 10d2e6a8c5855f633c54626f508f275fa3bdc5e1
-SHA256sum: 0fc3a78cfaae26ff3bb0b4ff52bce709d6a176a3f67e37652630e6d297be3a72
-Filename: debs//com.iamgasgass.fastuprepo_0.deb
-
-Package: com.iamgasgass.spotihack
-Name: SpotiHack.
-Version: 0.0.pwn1
-Size: 58720
-Architecture: iphoneos-arm
-Description: A tweak that crack Spotify.app on AppStore. ENJOY
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: c4de2bf0960fa354719ff394ad65e2ff
-SHA1sum: 62101e82472776af70a26d17928436741b65d75c
-SHA256sum: a24fdeb525217bb08c18934951c8b6b8228e6d0044b9f3b95ae6458280116eac
-Filename: debs//com.iamgasgass.spotyhack.deb
-
-Package: com.iamgasgass.win10x8664
-Name: Win10x86_64
-Version: 0.1.2
-Size: 937996
-Architecture: iphoneos-arm
-Description: Windows 10 like lock screen for XenHTML
-Depends: firmware (>=10.0), com.matchstic.xenhtml, com.iamgasgass.xeninfo (>=2.0)
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Widgets
-MD5sum: fcb81822a57df7635680672ae17a3a88
-SHA1sum: 2158c34ab812bb800e4385c2a1f09c1f495302cb
-SHA256sum: 2a5bd7ef78fe307f440e21a2296e3137dc162bcce0180009d8d6b544f8a72c8a
-Filename: debs//com.iamgasgass.win10_1.2_iphoneos-arm.deb
-
-Package: com.iamgasgass.deezehack
-Name: DeezeHack
-Version: 0.1pwn
-Size: 31944
-Architecture: iphoneos-arm
-Description: Deezer Fully Premium Features, Unrestrict Music. Requires Deezer App (AppStore)! ENJOY.
-Depends: mobilesubstrate
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 6e8dbe50ef66df270e9b2dc8daa2f60c
-SHA1sum: f85b1bc7b204b7cc877a0d13eba635bda4c2d9a1
-SHA256sum: c3e6db13b3d42c8491dbc011a5ca183fd718c5d50dc8316d9057eb5e09a4fdad
-Filename: debs//com.iamgasgass.deezehack_0.5_iphoneos-arm.deb
-
-Package: com.iamgasgass.unique13
-Name: Unique13
-Version: 0.1.9
-Size: 5140358
-Architecture: iphoneos-arm
-Depends: firmware (>= 11.0)
-Description: A essential theme and concept of an iOS 13 redesign.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Themes
-MD5sum: 1d6362bd0e27c73c9f7f77c63ec27277
-SHA1sum: dad8aa4d3cf29981a9e49f3404fa5eefd46a25d9
-SHA256sum: 266aaa0ae75c9f923cf7691317430ce290ba1bba9b9389672afc15b4be0e7948
-Filename: debs//com.iamgasgass.unique13.deb
 
 Package: com.iamgasgass.mojavexs
 Name: MojaveXS
@@ -329,21 +140,6 @@ SHA1sum: e2705fd58c499e3e6a50606d4eb2c3aee214a35f
 SHA256sum: 578030ba4f0a09402f53a1255206b7f32fe41172e498558d6c5a6ff19b005bb0
 Filename: debs//com.iamgasgass.spotihackios6.deb
 
-Package: com.iamgasgass.switchus
-Name: Switchus
-Version: 1.3h4ck
-Size: 116158
-Architecture: iphoneos-arm
-Depends: firmware (>= 11.0), mobilesubstrate, applist
-Description: Choose what you do with your MultiTasking.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 1927c626f52dc11b57abf1c0b061bc1f
-SHA1sum: 214b1bfc97b3ba4f5a0d59eda9c29eb005f24f1f
-SHA256sum: 3ffa8926e083e46eea256d88fa00392ee8819ec519b1ce08a3142d4ec98b8ec3
-Filename: debs//com.iamgasgass.switchus_1.3h4ck_iphoneos-arm.deb
-
 Package: org.coolstar.classicdock
 Name: ClassicDock / ModernDock
 Version: 3.0.1
@@ -359,62 +155,6 @@ SHA1sum: 81cf07dcbbc0f3d4bfef7a68858a00ad30046450
 SHA256sum: 44c0a10462e9972f7c80ea08966458bea93765dbed4a2bf6b47e606509ebdd77
 Filename: debs//org.coolstar.classicdock_3.0.1_iphoneos-arm.deb
 
-Package: com.iamgasgass.essentialx
-Name: Essentialx
-Version: 1.3
-Size: 2328204
-Architecture: iphoneos-arm
-Description: Improve your iOS.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Themes
-MD5sum: b9b0bf22f646c847ace146a960c79187
-SHA1sum: 75bfc5f05f6df0c0254f0a6846ab67584a002bfc
-SHA256sum: ff7158d5a0ce110e6067cda400e5c96e76d850dc8d11e651def62cc0ca5ee3f2
-Filename: debs//com.iamgasgass.essentialx_1.3_iphoneos-arm.deb
-
-Package: com.iamgasgass.viola
-Name: Viola
-Version: 1.2
-Size: 28868744
-Architecture: iphoneos-arm
-Description: Colorize your fucking iOS.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Themes
-MD5sum: c09e57db8ea1d2a0672e0b9d27147206
-SHA1sum: fa239e753856fe0008ffa6a59291542d9a435567
-SHA256sum: 84b60df4ffe7898352bec7aa3901499695cebe39aa49473929360725739da48a
-Filename: debs//com.iamgasgass.viola_1.2_iphoneos-arm.deb
-
-Package: com.iamgasgass.amury
-Name: Amury
-Version: 1.8
-Size: 16318302
-Architecture: iphoneos-arm
-Description: Bring your iOS experience to life.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Themes
-MD5sum: 0dc76ca9acee0df64edaea4245f38a3b
-SHA1sum: aeb19d612f3fee94d331337880be8db5daa925d0
-SHA256sum: 2be3f0155f368f6dc35ef514fdf7ca4423590270f4ba6da3c37b3b5dcfb74907
-Filename: debs//com.iamgasgass.amury_1.8_iphoneos-arm.deb
-
-Package: com.iamgasgass.muze4
-Name: Muze 4
-Version: 1.4
-Size: 28692392
-Architecture: iphoneos-arm
-Description: Popular theme with 700+ icons.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Themes
-MD5sum: 07e4ea2dc5119af214df1b306075e6c4
-SHA1sum: 303d2175f441e30eb390e3812b075db3ce374be2
-SHA256sum: e078f1db052c39129ae6f63c7309909ea58e192cfaba4463ff26fe06d6e4c744
-Filename: debs//com.iamgasgass.muze4_1.4_iphoneos-arm.deb
-
 Package: com.iamgasgass.libertylite
 Name: LibertyLite (Beta)
 Version: 0.2.12
@@ -429,21 +169,6 @@ MD5sum: 9532eb148bdbbe2b3cbc6c51c81afd2c
 SHA1sum: a067d5df9295c84f6c173ced5062aba1a18342bb
 SHA256sum: 499b32a7c1ab646c0408d1ad8d42b96d4c7da904a4084ad57a4476a708ca3dd0
 Filename: debs//com.iamgasgass.libertylite_0.2.12_iphoneos-arm.deb
-
-Package: com.iamgasgass.switcherstyle
-Name: SwitcherStyle
-Version: 0.5.3
-Size: 39300
-Architecture: iphoneos-arm
-Description: Change the MultiTasking style.
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: d90deb37c8279b3a2a0c98d214328750
-SHA1sum: e91ceb5487b55c039cb01c90719a382e97715255
-SHA256sum: 1f024dc0a0852ff5b52cf57fec58ad573dce2bde8bcc3f7cde9625c1f4c67f73
-Filename: debs//com.iamgasgass.switcherstyle.deb
 
 Package: com.iamgasgass.macosindicator
 Name: macOSX Indicator
