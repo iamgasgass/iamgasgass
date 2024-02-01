@@ -155,21 +155,6 @@ SHA1sum: 81cf07dcbbc0f3d4bfef7a68858a00ad30046450
 SHA256sum: 44c0a10462e9972f7c80ea08966458bea93765dbed4a2bf6b47e606509ebdd77
 Filename: debs//org.coolstar.classicdock_3.0.1_iphoneos-arm.deb
 
-Package: com.iamgasgass.libertylite
-Name: LibertyLite (Beta)
-Version: 0.2.12
-Size: 82394
-Architecture: iphoneos-arm
-Description: Bypass jailbreak detection.
-Depends: mobilesubstrate, preferenceloader, applist
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Tweaks
-MD5sum: 9532eb148bdbbe2b3cbc6c51c81afd2c
-SHA1sum: a067d5df9295c84f6c173ced5062aba1a18342bb
-SHA256sum: 499b32a7c1ab646c0408d1ad8d42b96d4c7da904a4084ad57a4476a708ca3dd0
-Filename: debs//com.iamgasgass.libertylite_0.2.12_iphoneos-arm.deb
-
 Package: com.iamgasgass.macosindicator
 Name: macOSX Indicator
 Version: 1.1
@@ -404,20 +389,6 @@ SHA1sum: d8054f1542129a0bac0dcc0be830a8bd863f7aef
 SHA256sum: 726dfbab2e57d9bc22eec9b8a62fa229fc08c390ba70c589f6ae4afd83389502
 Filename: debs//iOSSixShad.deb
 
-Package: com.iamgasgass.iamDroid
-Name: iamDroid
-Version: 1.0
-Size: 4415200
-Architecture: iphoneos-arm
-Description: A new theme for iOS, android like.
-Maintainer: iamgasgass <nick1710@live.it>
-Author: iamgasgass <nick1710@live.it>
-Section: Themes
-MD5sum: 7c4b5f16597e4eb5fe2f3102419f6b86
-SHA1sum: 9222b484fee2af6429d7d03e24a68ce6ae7fa2fb
-SHA256sum: e1a89f16a2f4ba95acd514983471c16a97863ce4e3cf94a2fe7a610a4160590a
-Filename: debs//com.iamgasgass.iamdroid_1.0_iphoneos-arm.deb
-
 Package: com.iamgasgass.ipadoswitcher
 Name: iPadOSwitcher
 Version: 1.1.0
@@ -446,3 +417,33 @@ MD5sum: ebafcb222f4b0f0db1b8780ce019c69b
 SHA1sum: 84006f6fbaa0211c94a50ed91b6800552748c157
 SHA256sum: 775f16bf22689e15c0c8a6b474ac31cd551478b044e0cbbb9f1aa7a4bbad3b05
 Filename: debs//com.iamgasgass.cylinderremade_0.0.3-beta_iphoneos-arm.deb
+
+Package: com.iamgasgass.daynightswitch
+Name: DayNightSwitch
+Version: 1.0.2
+Size: 60452
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate
+Description: Add some style to your switches. Enable 'global' in settings.
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 0557da90763d58f1bb44c85d0bae4c0c
+SHA1sum: e39cbdac89d81a46a393bdbb214e4f6d0ee2b72c
+SHA256sum: 9d710cc5df7655f16bc68ec36b18a4dac919df5d443c430390e8d234d186a234
+Filename: debs//com.iamgasgass.daynightswitch_1.0.2_iphoneos-arm64.deb
+
+Package: com.iamgasgass.localiapstore13
+Name: LocalIAPStore13
+Version: 0.0.2
+Size: 2804
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Description: Free In-App Purchases include app iOS 13 bypass Lock iCloud (bypass verify Passcode, TouchID or FaceID). No options to configure!
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass <nick1710@live.it>
+Section: Tweaks
+MD5sum: 38d15454e3c399752d8a6a5139961424
+SHA1sum: 754542b4a9a9ec4b39e41e9beb7fc8622715e492
+SHA256sum: 8fbb7cef5141b391c850b3a846408ce39f4e0abfd93638bf75be57b930e2325a
+Filename: debs//com.iamgasgass.localiapstore13_0.0.2_iphoneos-arm.deb
