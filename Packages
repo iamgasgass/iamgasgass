@@ -447,3 +447,31 @@ MD5sum: 38d15454e3c399752d8a6a5139961424
 SHA1sum: 754542b4a9a9ec4b39e41e9beb7fc8622715e492
 SHA256sum: 8fbb7cef5141b391c850b3a846408ce39f4e0abfd93638bf75be57b930e2325a
 Filename: debs//com.iamgasgass.localiapstore13_0.0.2_iphoneos-arm.deb
+
+Package: com.iamgasgass.localiapstore13
+Name: LocalIAPStore13
+Version: 0.0.2
+Size: 3448
+Architecture: iphoneos-arm64
+Depends: mobilesubstrate, preferenceloader
+Description: In-App Purchase include app iOS 13 Bypass Lock iCloud (bypass verify Passcode, TouchID or FaceID). No options to configure
+Maintainer: iamgasgass <nick1710@live.it>
+Author: iamgasgass
+Section: Tweaks
+MD5sum: 1648d93fdf4080f98b31eff71af416a7
+SHA1sum: 70293155fa0c3ce1a6c752b7832363ba9a4b7eba
+SHA256sum: b0627d9e7d2fccd90da53d221248cb3d1dcd287a78c198162ce76f9c98998b34
+Filename: debs//localiapstore13_0.0.2_arm64.deb
+
+Package: com.iamgasgass.iamLinuxs
+Name: iamLinuxs
+Version: 1.0
+Size: 1545200
+Architecture: iphoneos-arm64
+Description: A Linux theme for iOS. This can be used beside to iamOSXS for a great experience.!
+Author: iamgasgass <nick1710@live.it>
+Section: Themes
+MD5sum: a0cd97b3e8b775667b235d658d2c8e74
+SHA1sum: 130321671c89fddbbd01e4bb15d0b19dfcac07e8
+SHA256sum: b5fb67069bc837a4edae2a1960df8a16aa03b77be9a0ef57f83af923ff566b95
+Filename: debs//iamlinuxs_1.0_arm64.deb
